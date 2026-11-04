@@ -103,6 +103,7 @@ SITES = [
 ]
 
 LIVROS += [
+ b('Ethics: The Fundamentals', 'Julia Driver', 'Introdução curta e clara às teorias normativas (utilitarismo, Kant, virtudes, contrato) e à metaética, com as objeções principais a cada uma. Um bom primeiro livro-texto.', INI),
  b('The Philosophy Gym', 'Stephen Law', 'Vinte e cinco problemas de filosofia em capítulos curtos e com diálogos, vários de ética: moralidade sem religião, punição, subjetivismo moral, comer animais. Ótimo para começar.', INI),
  b('Meaning in Life and Why It Matters', 'Susan Wolf', 'O que torna uma vida significativa: envolver-se com o que vale a pena. Curto e claro.', INTM),
  b('Meaning in Life', 'Thaddeus Metz', 'O tratado analítico sobre o sentido da vida: as teorias rivais e uma proposta própria.', AVA),
