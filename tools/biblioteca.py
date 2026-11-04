@@ -87,6 +87,7 @@ SITES = [
  ('Utilitarianism.net', 'https://utilitarianism.net/', 'Introdução completa ao utilitarismo, com objeções e respostas, por Chappell, Meissner e MacAskill.', S1, INT),
  ('Animal Ethics (Ética Animal)', 'https://www.animal-ethics.org/pt/', 'Textos em português sobre senciência, especismo, teorias éticas e o sofrimento dos animais selvagens.', S2, NAC),
  ('Senciência e Ética', 'https://senciencia.org/', 'Projeto de Luciano Carlos Cunha: textos sobre ética animal, metaética, motivação moral e o sofrimento dos animais na natureza.', S2, NAC),
+ ('EthicsNet', 'https://ethicsnet.org/', 'Organização sem fins lucrativos, desde 2016, que publica ferramentas e pesquisa abertas sobre alinhamento de IA e sobre o bem-estar de mentes artificiais: o que devemos aos sistemas que podem vir a ter interesses.', S2, INT),
  ('Sentientism', 'https://sentientism.info/', 'Site e podcast sobre o sencientismo: evidência, razão e compaixão por todos os seres sencientes.', S2, INT),
  ('Sentience Institute', 'https://www.sentienceinstitute.org/', 'Pesquisa sobre a expansão do círculo moral, incluindo animais e mentes artificiais.', S2, INT),
  ('Declaração de Nova York sobre Consciência Animal', 'https://sites.google.com/nyu.edu/nydeclaration/declaration', 'O texto de 2024 assinado por centenas de cientistas, com a lista de evidências.', S2, INT),
