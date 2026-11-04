@@ -103,6 +103,7 @@ SITES = [
 ]
 
 LIVROS += [
+ b('The Philosophy Gym', 'Stephen Law', 'Vinte e cinco problemas de filosofia em capítulos curtos e com diálogos, vários de ética: moralidade sem religião, punição, subjetivismo moral, comer animais. Ótimo para começar.', INI),
  b('Meaning in Life and Why It Matters', 'Susan Wolf', 'O que torna uma vida significativa: envolver-se com o que vale a pena. Curto e claro.', INTM),
  b('Meaning in Life', 'Thaddeus Metz', 'O tratado analítico sobre o sentido da vida: as teorias rivais e uma proposta própria.', AVA),
  b('Epistemic Injustice', 'Miranda Fricker', 'O livro que nomeou a injustiça de não ser acreditado e a de não ter palavras para a própria experiência.', AVA),
