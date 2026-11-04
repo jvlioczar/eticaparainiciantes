@@ -3,7 +3,7 @@ D[slug] = dict(obj=[3 objetivos], caso=(situação, pergunta, o que a lição re
 pre=[lições que convém ler antes], quiz=[(pergunta, opções, índice certo, explicação), ...])."""
 D1 = {
 'o-que-e-etica': dict(
- obj=['Distinguir as três perguntas da ética: como agir, quem conta e o que é um juízo moral.', 'Separar ética descritiva (o que as pessoas acham) de ética normativa (o que se deve achar).', 'Explicar por que “cada um tem a sua ética” não resiste a um caso de crueldade gratuita.'],
+ obj=['Dizer o que é ética: a área da filosofia que analisa a moral, também chamada de filosofia moral.', 'Distinguir as três perguntas da ética: como agir, quem conta e o que é um juízo moral.', 'Separar ética descritiva (o que as pessoas acham) de ética normativa (o que se deve achar) e explicar por que “cada um tem a sua ética” não resiste a um caso de crueldade gratuita.'],
  caso=('Numa conversa, alguém diz: “ética é como gosto musical: cada um tem a sua, e não dá para discutir”.', 'Você concorda? Que exemplo mostraria se a frase se sustenta?', 'Torturar uma criança por diversão não é “questão de gosto” para quem diz a frase. Juízos morais pedem razões, e razões podem ser boas ou ruins: é isso que torna a ética um assunto que se estuda. A lição separa a descrição dos costumes da pergunta normativa.'),
  erro=('“Ética é um conjunto de regras que alguém escreveu.”', 'Ética é um jeito de pensar, não um código: a pergunta “como devo agir, e por quê?”, aberta a razões. Códigos (leis, mandamentos, regulamentos) são respostas possíveis, que a ética examina.'),
  ferr='fato-ou-valor', pre=[],

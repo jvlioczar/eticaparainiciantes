@@ -10,8 +10,8 @@ SINGER_PE = ('Ética Prática', 'https://www.google.com/search?tbm=bks&q=Peter+S
 RACHELS = ('Os Elementos da Filosofia Moral', 'https://www.google.com/search?tbm=bks&q=Rachels+Os+Elementos+da+Filosofia+Moral')
 
 INICIANTE = [
-dict(slug='o-que-e-etica', grupo='O básico', titulo='O que é ética?', resumo='Ética é o estudo de como devemos agir e de como devemos tratar os outros. Não é um manual de regras, e sim um jeito de pensar.', corpo='''
-<p class="abre">Ética é a reflexão sobre como devemos viver e agir: o que é certo e errado, o que devemos aos outros, quem merece nossa consideração e por quê.</p>
+dict(slug='o-que-e-etica', grupo='O básico', titulo='O que é ética?', resumo='Ética é a área da filosofia que analisa a moral, também chamada de filosofia moral: o estudo de como devemos agir e tratar os outros.', corpo='''
+<p class="abre">Ética é a área da filosofia dedicada à análise da moral, e por isso também é chamada de filosofia moral. É a reflexão sobre como devemos viver e agir: o que é certo e errado, o que devemos aos outros, quem merece nossa consideração e por quê.</p>
 <p>Todo mundo já tem uma ética, mesmo sem nunca ter lido um filósofo. Quando você acha injusto que alguém fure a fila, quando se sente culpado por uma mentira ou quando se indigna com um caso de crueldade, você está fazendo juízos morais. O estudo da ética não inventa esses juízos. Ele os organiza, os testa e pergunta se eles se sustentam.</p>
 <h2>Três perguntas que a ética faz</h2>
 <div class="tres">
@@ -45,7 +45,7 @@ dict(slug='o-que-e-etica', grupo='O básico', titulo='O que é ética?', resumo=
 dict(slug='etica-moral-lei-e-religiao', grupo='O básico', titulo='Ética, moral, lei e religião: não são a mesma coisa', resumo='Legal não quer dizer certo, e proibido não quer dizer errado. Entenda o que cada palavra faz e por que separá-las evita confusão.', corpo='''
 <p class="abre">Quatro coisas costumam ser misturadas: o que a lei permite, o que a religião manda, o que os costumes aprovam e o que é certo. Elas se influenciam, mas não são a mesma coisa.</p>
 <h2>Ética e moral</h2>
-<p>No uso comum, as duas palavras são quase sinônimas. Em filosofia, muitos reservam <strong>moral</strong> para o conjunto de valores e normas que uma pessoa ou grupo segue, e <strong>ética</strong> para a reflexão sobre esses valores. Neste curso, usamos as duas de forma solta, como a maioria dos autores faz hoje. O que importa é a diferença entre <em>ter</em> valores e <em>examiná-los</em>.</p>
+<p>No uso comum, as duas palavras são quase sinônimas. Em filosofia, muitos reservam <strong>moral</strong> para o conjunto de valores e normas que uma pessoa ou grupo segue, e <strong>ética</strong> para a área da filosofia que analisa esses valores, também chamada de filosofia moral. Neste curso, usamos as duas de forma solta, como a maioria dos autores faz hoje. O que importa é a diferença entre <em>ter</em> valores e <em>examiná-los</em>.</p>
 <h2>Lei não é moral</h2>
 <p>A lei é um conjunto de regras com força do Estado. Ela tenta refletir a moral de uma sociedade, mas falha de dois jeitos:</p>
 <table><thead><tr><th>Caso</th><th>Legal?</th><th>Moralmente certo?</th></tr></thead><tbody>

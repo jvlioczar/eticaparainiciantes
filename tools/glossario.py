@@ -2,7 +2,7 @@
 GRUPOS_G = ['Fundamentos', 'Teorias normativas', 'Círculo moral', 'Metaética', 'Mente e método']
 G1, G2, G3, G4, G5 = GRUPOS_G
 GLOSSARIO = [
- (G1, 'Ética', 'A reflexão sobre como devemos agir e tratar os outros. No uso técnico, o estudo da moral; no uso comum, sinônimo dela.', 'o-que-e-etica.html'),
+ (G1, 'Ética', 'A área da filosofia dedicada à análise da moral, também chamada de filosofia moral: a reflexão sobre como devemos agir e tratar os outros. No uso comum, sinônimo de moral.', 'o-que-e-etica.html'),
  (G1, 'Moral', 'O conjunto de valores e normas que uma pessoa ou grupo segue. A ética examina a moral.', 'o-que-e-etica.html'),
  (G1, 'Ética normativa', 'A parte da ética que pergunta o que torna uma ação certa ou errada e como devemos agir.', 'mapa-das-teorias.html'),
  (G1, 'Ética descritiva', 'O estudo do que pessoas e culturas de fato consideram certo, sem julgar. Trabalho de antropólogos e psicólogos.', 'o-que-e-etica.html'),
