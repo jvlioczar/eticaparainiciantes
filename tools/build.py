@@ -1,6 +1,7 @@
 """Gera todas as páginas do site. Uso: python tools/build.py"""
 import json, os, re, sys, unicodedata
 from html import escape as e
+from crossover import caixa_etica  # ponte com o site irmão (tools/crossover.py, igual nos dois sites)
 from urllib.parse import quote
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from licoes_iniciante import INICIANTE
@@ -59,7 +60,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = 'https://eticaparainiciantes.biblioverse.org'
 NOME = 'Ética Para Iniciantes'
 EXT = 'target="_blank" rel="noopener"'
-ATUALIZADO = '2026-11-05'
+ATUALIZADO = '2026-11-06'
 INTERMEDIARIO.extend(INTERMEDIARIO_B)
 # ética animal passa para o Avançado (pedido de 2026-11-03); as lições novas entram depois da lição indicada em POSICAO
 AVANCADO.extend([l for l in INTERMEDIARIO if l['grupo'] == 'Ética animal']); INTERMEDIARIO[:] = [l for l in INTERMEDIARIO if l['grupo'] != 'Ética animal']
@@ -170,6 +171,9 @@ def page(path, title, desc, corpo, atual='', home=False):
     erro = path == '404.html'
     desc = desc_seo(path, desc)
     corpo = titulos_ok(corpo)
+    _cx = caixa_etica(path, e)  # caixa do site irmão, antes do bloco de páginas relacionadas
+    _i = corpo.rfind('<section class="relac"')
+    corpo = corpo[:_i] + _cx + corpo[_i:] if _i >= 0 else corpo + _cx
     pre = '../' * path.count('/')
     url = SITE + '/' + ('' if path == 'index.html' else path)
     full = title if home else f'{title} | {NOME}'
