@@ -126,13 +126,18 @@ PAIS_NIVEL = {'iniciante.html': 'Iniciante', 'intermediario.html': 'Intermediár
 HUB_DE = {'teorias.html': 'Teorias éticas', 'criterios.html': 'Critérios éticos', 'metaetica.html': 'Metaética', 'debates.html': 'Debates'}
 HUBS = {'catalogo.html', 'iniciante.html', 'intermediario.html', 'avancado.html', 'teorias.html', 'criterios.html', 'metaetica.html', 'debates.html', 'dilemas.html', 'filosofos.html', 'ferramentas.html', 'biblioteca.html', 'sites.html', 'glossario.html'}
 
+DESC_CURTA = {'debates/apostas.html': 'Apostas por celular, cassinos e loterias do Estado: entre o direito de arriscar o próprio dinheiro e uma indústria desenhada para explorar o vício.', 'debates/fins-e-meios.html': 'Os fins justificam os meios? Maquiavel, Trótski, Dewey e os deontologistas sobre a frase mais citada da ética, e por que a resposta é “às vezes”.', 'debates/obra-e-artista.html': 'Ouvir, ler e pagar por obras de quem fez coisas terríveis: o que a ética diz sobre a obra, o consumo e o que muda quando o autor está vivo.', 'debates/terrorismo.html': 'Matar civis para forçar uma mudança política: a definição de terrorismo, a diferença para a guerra e a resistência, e por que quase todos o condenam.', 'debates/trabalho.html': 'Quem não trabalha não merece comer? Entre a ética do trabalho, o direito à preguiça e o que devemos a quem não pode trabalhar.', 'etica-da-inteligencia-artificial.html': 'Justiça, transparência, responsabilidade, privacidade, armas, trabalho e o estatuto moral das máquinas: o mapa das perguntas éticas da IA.', 'etica-feminista.html': 'De Wollstonecraft a Okin e Nussbaum: a crítica à ética feita por e para homens, a esfera privada, a autonomia relacional e a interseccionalidade.', 'filosofos/iris-young.html': 'Iris Young, filósofa da opressão e da injustiça estrutural: as cinco faces da opressão e um modelo de responsabilidade coletiva voltado ao futuro.', 'filosofos/susan-wolf.html': 'Susan Wolf, filósofa da vida moral e do sentido: por que uma vida só dedicada à moral seria pobre, e o que torna uma vida significativa.', 'identidade-pessoal-e-etica.html': 'Se o “eu” de daqui a trinta anos é só alguém ligado a mim por memória e caráter, o que muda na prudência, no egoísmo e na punição?', 'moralidade-sem-religiao.html': '“Se Deus não existe, tudo é permitido”? O que fundamenta a moral de quem não crê e o que a evidência mostra sobre sociedades seculares.', 'teorias/jainismo.html': 'Jainismo: a tradição indiana que levou a não violência mais longe. Todo ser vivo tem alma e sofre, e o dever primeiro é não ferir nenhum.', 'um-cenario-melhor-ou-o-melhor.html': '“Melhorou” não é “ficou bom”, e “bom” não é “o melhor possível”: comparar com o passado ou com as alternativas reais muda muitas decisões.'}  # descrições escritas à mão para páginas cujo resumo passa de 160 caracteres
 def desc_seo(path, desc):
     d = re.sub(r'\s+', ' ', re.sub('<[^>]+>', '', desc)).strip()
     if d and d[-1] not in '.!?…': d += '.'
     if len(d) < 70:
         sec = SECOES.get(path.split('/')[0]) if '/' in path else None
         d += ' ' + (sec[2] if sec else 'Explicação simples e com fontes, sem escolher time.')
-    if len(d) > 160: d = d[:157].rsplit(' ', 1)[0].rstrip(' ,;:') + '…'
+    if len(d) > 160 and path in DESC_CURTA: d = DESC_CURTA[path]
+    if len(d) > 160:
+        # prefere terminar numa frase inteira a cortar no meio
+        fim = max(d.rfind(x, 0, 160) for x in ('. ', '? ', '! '))
+        d = d[:fim + 1] if fim >= 69 else d[:157].rsplit(' ', 1)[0].rstrip(' ,;:') + '…'
     return d
 
 def dados(path, title, desc, url, atual, home):
