@@ -43,6 +43,8 @@ ICONES = {
  'ponto': lambda: c(32, 32, 24, 'gA') + c(32, 32, 14, 'gL') + c(32, 32, 6, 'gC'),
  'rede': lambda: ''.join(c(14 + 12 * (i % 4), 16 + 12 * (i // 4), 5, ['gC', 'gA', 'gV'][i % 3]) for i in range(12)),
 }
+_ICO = [0]
 def icone(n):
-    return f'<svg class="ico" viewBox="0 0 64 64" aria-hidden="true">{DEFS.replace("gC", "gC" + n).replace("gV", "gV" + n).replace("gA", "gA" + n).replace("gL", "gL" + n)}{ICONES[n]().replace("#gC", "#gC" + n).replace("#gV", "#gV" + n).replace("#gA", "#gA" + n).replace("#gL", "#gL" + n)}</svg>'
+    _ICO[0] += 1; k = f'{n}{_ICO[0]}'
+    return f'<svg class="ico" viewBox="0 0 64 64" aria-hidden="true">{DEFS.replace("gC", "gC" + k).replace("gV", "gV" + k).replace("gA", "gA" + k).replace("gL", "gL" + k)}{ICONES[n]().replace("#gC", "#gC" + k).replace("#gV", "#gV" + k).replace("#gA", "#gA" + k).replace("#gL", "#gL" + k)}</svg>'
 LOGO = '<svg viewBox="0 0 40 40" width="34" height="34" aria-hidden="true"><defs><linearGradient id="lgA" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#e4615f"/><stop offset="1" stop-color="#f5b35b"/></linearGradient><linearGradient id="lgB" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#2fa08a"/><stop offset="1" stop-color="#e3d26a"/></linearGradient><linearGradient id="lgC" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#6a63d9"/><stop offset="1" stop-color="#86c5e8"/></linearGradient></defs><circle cx="20" cy="20" r="17" fill="none" stroke="url(#lgC)" stroke-width="4"/><circle cx="20" cy="20" r="10" fill="none" stroke="url(#lgB)" stroke-width="4"/><circle cx="20" cy="20" r="4" fill="url(#lgA)"/></svg>'

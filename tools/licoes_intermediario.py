@@ -17,7 +17,7 @@ dict(slug='utilitarismo-classico', grupo='Consequencialismo por dentro', titulo=
 <tr><td><a href="teorias/consequencialismo-de-regras.html">De regras</a></td><td>Siga as regras que, aceitas por todos, produzem mais bem</td><td>Previsível; protege a confiança</td><td>Pode mandar seguir a regra quando quebrá-la seria melhor</td></tr>
 <tr><td>Dois níveis</td><td>Regras no dia a dia, cálculo direto só em casos extremos ou novos</td><td>Junta as duas vantagens</td><td>Quem decide quando o caso é extremo?</td></tr>
 </tbody></table>
-<p>R. M. Hare defendeu a versão de dois níveis: pensamos como “prolas”, seguindo regras boas, e só como “arcanjos”, calculando tudo, quando as regras falham. É como a maioria dos utilitaristas pensa hoje.</p>
+<p>R. M. Hare defendeu a versão de dois níveis: pensamos como “proles”, seguindo regras boas, e só como “arcanjos”, calculando tudo, quando as regras falham. É como a maioria dos utilitaristas pensa hoje.</p>
 <h2>O que conta como bem-estar</h2>
 <ul>
 <li><strong>Hedonismo:</strong> prazer e ausência de dor, como em Bentham.</li>

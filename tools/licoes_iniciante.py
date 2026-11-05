@@ -255,7 +255,7 @@ dict(slug='egoismo-relativismo-e-ceticismo', grupo='As grandes famílias', titul
 <li><strong>Quase ninguém o defende em público:</strong> o egoísta que convence os outros a serem altruístas vive melhor. Uma teoria que não pode ser recomendada tem algo errado.</li>
 </ul>
 <h2>Relativismo moral</h2>
-<p>O relativismo <em>descritivo</em> observa que sociedades diferem sobre o que é certo. É verdade, embora menos do que parece: proibições a matar, roubar e traiçoar aparecem em todas, e as diferenças costumam estar nos fatos (“o que acontece depois da morte?”) e no círculo de quem conta. O relativismo <em>normativo</em> vai além: diz que cada cultura, ou cada pessoa, tem a sua verdade moral, e que não cabe julgar de fora.</p>
+<p>O relativismo <em>descritivo</em> observa que sociedades diferem sobre o que é certo. É verdade, embora menos do que parece: proibições de matar, roubar e trair aparecem em todas, e as diferenças costumam estar nos fatos (“o que acontece depois da morte?”) e no círculo de quem conta. O relativismo <em>normativo</em> vai além: diz que cada cultura, ou cada pessoa, tem a sua verdade moral, e que não cabe julgar de fora.</p>
 <table><thead><tr><th>O que o relativismo acerta</th><th>Onde falha</th></tr></thead><tbody>
 <tr><td>Humildade: nossa cultura também tem pontos cegos</td><td>Impede dizer que a escravidão era errada, e não só “diferente”</td></tr>
 <tr><td>Muita coisa é mesmo convenção, como vestir-se ou comer</td><td>Trata o sofrimento de uma vítima como “cultura” de quem a oprime</td></tr>

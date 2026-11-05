@@ -59,7 +59,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = 'https://eticaparainiciantes.biblioverse.org'
 NOME = 'Ética Para Iniciantes'
 EXT = 'target="_blank" rel="noopener"'
-ATUALIZADO = '2026-11-04'
+ATUALIZADO = '2026-11-05'
 INTERMEDIARIO.extend(INTERMEDIARIO_B)
 # ética animal passa para o Avançado (pedido de 2026-11-03); as lições novas entram depois da lição indicada em POSICAO
 AVANCADO.extend([l for l in INTERMEDIARIO if l['grupo'] == 'Ética animal']); INTERMEDIARIO[:] = [l for l in INTERMEDIARIO if l['grupo'] != 'Ética animal']
@@ -208,13 +208,14 @@ def page(path, title, desc, corpo, atual='', home=False):
 {f'<meta property="article:modified_time" content="{ATUALIZADO}"/>' if artigo else ''}
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="theme-color" content="#1f5a4c"/>
+<link rel="icon" href="{pre}favicon.ico" sizes="32x32"/>
 <link rel="icon" href="{pre}assets/icon.svg" type="image/svg+xml"/>
 <link rel="apple-touch-icon" href="{pre}assets/icon-180.png"/>
 <link rel="manifest" href="{pre}manifest.webmanifest"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Fraunces:ital,opsz,wght,SOFT@0,9..144,400,100;0,9..144,600,100;0,9..144,700,100;1,9..144,500,100&display=swap"/>
-<link rel="stylesheet" href="{pre}assets/style.css"/>
+<link rel="stylesheet" href="{pre}assets/style.min.css?v={VERSAO}"/>
 <script src="https://biblioverse.org/superbar.js" async></script>
 </head>
 <body data-base="{pre}">
@@ -227,15 +228,16 @@ def page(path, title, desc, corpo, atual='', home=False):
 <button class="bbusca" type="button" aria-label="Buscar no site">🔍<span> Buscar</span> <kbd>Ctrl K</kbd></button>
 <button class="hamb" type="button" aria-label="Abrir menu" aria-expanded="false">☰</button>
 </div></header>
-<div id="busca" hidden><div class="bcx" role="dialog" aria-label="Buscar no site"><input id="q" type="search" placeholder="Busque um tema, teoria ou filósofo" autocomplete="off"/><div class="res" id="res"></div></div></div>
+<div id="busca" hidden><div class="bcx" role="dialog" aria-label="Buscar no site"><input id="q" type="search" placeholder="Busque um tema, teoria ou filósofo" aria-label="Buscar no site" autocomplete="off"/><div class="res" id="res"></div></div></div>
 <main id="main">{corpo}</main>
 <footer class="rodape"><div class="wrap rodape-in">
-<div><strong>{NOME}</strong><p>Explicações objetivas e simples sobre ética, do básico ao avançado. Com fontes e aberto a correções.</p><p>Parte da <a href="https://biblioverse.org">BiblioVerse</a>.</p></div>
+<div><strong>{NOME}</strong><p>Explicações objetivas e simples sobre ética, do básico ao avançado. Com fontes e aberto a correções.</p><p>Parte da <a href="https://biblioverse.org">BiblioVerse</a>.</p><p class="copy">© {ATUALIZADO[:4]} BiblioVerse. Atualizado em {ATUALIZADO[8:10]}/{ATUALIZADO[5:7]}/{ATUALIZADO[:4]}.</p></div>
 <div><p class="ti">Aprender</p><ul><li>{l('comece-aqui.html', 'Comece aqui')}</li><li>{l('iniciante.html', 'Iniciante')}</li><li>{l('intermediario.html', 'Intermediário')}</li><li>{l('avancado.html', 'Avançado')}</li><li>{l('trilhas.html', 'Trilhas por tema')}</li><li>{l('catalogo.html', 'Todas as lições')}</li><li>{l('minha-posicao.html', 'Minha posição')}</li></ul></div>
 <div><p class="ti">Ideias</p><ul><li>{l('teorias.html', 'Teorias éticas')}</li><li>{l('criterios.html', 'Critérios éticos')}</li><li>{l('metaetica.html', 'Metaética')}</li><li>{l('dilemas.html', 'Dilemas clássicos')}</li><li>{l('debates.html', 'Debates')}</li><li>{l('filosofos.html', 'Filósofos morais')}</li><li>{l('glossario.html', 'Glossário')}</li><li><a href="https://ethicstest.biblioverse.org/" {EXT}>Teste de Visão Moral</a></li></ul></div>
 <div><p class="ti">Mais</p><ul><li>{l('ferramentas.html', 'Ferramentas')}</li><li>{l('biblioteca.html', 'Biblioteca')}</li><li>{l('sites.html', 'Sites sobre ética')}</li><li><a href="https://politicaparainiciantes.biblioverse.org/" {EXT}>Política Para Iniciantes</a></li><li>{l('sobre.html', 'Sobre')}</li><li>{l('privacidade.html', 'Política de privacidade')}</li></ul></div>
 </div></footer>
-<script src="{pre}assets/app.js" defer></script>
+<noscript><p class="nojs">A leitura funciona sem JavaScript. A busca, os menus suspensos, os testes e as ferramentas interativas precisam dele; o rodapé tem links para todas as seções.</p></noscript>
+<script src="{pre}assets/app.min.js?v={VERSAO}" defer></script>
 </body></html>
 '''
     html = html.replace('href="index.html"', 'href="./"').replace('href="../index.html"', 'href="../"')
@@ -339,9 +341,9 @@ def glossa(h, titulo, maximo=6):
     return ''.join(partes)
 def lista_mais(rotulo, links, pre='', n=6):
     if not links: return ''
-    saida = f'<p><strong>{rotulo}:</strong> ' + ', '.join(links[:n])
+    saida = f'<div class="lista-mais"><strong>{rotulo}:</strong> ' + ', '.join(links[:n])
     if len(links) > n: saida += f' <details class="mais"><summary>e mais {len(links) - n}</summary><span>' + ', '.join(links[n:]) + '</span></details>'
-    return saida + '.</p>'
+    return saida + '.</div>'
 def bloco_didatico(l):
     d = DID[l['slug']]
     pre = ', '.join(f'<a href="{p}.html">{e(next(x["titulo"] for x in TODAS if x["slug"] == p))}</a>' for p in d['pre'])
@@ -710,6 +712,18 @@ def arquivos():
     page('404.html', 'Página não encontrada', 'Esta página não existe.', cabeca('Erro 404', 'Página não encontrada', 'Volte para o <a href="/" style="color:#fff">início</a> ou use a busca.'))
 
 os.makedirs(os.path.join(ROOT, 'assets'), exist_ok=True)
+def minifica():
+    import hashlib
+    try:
+        import rcssmin, rjsmin
+        cm, jm = rcssmin.cssmin, rjsmin.jsmin
+    except ImportError:
+        cm = jm = lambda s: s
+    css = open(os.path.join(ROOT, 'assets', 'style.css'), encoding='utf-8').read(); js = open(os.path.join(ROOT, 'assets', 'app.js'), encoding='utf-8').read()
+    open(os.path.join(ROOT, 'assets', 'style.min.css'), 'w', encoding='utf-8', newline='\n').write(cm(css))
+    open(os.path.join(ROOT, 'assets', 'app.min.js'), 'w', encoding='utf-8', newline='\n').write(jm(js))
+    return hashlib.sha1((css + js).encode()).hexdigest()[:8]
+VERSAO = minifica()
 inicio(); comece(); catalogo(); trilhas(); minha_posicao()
 for s, r, ls, t, d, g in NIVEIS:
     nivel(s, r, ls, t, d, g); teste_nivel(s, r, ls); revisao(s, r, ls)
