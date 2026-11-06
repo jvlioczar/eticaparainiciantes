@@ -171,6 +171,17 @@ def titulos_ok(corpo):
         return corpo[:fim] + '<h2 class="so-leitor">Nesta página</h2>' + corpo[fim:]
     return corpo
 
+def barra_leitura(path, title, url):
+    """Barra de ações da página (ouvir em pt-BR, como citar, imprimir ou PDF), como no Questão de Ética.
+    Entra nas páginas de leitura (as que têm coluna .leitura); o JS está em assets/app.js e o estilo em assets/style.css."""
+    ano = ATUALIZADO[:4]
+    abnt = f'{NOME.upper()}. {e(title)}. BiblioVerse, {ano}. Disponível em: {url}. Acesso em: {{ACESSO}}.'
+    apa = f'{NOME}. ({ano}). <em>{e(title)}</em>. BiblioVerse. {url}'
+    return (f'<div class="acoes-cap" data-abnt="{e(abnt)}" data-apa="{e(apa)}">'
+            '<button type="button" data-acao="ouvir" aria-pressed="false"><span aria-hidden="true">▶</span> Ouvir</button>'
+            '<button type="button" data-acao="citar"><span aria-hidden="true">❝</span> Como citar</button>'
+            '<button type="button" data-acao="imprimir"><span aria-hidden="true">⎙</span> Imprimir ou PDF</button></div>')
+
 def page(path, title, desc, corpo, atual='', home=False):
     PAGINAS.append(path)
     erro = path == '404.html'
@@ -181,6 +192,9 @@ def page(path, title, desc, corpo, atual='', home=False):
     corpo = corpo[:_i] + _cx + corpo[_i:] if _i >= 0 else corpo + _cx
     pre = '../' * path.count('/')
     url = SITE + '/' + ('' if path == 'index.html' else path)
+    if not erro and '<section class="cabeca">' in corpo and re.search(r'class="[^"]*\bleitura\b', corpo):
+        _ic = corpo.index('<section class="cabeca">'); _fc = corpo.index('</div></section>', _ic)
+        corpo = corpo[:_fc] + barra_leitura(path, title, url) + corpo[_fc:]
     full = title if home else f'{title} | {NOME}'
     if len(full) > 60: full = title
     artigo = atual in PAIS_NIVEL or path.split('/')[0] in ('teorias', 'dilemas', 'debates')
