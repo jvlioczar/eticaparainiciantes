@@ -266,4 +266,10 @@ NAO_E = {
  ('“Jainismo é extremismo impraticável.”', 'Há dois níveis: monges seguem a não violência ao extremo; leigos seguem o possível, evitando dano desnecessário. A tradição tem cinco milênios de prática.'),
  ('“Ahimsa é só não matar.”', 'Inclui não ferir com palavras e pensamentos, e um dever ativo de compaixão. A não violência jainista influenciou Gandhi.'),
 ],
+'satanismo': [
+ ('“Satanista adora o diabo e faz sacrifícios.”', 'As duas correntes principais são ateias: Satã é símbolo, não entidade. O pânico satânico dos anos 1980 e 1990 foi investigado e não encontrou um caso comprovado de ritual com sacrifício.'),
+ ('“Satanismo é fazer o mal.”', 'A ética de LaVey proíbe ferir quem não o feriu; os princípios do Templo Satânico pedem compaixão por todas as criaturas. O “mal” é a rebeldia contra a culpa religiosa, não a crueldade.'),
+ ('“Satanismo é uma coisa só.”', 'O satanismo de LaVey é egoísta e nietzschiano; o Templo Satânico é humanista e ativista; o satanismo teísta é religião minoritária. Discordam entre si mais do que se parecem.'),
+ ('“Quem ouve metal ou usa pentagrama é satanista.”', 'A estética satânica é usada por músicos, artistas e adolescentes sem nenhuma adesão à doutrina. Satanistas reais são poucos e, em geral, ateus de classe média.'),
+],
 }
