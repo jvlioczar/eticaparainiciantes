@@ -99,7 +99,7 @@ SITES = [
  ('Teste de Visão Moral', 'https://ethicstest.biblioverse.org/', 'Da BiblioVerse: descubra sua teoria normativa, seu círculo moral, sua metaética e sua abertura.', S4, NAC),
  ('Check-up Filosófico', 'https://coherencetest.biblioverse.org/', 'Da BiblioVerse: você pensa corretamente? Um teste de coerência das suas crenças, para descobrir onde elas se contradizem.', S4, NAC),
  ('Política Para Iniciantes', 'https://politicaparainiciantes.biblioverse.org/', 'Da BiblioVerse: a continuação deste curso, do lado da política, com vieses, vertentes e debates.', S4, NAC),
- ('Guia de Argumentação', 'https://guiadeargumentacao.biblioverse.org/', 'Da BiblioVerse: falácias, argumentos ruins e como argumentar bem.', S4, NAC),
+ ('Guia de Argumentação', 'https://pelosanimais.biblioverse.org/', 'Da BiblioVerse: falácias, argumentos ruins e como argumentar bem.', S4, NAC),
  ('Moral Machine (MIT)', 'https://www.moralmachine.net/hl/pt', 'Decida dilemas de carros autônomos e compare suas respostas com as de milhões de pessoas.', S4, NAC),
 ]
 

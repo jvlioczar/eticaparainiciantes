@@ -119,7 +119,7 @@ dict(slug='argumentos-morais', grupo='O básico', titulo='Como funciona um argum
 <li><strong>Relativismo de conveniência:</strong> “quem sou eu para julgar?” só quando a conclusão incomoda.</li>
 </ul>
 <h2>Um bom argumento aceita ser testado</h2>
-<p>Quem argumenta de boa-fé diz o que o faria mudar de ideia. Se nenhuma evidência e nenhum caso contrário podem abalar uma posição, ela deixou de ser um argumento e virou uma identidade. Veja <a href="como-discutir-etica.html">como discutir ética</a> e, para falácias em detalhe, o <a href="https://guiadeargumentacao.biblioverse.org/" target="_blank" rel="noopener">Guia de Argumentação</a>.</p>
+<p>Quem argumenta de boa-fé diz o que o faria mudar de ideia. Se nenhuma evidência e nenhum caso contrário podem abalar uma posição, ela deixou de ser um argumento e virou uma identidade. Veja <a href="como-discutir-etica.html">como discutir ética</a> e, para falácias em detalhe, o <a href="https://pelosanimais.biblioverse.org/" target="_blank" rel="noopener">Guia de Argumentação</a>.</p>
 ''', fontes=[('Reflective Equilibrium (Stanford Encyclopedia)', SEP + 'reflective-equilibrium/'), ('Moral Reasoning (Stanford Encyclopedia)', SEP + 'reasoning-moral/'), RACHELS]),
 
 dict(slug='mapa-das-teorias', grupo='As grandes famílias', titulo='Resultado, regra ou caráter? O mapa das teorias', resumo='As teorias da ética normativa se dividem pelo que colocam no centro: as consequências, os deveres ou quem você é. Nenhuma ignora o resto.', corpo='''
@@ -424,5 +424,5 @@ dict(slug='como-discutir-etica', grupo='Para o dia a dia', titulo='Como discutir
 <h2>O que não funciona</h2>
 <p>Humilhar, rotular e vencer no grito confirmam a identidade do outro e o afastam da sua posição. Pesquisas sobre mudança de opinião mostram que respeito e escuta abrem portas que argumento nenhum abre sozinho. Fale primeiro com a pessoa, depois com a ideia.</p>
 <div class="nota"><strong>Para guardar:</strong> uma boa discussão moral termina com alguém dizendo “não tinha pensado nisso”. Pode ser você.</div>
-''', fontes=[('A Mente Moralista', WE + 'The_Righteous_Mind'), ('Steelmanning (Wikipédia)', WE + 'Straw_man#Steelmanning'), ('Guia de Argumentação', 'https://guiadeargumentacao.biblioverse.org/'), VINDING]),
+''', fontes=[('A Mente Moralista', WE + 'The_Righteous_Mind'), ('Steelmanning (Wikipédia)', WE + 'Straw_man#Steelmanning'), ('Guia de Argumentação', 'https://pelosanimais.biblioverse.org/'), VINDING]),
 ]

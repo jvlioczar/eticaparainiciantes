@@ -6,7 +6,7 @@ from nao_e import NAO_E
 def nao_e_html(nome, itens):
     li = ''.join(f'<li><p class="nao-e-dito">{e(d)}</p><p>{e(c)}</p></li>' for d, c in itens)
     return f'<h2 id="o-que-nao-e">O que não é {e(nome[0].lower() + nome[1:])}</h2><p class="legenda">Concepções erradas e espantalhos que costumam aparecer em conversas e debates, com a correção.</p><ul class="lista-nao-e">{li}</ul>'
-from crossover import caixa_etica  # ponte com o site irmão (tools/crossover.py, igual nos dois sites)
+from crossover import caixa_etica  # ponte com os sites irmãos (tools/crossover.py, igual nos três sites)
 from urllib.parse import quote
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from licoes_iniciante import INICIANTE
@@ -193,7 +193,7 @@ def page(path, title, desc, corpo, atual='', home=False):
     erro = path == '404.html'
     desc = desc_seo(path, desc)
     corpo = titulos_ok(corpo)
-    _cx = caixa_etica(path, e)  # caixa do site irmão, antes do bloco de páginas relacionadas
+    _cx = caixa_etica(path, e)  # caixa dos sites irmãos, antes do bloco de páginas relacionadas
     _i = corpo.rfind('<section class="relac"')
     corpo = corpo[:_i] + _cx + corpo[_i:] if _i >= 0 else corpo + _cx
     pre = '../' * path.count('/')
@@ -724,7 +724,8 @@ def sobre():
 <h2>Como apresentamos as teorias</h2><p>Cada teoria aparece pelo seu <em>ponto focal</em>: o que mais deve pesar para ela. Dizer que o consequencialismo foca nos resultados não quer dizer que ignore regras, nem que a deontologia ignore resultados. Evitamos caricaturas, e cada página traz os pontos fortes antes das objeções.</p>
 <h2>Como apuramos</h2><p>Usamos a Stanford Encyclopedia of Philosophy, a Internet Encyclopedia of Philosophy, a Wikipédia e as obras originais, indicadas ao fim de cada página. A estrutura das teorias e do círculo moral segue o <a href="https://ethicstest.biblioverse.org/map.html" {EXT}>mapa do Teste de Visão Moral</a>. Números sobre animais vêm da FAO e de estimativas acadêmicas citadas. Ao ver um erro, mande a correção com a fonte.</p>
 <h2>Seus dados</h2><p>Não há cadastro. Lições lidas ficam só no seu navegador. Veja a <a href="privacidade.html">política de privacidade</a>.</p>
-<h2>Parte da BiblioVerse</h2><p>Este site faz parte da <a href="https://biblioverse.org">BiblioVerse</a>, ao lado do <a href="https://politicaparainiciantes.biblioverse.org/" {EXT}>Política Para Iniciantes</a>, do <a href="https://ethicstest.biblioverse.org/" {EXT}>Teste de Visão Moral</a>, do <a href="https://guiadeargumentacao.biblioverse.org/" {EXT}>Guia de Argumentação</a> e do <a href="https://ethicalfood.biblioverse.org/pt/" {EXT}>Guia de Alimentos Éticos</a>.</p></div>'''
+<h2>Parte da BiblioVerse</h2><p>Este site faz parte da <a href="https://biblioverse.org">BiblioVerse</a>, ao lado do <a href="https://politicaparainiciantes.biblioverse.org/" {EXT}>Política Para Iniciantes</a>, do <a href="https://ethicstest.biblioverse.org/" {EXT}>Teste de Visão Moral</a>, do <a href="https://pelosanimais.biblioverse.org/" {EXT}>Guia de Argumentação</a> e do <a href="https://ethicalfood.biblioverse.org/pt/" {EXT}>Guia de Alimentos Éticos</a>.</p></div>'''
+    corpo += '''<div class="wrap secao" style="padding-top:0"><h2 class="grupo">Os sites irmãos</h2><p>Os três sites se cruzam: cada tema aqui aparece, nos outros dois, pelo seu lado ético, político ou científico.</p><div class="grade"><a class="cartao" href="https://cienciaparainiciantes.biblioverse.org/" target="_blank" rel="noopener"><span class="tipo">Site irmão</span><h3 class="ext" style="margin-top:.3rem">Ciência Para Iniciantes</h3><p>O que é ciência, método, evidência, correntes e pseudociências, do básico ao avançado.</p></a><a class="cartao" href="https://politicaparainiciantes.biblioverse.org/" target="_blank" rel="noopener"><span class="tipo">Site irmão</span><h3 class="ext" style="margin-top:.3rem">Política Para Iniciantes</h3><p>Como a política funciona, vertentes, debates, partidos e figuras do Brasil, do básico ao avançado.</p></a></div></div>'''  # cards dos sites irmãos (pedido de 2026-11-07)
     page('sobre.html', 'Sobre', 'Posição editorial e método do Ética Para Iniciantes: como as teorias são apresentadas e de onde vêm as fontes.', corpo, atual='sobre.html')
 
 def arquivos():
