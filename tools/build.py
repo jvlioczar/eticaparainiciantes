@@ -66,7 +66,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = 'https://eticaparainiciantes.biblioverse.org'
 NOME = 'Ética Para Iniciantes'
 EXT = 'target="_blank" rel="noopener"'
-ATUALIZADO = '2026-11-06'
+ATUALIZADO = '2026-11-07'
 INTERMEDIARIO.extend(INTERMEDIARIO_B)
 # ética animal passa para o Avançado (pedido de 2026-11-03); as lições novas entram depois da lição indicada em POSICAO
 AVANCADO.extend([l for l in INTERMEDIARIO if l['grupo'] == 'Ética animal']); INTERMEDIARIO[:] = [l for l in INTERMEDIARIO if l['grupo'] != 'Ética animal']

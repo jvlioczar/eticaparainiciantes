@@ -39,6 +39,7 @@ GLOSSARIO = [
  (G2, 'Contratualismo', 'Teorias em que os princípios morais são os que pessoas razoáveis aceitariam em um acordo justo.', 'contratualismo.html'),
  (G2, 'Egoísmo ético', 'A tese de que cada pessoa deve agir pelo próprio interesse. Diferente do egoísmo psicológico, que diz que sempre agimos assim.', 'egoismo-relativismo-e-ceticismo.html'),
  (G2, 'Relativismo moral', 'A tese de que certo e errado dependem da cultura ou da pessoa, sem padrão comum.', 'egoismo-relativismo-e-ceticismo.html'),
+ (G2, 'Solipsismo moral', 'Rótulo de crítica, não uma escola: o egoísmo ou o subjetivismo no limite, em que só os próprios interesses ou juízos contam. Nagel usa a analogia com o solipsismo para criticar o egoísmo.', 'teorias/egoismo-etico.html'),
  (G3, 'Círculo moral', 'O conjunto de seres cujos interesses contam por si mesmos.', 'circulo-moral.html'),
  (G3, 'Consideração direta e indireta', 'Direta: os interesses do ser contam por si. Indireta: contam só pelo efeito sobre outros.', 'circulo-moral.html'),
  (G3, 'Senciência', 'A capacidade de ter experiências com valor para quem as tem: dor, prazer, medo, conforto.', 'senciencia.html'),

@@ -122,6 +122,7 @@ NAO_E = {
 'egoismo-etico': [
  ('“Egoísmo ético é ser mesquinho.”', 'A tese é que cada um deve buscar o próprio bem bem entendido, o que inclui amigos, reputação e paz de espírito. O mesquinho costuma ser egoísta ruim.'),
  ('“Egoísmo ético é a mesma coisa que egoísmo psicológico.”', 'Um diz que devemos agir pelo próprio interesse; o outro, que sempre agimos assim, mesmo sem querer. São teses diferentes, e a segunda é empírica e muito contestada.'),
+ ('“Egoísmo ético é solipsismo moral.”', '“Solipsismo moral” é um rótulo que os críticos usam, não uma teoria que alguém defenda: nomeia o egoísta que não reconhece interesse algum além do seu. O egoísmo ético universal recomenda a todos que cuidem de si e admite que os outros têm razões; a objeção de Nagel é que, admitindo isso, ele não consegue explicar por que essas razões não contam para ele.'),
 ],
 'relativismo-cultural': [
  ('“Relativismo é tolerância.”', 'Se cada cultura define o certo, uma cultura intolerante está certa em ser intolerante. A tolerância universal é justamente o que o relativismo não consegue defender.'),
@@ -131,6 +132,7 @@ NAO_E = {
 'subjetivismo': [
  ('“Subjetivismo é respeitar a opinião de cada um.”', 'Se cada um define o certo, ninguém jamais erra e discordar não faz sentido. É a objeção que leva muitos a abandonar a posição.'),
  ('“Toda opinião moral é subjetiva, logo o subjetivismo está certo.”', 'Que as pessoas têm opiniões é trivial. O subjetivismo afirma algo mais forte: que a opinião torna a coisa certa.'),
+ ('“Subjetivismo é cada um com a sua verdade, e pronto.”', 'Essa é a versão extrema, que críticos chamam de solipsismo moral: meus juízos valem só para mim e ninguém pode corrigi-los. O subjetivista comum ainda discute, muda de ideia e cobra coerência dos outros, o que já é admitir um padrão além da própria opinião.'),
 ],
 'ceticismo-normativo': [
  ('“Cético moral é quem não tem moral.”', 'Céticos como Mackie viveram vidas comuns e defenderam causas. A tese é sobre se há fatos morais a descobrir, não sobre como se comportar.'),
@@ -180,6 +182,7 @@ NAO_E = {
 'relativismo-metaetico': [
  ('“É o mesmo que relativismo cultural.”', 'O relativismo cultural é uma tese normativa, sobre o que fazer. O metaético é uma tese sobre a verdade: juízos morais são verdadeiros dentro de um referencial, como “é esquerda” depende de onde você está.'),
  ('“Relativista metaético acha que a escravidão era certa para quem a praticava.”', 'Alguns aceitam essa consequência; outros respondem que o referencial relevante é o nosso, e que podemos avaliar o passado a partir dele.'),
+ ('“Relativismo metaético é cada um com a sua verdade.”', 'Isso seria o subjetivismo no limite, o chamado solipsismo moral. O relativismo metaético exige um referencial compartilhado, de uma cultura ou de um grupo, dentro do qual se pode errar e ser corrigido.'),
 ],
 'teoria-do-erro': [
  ('“Quem diz que a moral é um erro vive sem moral.”', 'Mackie escreveu um livro inteiro de ética normativa. A tese é que a linguagem moral descreve fatos que não existem; a prática moral pode continuar por outras razões.'),
