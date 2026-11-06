@@ -1,6 +1,11 @@
 """Gera todas as páginas do site. Uso: python tools/build.py"""
 import json, os, re, sys, unicodedata
 from html import escape as e
+
+from nao_e import NAO_E
+def nao_e_html(nome, itens):
+    li = ''.join(f'<li><p class="nao-e-dito">{e(d)}</p><p>{e(c)}</p></li>' for d, c in itens)
+    return f'<h2 id="o-que-nao-e">O que não é {e(nome[0].lower() + nome[1:])}</h2><p class="legenda">Concepções erradas e espantalhos que costumam aparecer em conversas e debates, com a correção.</p><ul class="lista-nao-e">{li}</ul>'
 from crossover import caixa_etica  # ponte com o site irmão (tools/crossover.py, igual nos dois sites)
 from urllib.parse import quote
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -560,6 +565,7 @@ def teorias():
     page('teorias.html', 'Teorias éticas', 'Consequencialismo, deontologia, virtudes, cuidado e contratualismo: o ponto focal de cada teoria normativa, forças e objeções.', hub_teorias('Ideias', 'Teorias éticas', '{n} teorias normativas, do utilitarismo ao contratualismo: o que mais pesa para cada uma, as variantes, os pontos fortes e as objeções.', f'<strong>Como ler:</strong> cada teoria é apresentada pelo seu <em>ponto focal</em>, o que mais deve pesar quando os critérios entram em conflito. Nenhuma teoria séria ignora resultados, regras ou caráter; a diferença está no que vem primeiro. As posições sobre quem conta estão em <a href="criterios.html">critérios éticos</a>, e as sobre o que é um juízo moral, em <a href="metaetica.html">metaética</a>. O mapa segue a estrutura do <a href="https://ethicstest.biblioverse.org/map.html" {EXT}>Teste de Visão Moral</a>.', FAM_TEO, comparador=True), atual='teorias.html')
     page('criterios.html', 'Critérios éticos', 'Quem conta e com que peso: antropocentrismo, sencientismo, biocentrismo, ecocentrismo, gradualismo; e egoísmo, relativismo e ceticismo.', hub_teorias('Ideias', 'Critérios éticos', '{n} posições sobre os critérios da moral: quem recebe consideração direta, com que peso, e se há um padrão comum a todos.', f'<strong>Como ler:</strong> antes de decidir como agir, toda ética responde a duas perguntas de critério: <em>quem conta</em> (o círculo moral) e <em>se há um padrão válido para todos</em> (contra o egoísmo, o relativismo e o ceticismo). Estas posições se combinam com qualquer <a href="teorias.html">teoria normativa</a>. Veja as lições sobre o <a href="circulo-moral.html">círculo moral</a> e sobre <a href="egoismo-relativismo-e-ceticismo.html">egoísmo, relativismo e ceticismo</a>.', FAM_CRI) + criterios_extra(), atual='criterios.html')
     page('metaetica.html', 'Metaética', 'Realismo, antirrealismo, teoria do erro, emotivismo, prescritivismo, quase-realismo, construtivismo e quietismo: o que é um juízo moral.', hub_teorias('Ideias', 'Metaética', '{n} posições sobre o estatuto da moral: fatos morais existem? São descobertos, construídos ou expressos? Como os conhecemos?', f'<strong>Como ler:</strong> a metaética não diz o que fazer; pergunta o que estamos fazendo quando dizemos que algo é certo. Dois realistas podem ser um utilitarista e um kantiano, e até o cético tem uma tendência prática. Comece pela lição <a href="o-que-e-metaetica.html">o que é metaética</a>.', FAM_MET), atual='metaetica.html')
+    assert set(NAO_E) == {x['s'] for x in TEO}, set(NAO_E) ^ {x['s'] for x in TEO}
     for i, t in enumerate(TEO):
         wiki = ('https://pt.wikipedia.org/wiki/' + t['w'][3:]) if t['w'].startswith('pt:') else 'https://en.wikipedia.org/wiki/' + t['w']
         fils = ''.join(f'<a href="../filosofos/{f["slug"]}.html" class="tipo ferr">{e(f["nome"])}</a>' for f in FIL if t['s'] in f['teorias'] or f['slug'] in t['fil'])
@@ -578,7 +584,7 @@ def teorias():
         corpo = cabeca(f'<a href="../{hub}">{e(HUB_DE[hub])}</a>', t['n'], e(t['r']), meta=f'<div class="meta"><span class="tipo fam f{COR_FAM[t["f"]]}">{e(t["f"])}</span></div>')
         corpo += f'''<div class="wrap layout"><article class="leitura"><div class="nota" style="margin-top:0"><strong>Ponto focal:</strong> {e(t["foco"])} Isso é o que pesa mais para esta posição, não a única coisa que ela considera.</div><h2>A ideia central</h2><p>{t["i"]}</p>
 <h2>Referências</h2><p>{e(t["p"])}</p><h2>De onde veio</h2><p>{t["h"]}</p><h2>No dilema do bonde</h2><p>{e(t["bonde"])} <a href="../o-dilema-do-bonde.html">Entenda o dilema</a>.</p>
-<h2>Pontos fortes: o que pode estar certo</h2><ul class="lista-forte">{"".join(f"<li>{e(x)}</li>" for x in t["forte"])}</ul><h2>Objeções</h2><ul class="lista-contra">{"".join(f"<li>{e(x)}</li>" for x in t["contra"])}</ul><h2>O que dizem os críticos</h2><p>{e(t["c"])}</p>{liga}{ler}
+<h2>Pontos fortes: o que pode estar certo</h2><ul class="lista-forte">{"".join(f"<li>{e(x)}</li>" for x in t["forte"])}</ul><h2>Objeções</h2><ul class="lista-contra">{"".join(f"<li>{e(x)}</li>" for x in t["contra"])}</ul><h2>O que dizem os críticos</h2><p>{e(t["c"])}</p>{nao_e_html(t["n"], NAO_E[t["s"]])}{liga}{ler}
 {fontes([("Wikipédia: " + t["n"], wiki)] + t["fx"])}<nav class="pager" aria-label="Teorias"><a href="{ant["s"]}.html"><small>← Anterior</small>{e(ant["n"])}</a><a class="prox" href="{prox["s"]}.html"><small>Próxima →</small>{e(prox["n"])}</a></nav></article>{lado}</div><section class="relac"><div class="wrap"><h2>Na mesma família</h2><div class="grade">{"".join(cartao_t(x) for x in mesmas)}</div></div></section>'''
         page(f'teorias/{t["s"]}.html', t['n'], t['r'], corpo, atual=hub)
 
