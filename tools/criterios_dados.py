@@ -49,13 +49,13 @@ FRONTEIRAS = [
  (3, 'Etarismo', 'idade', 'certas faixas etárias', 'outras idades, em geral idosos e crianças', 'Antietarismo'),
  (3, 'Capacitismo', 'capacidade física, cognitiva ou psíquica', 'quem tem constituição normativa', 'pessoas com deficiência', 'Anticapacitismo: a capacidade não muda o valor dos interesses'),
  (3, 'Lookismo (discriminação estética)', 'aparência', 'quem está dentro do padrão de beleza', 'quem está fora', 'Antilookismo'),
- (3, 'Linguismo', 'língua, sotaque', 'quem fala como o grupo dominante', 'quem fala outra língua ou com outro sotaque', 'Antilinguismo'),
- (3, 'Discriminação por tamanho corporal', 'peso, altura', 'corpos de certo tamanho', 'corpos fora do padrão', 'Antitamanhismo'),
+ (3, 'Linguicismo (linguismo)', 'língua, sotaque', 'quem fala como o grupo dominante', 'quem fala outra língua ou com outro sotaque', 'Igual consideração independente da língua ou do sotaque'),
+ (3, 'Discriminação por tamanho corporal', 'peso, altura', 'corpos de certo tamanho', 'corpos fora do padrão', 'Igual consideração independente do tamanho do corpo'),
  (3, 'Reacionarismo', 'temporal, cultural', 'os costumes de certa época', 'quem vive de outro modo', 'Abertura à mudança, com exame'),
  (4, 'Especismo / antropocentrismo / carnismo', 'espécie', 'humanos', 'os demais animais', 'Antiespecismo / sencientismo'),
  (4, 'Carbonismo (substratismo)', 'substrato', 'mentes biológicas', 'mentes artificiais sencientes, caso existam', 'Sencientismo independente de substrato'),
  (4, 'Ambientalismo antropocêntrico', 'utilidade para humanos, carisma', 'humanos e espécies carismáticas ou úteis', 'as demais espécies e os indivíduos que sofrem nos ecossistemas', 'Ambientalismo antiespecista: proteger a natureza por quem sente nela'),
- (5, 'Presentismo (geracionismo)', 'temporal', 'quem existe agora', 'as gerações futuras', 'Atemporalismo / longoprazismo'),
+ (5, 'Presentismo (geracionismo, temporalismo)', 'temporal', 'quem existe agora, ou quem existe mais cedo', 'as gerações futuras', 'Atemporalismo / longoprazismo'),
  (5, 'Inevidencialismo', 'epistêmica, não um grupo', 'crenças e práticas sem evidência', 'quem é prejudicado por decisões mal fundamentadas', 'Práticas baseadas em evidências'),
 ]
 

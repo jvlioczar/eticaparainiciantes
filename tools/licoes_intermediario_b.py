@@ -84,7 +84,7 @@ dict(slug='tribalismo-moral', grupo='Mente e moral', titulo='Tribalismo moral: o
 <li><strong>Testar a troca:</strong> o mesmo ato, com o autor do outro grupo. Veja o <a href="ferramentas/teste-de-troca.html">teste de troca</a>.</li>
 <li><strong>Aceitar deveres especiais sem indiferença:</strong> cuidar mais dos seus é legítimo. Tratar os outros como se não contassem, não.</li>
 </ul>
-<div class="nota"><strong>Para guardar:</strong> ninguém é imparcial por natureza. A imparcialidade é um trabalho, e começa por descobrir em quais eixos você ainda não a aplicou. A seção de <a href="criterios.html">critérios éticos</a> traz a tabela completa das fronteiras da parcialidade, do indivíduo à espécie e ao tempo, com a posição imparcial correspondente a cada uma.</div>
+<div class="nota"><strong>Para guardar:</strong> ninguém é imparcial por natureza. A imparcialidade é um trabalho, e começa por descobrir em quais eixos você ainda não a aplicou. A página das <a href="fronteiras.html">fronteiras da parcialidade</a> traz a tabela completa, do indivíduo à espécie e ao tempo, com a posição imparcial correspondente a cada uma.</div>
 ''', fontes=[MAPA, ('In-group favoritism (Wikipédia)', WE + 'In-group_favoritism'), ('One World Now', 'https://www.google.com/search?tbm=bks&q=Peter+Singer+One+World+Now'), ('A Mente Moralista', WE + 'The_Righteous_Mind')]),
 
 dict(slug='senciencia', grupo='Ética animal', titulo='Senciência: o que é, quem tem e como sabemos', resumo='Sentir dor e prazer é o critério mais defendido para entrar no círculo moral. A ciência diz quem sente, com graus variados de certeza.', corpo='''

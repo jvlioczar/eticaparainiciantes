@@ -38,7 +38,7 @@ dict(slug='o-que-e-etica', grupo='O básico', titulo='O que é ética?', resumo=
 <li><strong>Para corrigir pontos cegos:</strong> cada época achou normal algo que depois foi visto como erro grave. A nossa provavelmente não é exceção.</li>
 </ul>
 <h2>As outras dimensões</h2>
-<p>As três perguntas acima são as da teoria. Uma visão moral completa tem mais duas dimensões: a <strong>capacidade de agir</strong> (que conhecimento e que poder a pessoa tem para realizar o que considera certo) e a <strong>abertura</strong> (como ela revisa o que acredita diante de bons argumentos). Saber o certo e não poder, ou não querer mudar de ideia, são falhas tão comuns quanto não saber. A seção de <a href="criterios.html">critérios éticos</a> apresenta as cinco dimensões juntas.</p>
+<p>As três perguntas acima são as da teoria. Uma visão moral completa tem mais duas dimensões: a <strong>capacidade de agir</strong> (que conhecimento e que poder a pessoa tem para realizar o que considera certo) e a <strong>abertura</strong> (como ela revisa o que acredita diante de bons argumentos). Saber o certo e não poder, ou não querer mudar de ideia, são falhas tão comuns quanto não saber. A página das <a href="dimensoes.html">cinco dimensões</a> apresenta as cinco juntas.</p>
 <div class="nota"><strong>Para guardar:</strong> ética é a pergunta “como devo agir, e por quê?”, feita com seriedade e aberta a razões. O resto do curso são tentativas de respondê-la.</div>
 ''', fontes=[('Ethics (Internet Encyclopedia of Philosophy)', IEP + 'ethics/'), ('Ética (Wikipédia)', WP + '%C3%89tica'), RACHELS, TESTE]),
 
