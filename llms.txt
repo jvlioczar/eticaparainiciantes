@@ -2,6 +2,10 @@
 
 > Guia gratuito de ética em português, em três níveis, com fontes: teorias normativas, círculo moral, metaética, ética animal, dilemas clássicos e filósofos.
 
+Guia educativo gratuito, em português do Brasil, publicado pela BiblioVerse. Cada página traz as fontes ao final; classificações e veredictos são estimativas editoriais explicadas na própria página e abertas a correção.
+
+Atualizado em 14/11/2026. Texto completo das lições e artigos em [llms-full.txt](https://eticaparainiciantes.biblioverse.org/llms-full.txt).
+
 ## Principais seções
 
 - [Comece aqui](https://eticaparainiciantes.biblioverse.org/comece-aqui.html)
@@ -21,3 +25,419 @@
 - [Biblioteca](https://eticaparainiciantes.biblioverse.org/biblioteca.html)
 - [Sites sobre ética](https://eticaparainiciantes.biblioverse.org/sites.html)
 - [Sobre e método](https://eticaparainiciantes.biblioverse.org/sobre.html)
+
+## Lições do nível Iniciante
+
+- [Como funciona um argumento moral](https://eticaparainiciantes.biblioverse.org/argumentos-morais.html): Premissas, conclusão e coerência. Um argumento moral se avalia como qualquer outro, e os erros mais comuns têm nome.
+- [O círculo moral: quem conta e por quê](https://eticaparainiciantes.biblioverse.org/circulo-moral.html): Toda ética precisa dizer quem merece consideração direta. A resposta depende do critério: senciência, razão, laços ou espécie.
+- [Como discutir ética sem brigar](https://eticaparainiciantes.biblioverse.org/como-discutir-etica.html): Separe fato de valor, explique o outro lado de um jeito que ele aceitaria e diga o que o faria mudar de ideia. O resto é tom.
+- [Consequencialismo: quando o resultado pesa mais](https://eticaparainiciantes.biblioverse.org/consequencialismo.html): Uma ação é certa quando produz o melhor resultado para todos os afetados. Simples de dizer, difícil de aplicar, e muito influente.
+- [Deontologia: quando deveres e direitos pesam mais](https://eticaparainiciantes.biblioverse.org/deontologia.html): Algumas coisas não se fazem, mesmo com bons resultados. A deontologia explica por que cada pessoa é um fim, e não um meio.
+- [Dilemas do cotidiano: mentiras, promessas e consumo](https://eticaparainiciantes.biblioverse.org/dilemas-do-cotidiano.html): A ética não vive só nos bondes. Ela aparece quando você mente para poupar alguém, quebra uma promessa ou escolhe o que comprar.
+- [Egoísmo, relativismo e ceticismo: há um padrão?](https://eticaparainiciantes.biblioverse.org/egoismo-relativismo-e-ceticismo.html): Três posições que desafiam a ideia de uma moral comum: cada um por si, cada cultura com a sua, ou nenhuma resposta. Vale entender o que dizem e onde falham.
+- [Virtudes e cuidado: quando quem você é pesa mais](https://eticaparainiciantes.biblioverse.org/etica-do-carater.html): Em vez de perguntar “o que devo fazer?”, pergunte “que pessoa devo ser?”. As éticas do caráter colocam o foco em traços e relações.
+- [Ética, moral, lei e religião: não são a mesma coisa](https://eticaparainiciantes.biblioverse.org/etica-moral-lei-e-religiao.html): Legal não quer dizer certo, e proibido não quer dizer errado. Entenda o que cada palavra faz e por que separá-las evita confusão.
+- [As éticas religiosas: o que cada tradição ensina](https://eticaparainiciantes.biblioverse.org/eticas-religiosas.html): Judaísmo, cristianismo, islã, hinduísmo, budismo, jainismo e confucionismo: o núcleo moral de cada uma, o que têm em comum e onde a filosofia entra.
+- [A expansão do círculo moral na história](https://eticaparainiciantes.biblioverse.org/expansao-do-circulo-moral.html): Escravizados, mulheres, estrangeiros e outros grupos já ficaram fora de quem “conta”. O círculo cresceu, e talvez não tenha terminado.
+- [Fatos e valores: a diferença que organiza tudo](https://eticaparainiciantes.biblioverse.org/fatos-e-valores.html): Do que “é” não se tira sozinho o que “deve ser”. Separar as duas perguntas resolve metade das discussões.
+- [Uma breve história da ética](https://eticaparainiciantes.biblioverse.org/historia-da-etica.html): De Confúcio e Sócrates a Parfit e Singer: as perguntas mudaram menos do que as respostas. Um mapa do tempo para situar cada lição.
+- [Igualdade humana: em que ela se baseia?](https://eticaparainiciantes.biblioverse.org/igualdade-humana.html): As pessoas não são iguais em força, talento ou inteligência. Então o que quer dizer que são iguais, e por que isso importa?
+- [Imparcialidade: a regra de ouro, o véu e a universalidade](https://eticaparainiciantes.biblioverse.org/imparcialidade.html): Três testes para saber se você defende um princípio ou só o seu lado. Eles não dão a resposta final, mas eliminam as respostas ruins.
+- [Ética para iniciantes](https://eticaparainiciantes.biblioverse.org/iniciante.html): O que é ética, as grandes famílias de teorias, quem conta e como discutir sem brigar.
+- [Resultado, regra ou caráter? O mapa das teorias](https://eticaparainiciantes.biblioverse.org/mapa-das-teorias.html): As teorias da ética normativa se dividem pelo que colocam no centro: as consequências, os deveres ou quem você é. Nenhuma ignora o resto.
+- [O que é ética?](https://eticaparainiciantes.biblioverse.org/o-que-e-etica.html): Ética é a área da filosofia que analisa a moral, também chamada de filosofia moral: o estudo de como devemos agir e tratar os outros.
+- [Parcialidade: até onde cuidar mais dos seus?](https://eticaparainiciantes.biblioverse.org/parcialidade-e-deveres-especiais.html): Você deve mais ao seu filho do que a um estranho. Quase todos concordam. A pergunta é por quê, e onde a parcialidade legítima vira exclusão.
+- [Perguntas frequentes e mitos sobre ética](https://eticaparainiciantes.biblioverse.org/perguntas-frequentes.html): “Ética é opinião?”, “sem religião há moral?”, “o fim justifica os meios?”: as perguntas que todo mundo faz, com respostas curtas e links para ir fundo.
+- [Revisão do nível Iniciante](https://eticaparainiciantes.biblioverse.org/revisao-iniciante.html): 19 perguntas de aplicação, uma por lição do nível Iniciante, com placar e link de volta para cada lição.
+- [Teste do nível Iniciante](https://eticaparainiciantes.biblioverse.org/teste-iniciante.html): Dez perguntas sorteadas sobre as lições do nível Iniciante de ética, com a lição a rever em cada resposta.
+
+## Lições do nível Intermediário
+
+- [Aristóteles, a vida boa e as virtudes](https://eticaparainiciantes.biblioverse.org/aristoteles-e-as-virtudes.html): Eudaimonia, o meio-termo e a sabedoria prática: por que a ética das virtudes voltou ao centro do debate depois de dois mil anos.
+- [Bioética: autonomia, consentimento e os quatro princípios](https://eticaparainiciantes.biblioverse.org/bioetica.html): A ética da medicina e da pesquisa: de onde veio, os quatro princípios de Beauchamp e Childress, o consentimento informado e os casos que a moldaram.
+- [Contratualismo: a moral como acordo](https://eticaparainiciantes.biblioverse.org/contratualismo.html): Certo é o que pessoas razoáveis aceitariam, de Hobbes a Scanlon. E o que acontece quando o véu da ignorância esconde também a espécie.
+- [Deficiência: dependência, cuidado e o valor de cada vida](https://eticaparainiciantes.biblioverse.org/deficiencia-e-etica.html): O que a deficiência ensina às teorias feitas para adultos independentes: o modelo social, a crítica de Kittay a Rawls e o debate com Singer.
+- [Direitos como trunfos e a deontologia de limiar](https://eticaparainiciantes.biblioverse.org/direitos-e-limiares.html): Direitos vencem cálculos de utilidade, como trunfos no baralho. Mas vencem sempre, ou cedem diante de uma catástrofe?
+- [A ética por trás de cada sistema econômico](https://eticaparainiciantes.biblioverse.org/economia-politica-e-etica.html): Toda teoria econômico-política carrega uma resposta ética: o que é justo, quem conta, o que vale mais.
+- [Educação moral: como se forma uma pessoa boa?](https://eticaparainiciantes.biblioverse.org/educacao-moral.html): Ninguém nasce justo. Aristóteles, Kohlberg, a psicologia do hábito e a pergunta prática: o que uma família, uma escola ou uma sociedade pode fazer?
+- [Emoções morais: culpa, vergonha, indignação, nojo e perdão](https://eticaparainiciantes.biblioverse.org/emocoes-morais.html): Emoções não são o oposto da razão moral: são parte de como percebemos o que importa. Mas cada uma tem um uso bom e um uso ruim.
+- [Ética da inteligência artificial](https://eticaparainiciantes.biblioverse.org/etica-da-inteligencia-artificial.html): Justiça, transparência, responsabilidade, privacidade, armas, trabalho e o estatuto moral das máquinas: o mapa das perguntas éticas da IA.
+- [Ética da tecnologia e da inteligência artificial](https://eticaparainiciantes.biblioverse.org/etica-da-tecnologia.html): Algoritmos que decidem crédito e liberdade, sistemas que manipulam atenção, responsabilidade sem um responsável: as perguntas éticas da tecnologia atual.
+- [A ética do cuidado](https://eticaparainiciantes.biblioverse.org/etica-do-cuidado.html): Gilligan, Noddings e Held: a moral começa em relações de dependência, não entre estranhos que negociam. O que isso muda e o que não muda.
+- [Ética e religião: o dilema de Eutífron](https://eticaparainiciantes.biblioverse.org/etica-e-religiao.html): Algo é bom porque Deus manda, ou Deus manda porque é bom? A pergunta de Platão ainda organiza o debate entre crentes e não crentes.
+- [Ética feminista: o que a filosofia deixava de fora](https://eticaparainiciantes.biblioverse.org/etica-feminista.html): De Wollstonecraft a Okin e Nussbaum: a crítica à ética feita por e para homens, a esfera privada, a autonomia relacional e a interseccionalidade.
+- [Outros experimentos mentais que mudaram a ética](https://eticaparainiciantes.biblioverse.org/experimentos-mentais.html): A máquina de experiências, a criança no lago, o violinista, o anel de Giges: casos imaginários que testam princípios reais.
+- [Exploração: quando uma troca vantajosa ainda é injusta](https://eticaparainiciantes.biblioverse.org/exploracao.html): Marx, Wertheimer e Zwolinski sobre a fábrica de salários baixos, o trabalho por aplicativo e a venda de órgãos.
+- [Fazer e deixar acontecer: o viés de omissão](https://eticaparainiciantes.biblioverse.org/fazer-e-deixar-acontecer.html): Causar um dano parece pior do que deixar que ele aconteça. Às vezes é. Mas o cérebro usa essa diferença para desculpar muito do que deixamos de fazer.
+- [Fraqueza de vontade: saber o que é certo e não fazer](https://eticaparainiciantes.biblioverse.org/fraqueza-de-vontade.html): Especialistas em ética animal que comem animais provam que argumentos não mudam ninguém? Não. Entre a crença e o ato há mais coisas do que parece.
+- [Intenção e previsão: o duplo efeito e os deveres prima facie](https://eticaparainiciantes.biblioverse.org/intencao-e-previsao.html): Importa se o dano foi pretendido ou só previsto? E o que fazer quando dois deveres colidem? Duas ferramentas da deontologia moderada.
+- [Ética intermediária](https://eticaparainiciantes.biblioverse.org/intermediario.html): As teorias por dentro, a mente moral, a pobreza global e os dilemas clássicos.
+- [Kant e o imperativo categórico](https://eticaparainiciantes.biblioverse.org/kant-e-o-imperativo-categorico.html): Aja só segundo uma regra que você poderia querer universal, e trate cada pessoa como fim. As duas fórmulas de Kant, explicadas sem jargão.
+- [Livre-arbítrio e responsabilidade moral](https://eticaparainiciantes.biblioverse.org/livre-arbitrio-e-responsabilidade.html): Se tudo o que você faz tem causas, você é responsável? Compatibilismo, os casos de Frankfurt e a sorte moral: o que sobra da culpa e do mérito.
+- [A moralidade sem religião](https://eticaparainiciantes.biblioverse.org/moralidade-sem-religiao.html): “Se Deus não existe, tudo é permitido”? O que fundamenta a moral de quem não crê e o que a evidência mostra sobre sociedades seculares.
+- [O dilema do bonde e suas variantes](https://eticaparainiciantes.biblioverse.org/o-dilema-do-bonde.html): Desviar o bonde e matar um para salvar cinco: quase todos dizem sim. Empurrar alguém da passarela: quase todos dizem não. O que muda?
+- [O peso do sofrimento diante do prazer](https://eticaparainiciantes.biblioverse.org/o-peso-do-sofrimento.html): Um dia bom compensa um dia de agonia? Para alguns, sim, ponto a ponto. Para outros, o sofrimento extremo pesa mais, ou pesa só ele.
+- [As objeções ao consequencialismo, e as respostas](https://eticaparainiciantes.biblioverse.org/objecoes-ao-consequencialismo.html): Exige demais, aprova sacrifícios, não respeita direitos, não dá para calcular. Cada objeção tem uma resposta, e nem todas convencem.
+- [Pobreza extrema e ética global](https://eticaparainiciantes.biblioverse.org/pobreza-e-etica-global.html): Centenas de milhões vivem com menos do que o mínimo. O que isso exige de quem tem mais, e o que de fato funciona para ajudar?
+- [Psicologia moral: intuição primeiro, razão depois](https://eticaparainiciantes.biblioverse.org/psicologia-moral.html): Haidt, Greene e a mente de dois sistemas: como julgamos de fato, e por que saber disso não diz como deveríamos julgar.
+- [Punição: por que e como punir](https://eticaparainiciantes.biblioverse.org/punicao-e-justica.html): Retribuição, prevenção, reabilitação, reparação: as justificativas da pena, o que a evidência diz sobre o que funciona e os limites que nenhuma delas dispensa.
+- [Responsabilidade coletiva: sua parte nos danos de todos](https://eticaparainiciantes.biblioverse.org/responsabilidade-coletiva.html): Arendt, Jaspers, Iris Marion Young e Kutz: o que você deve por males que ninguém causou sozinho, da injustiça estrutural ao clima e à criação industrial.
+- [Revisão do nível Intermediário](https://eticaparainiciantes.biblioverse.org/revisao-intermediario.html): 36 perguntas de aplicação, uma por lição do nível Intermediário, com placar e link de volta para cada lição.
+- [Ética e sentido da vida: o que torna uma vida significativa](https://eticaparainiciantes.biblioverse.org/sentido-da-vida.html): Sentido não é felicidade nem moralidade. Susan Wolf, Thaddeus Metz, Nagel e Camus sobre o que faz uma vida valer a pena, e o que isso tem a ver com fazer o bem.
+- [Milgram, Zimbardo, Arendt: pessoas comuns fazem o mal?](https://eticaparainiciantes.biblioverse.org/situacionismo-e-experimentos.html): Os experimentos que mostraram quanto a situação pesa sobre o caráter, a banalidade do mal e a objeção situacionista à ética das virtudes.
+- [Somar, priorizar ou garantir o mínimo?](https://eticaparainiciantes.biblioverse.org/somar-priorizar-ou-garantir.html): Dizer que o resultado importa não diz como juntar o bem de várias pessoas.
+- [O que torna uma vida boa? As teorias do bem-estar](https://eticaparainiciantes.biblioverse.org/teorias-do-bem-estar.html): Prazer, desejos satisfeitos ou uma lista de bens: três respostas sobre o que é bom para quem vive a vida, e por que a escolha muda tudo.
+- [Teste do nível Intermediário](https://eticaparainiciantes.biblioverse.org/teste-intermediario.html): Dez perguntas sorteadas sobre as lições do nível Intermediário de ética, com a lição a rever em cada resposta.
+- [Tribalismo moral: os eixos em que privilegiamos os nossos](https://eticaparainiciantes.biblioverse.org/tribalismo-moral.html): Mesmo quem busca imparcialidade mantém preferências por grupo. Nação, raça, sexo, religião, classe, espécie: dezesseis eixos para examinar.
+- [Um cenário melhor ou o melhor cenário?](https://eticaparainiciantes.biblioverse.org/um-cenario-melhor-ou-o-melhor.html): “Melhorou” não é “ficou bom”, e “bom” não é “o melhor possível”: comparar com o passado ou com as alternativas reais muda muitas decisões.
+- [Bentham, Mill e o utilitarismo clássico](https://eticaparainiciantes.biblioverse.org/utilitarismo-classico.html): A maior felicidade para o maior número: de onde veio a ideia, o que ela quer dizer de fato e as duas formas de aplicá-la.
+- [Vieses que distorcem o julgamento moral](https://eticaparainiciantes.biblioverse.org/vieses-morais.html): Uma vítima com nome vale mais do que mil sem nome; o que está perto pesa mais do que o que está longe. Conheça os atalhos que torcem a moral.
+
+## Lições do nível Avançado
+
+- [Abertura moral: como revisar o que você acredita](https://eticaparainiciantes.biblioverse.org/abertura-moral.html): Diante de um argumento forte contra a sua posição, você reavalia ou resiste? A disposição de mudar é o que separa quem evolui de quem só se defende.
+- [Animais e a política: cidadania e constituições](https://eticaparainiciantes.biblioverse.org/animais-e-a-politica.html): Se os animais contam, como entram nas instituições? Zoopolis, a democracia senciente de Cochrane e o constitucionalismo baseado na senciência.
+- [Antirrealismo moral: erro, emotivismo e quase-realismo](https://eticaparainiciantes.biblioverse.org/antirrealismo-moral.html): Se não há fatos morais, o que fazemos quando dizemos que algo é errado? Quatro respostas, da mais radical à mais conciliadora.
+- [Ética avançada](https://eticaparainiciantes.biblioverse.org/avancado.html): Metaética, ética animal, as fronteiras do círculo moral e decidir sem certeza.
+- [Catástrofes morais: e se estivermos errados agora?](https://eticaparainiciantes.biblioverse.org/catastrofes-morais.html): Guerras e genocídios são catástrofes que reconhecemos. Mas toda sociedade do passado cometeu um mal grave achando que era normal.
+- [Da ética à política: valores primeiro, evidências depois](https://eticaparainiciantes.biblioverse.org/da-etica-a-politica.html): Toda decisão política carrega uma resposta ética, mesmo sem dizê-la. Como levar o que você aprendeu aqui para o debate público.
+- [Epistemologia moral: desacordo, testemunho e ficção](https://eticaparainiciantes.biblioverse.org/epistemologia-moral.html): Como sabemos o que é certo? E o que fazer quando alguém tão informado quanto você discorda, ou quando a resposta vem de outra pessoa?
+- [Especismo e a igual consideração de interesses](https://eticaparainiciantes.biblioverse.org/especismo.html): Dar menos peso a um interesse só porque é de outra espécie: o argumento de Singer, a resposta de Regan e o que os críticos dizem.
+- [Ética animal na prática: granjas, laboratórios e natureza](https://eticaparainiciantes.biblioverse.org/etica-animal-na-pratica.html): Da teoria às escolhas: onde o sofrimento animal se concentra, o que cada teoria diz e o que você pode fazer sem esperar o mundo mudar.
+- [Ética climática: quem deve o quê, e a quem](https://eticaparainiciantes.biblioverse.org/etica-climatica.html): O clima é o maior problema de ação coletiva da história. O que cada pessoa e cada país deve, e por que o meio ambiente importa: por si ou por quem vive nele?
+- [A ética da crença: é errado acreditar sem evidência?](https://eticaparainiciantes.biblioverse.org/etica-da-crenca.html): Clifford disse que é sempre errado; James disse que às vezes é permitido. O debate sobre o dever de ter boas razões, e por que ele é uma questão moral.
+- [Ética populacional e a conclusão repugnante](https://eticaparainiciantes.biblioverse.org/etica-populacional.html): Quantas pessoas devem existir? Criar alguém feliz é um dever? Parfit mostrou que toda resposta leva a algum paradoxo.
+- [Evolução, desmascaramento e moral](https://eticaparainiciantes.biblioverse.org/evolucao-e-moral.html): Nossas intuições morais foram moldadas para sobreviver, não para achar a verdade. Isso as desmente? O argumento de Sharon Street e as respostas.
+- [Gerações futuras: quem ainda não nasceu conta igual?](https://eticaparainiciantes.biblioverse.org/geracoes-futuras.html): Temporalismo contra atemporalismo: o sofrimento daqui a cem anos vale menos do que o de hoje? Parfit, o desconto e os riscos de longo prazo.
+- [Gradualismo: a inteligência muda o peso do sofrimento?](https://eticaparainiciantes.biblioverse.org/gradualismo.html): Uma dor igual conta igual em um humano e em um frango? O gradualista diz que capacidades cognitivas alteram o peso. O argumento dos casos marginais responde.
+- [Identidade pessoal e ética: o que Parfit mudou](https://eticaparainiciantes.biblioverse.org/identidade-pessoal-e-etica.html): Se o “eu” de daqui a trinta anos é só alguém ligado a mim por memória e caráter, o que muda na prudência, no egoísmo e na punição?
+- [Incerteza moral: agir sem saber qual teoria é a certa](https://eticaparainiciantes.biblioverse.org/incerteza-moral.html): Você não tem certeza se o utilitarismo ou a deontologia está certa. E agora? Parlamento moral, cobertura de riscos e o que as teorias concordam.
+- [Mentes artificiais: o substrato importa?](https://eticaparainiciantes.biblioverse.org/mentes-artificiais.html): Se uma máquina vier a sentir, ela conta? O carbonismo diz que só mentes biológicas importam. O que está em jogo e por que a dúvida pede cuidado.
+- [Motivação moral: saber o que é certo move a agir?](https://eticaparainiciantes.biblioverse.org/motivacao-moral.html): Internalismo e externalismo, a teoria humeana da motivação, o amoralista e as razões internas de Williams: o que liga o juízo moral à ação.
+- [O que é metaética: fatos morais existem?](https://eticaparainiciantes.biblioverse.org/o-que-e-metaetica.html): Quando digo que a tortura é errada, descrevo um fato, expresso um sentimento ou dou uma ordem? O mapa das respostas.
+- [Pluralismo de valores: quando os bens não se somam](https://eticaparainiciantes.biblioverse.org/pluralismo-de-valores.html): Liberdade, igualdade, lealdade, beleza, verdade: há uma moeda comum que converta um no outro? Berlin e Nagel dizem que não, e isso muda como se decide.
+- [Probabilidade e ética: pensar em graus](https://eticaparainiciantes.biblioverse.org/probabilidade-e-etica.html): Senciência provável, risco de estar errado, evidência que muda: a moral raramente trabalha com certezas.
+- [O problema do alinhamento](https://eticaparainiciantes.biblioverse.org/problema-do-alinhamento.html): Como fazer um sistema poderoso querer o que queremos, e quem decide o que queremos? O problema técnico, o problema moral e por que os dois são inseparáveis.
+- [Progresso moral: existe, e como saber?](https://eticaparainiciantes.biblioverse.org/progresso-moral.html): Abolição, voto feminino, fim da tortura pública. Isso é progresso ou só mudança de costume? Critérios para distinguir, e por que nada é garantido.
+- [Quanto a moral pode exigir de você?](https://eticaparainiciantes.biblioverse.org/quanto-a-moral-pode-exigir.html): Se cada real pode salvar alguém, por que não doar quase tudo? A objeção da exigência excessiva, os santos morais e o que é razoável pedir.
+- [Realismo moral: naturalistas e não naturalistas](https://eticaparainiciantes.biblioverse.org/realismo-moral.html): Se fatos morais existem, do que são feitos e como os descobrimos? Duas respostas, e os argumentos que as sustentam.
+- [Relativismo metaético e quietismo](https://eticaparainiciantes.biblioverse.org/relativismo-e-quietismo.html): A verdade moral depende do referencial, ou a pergunta sobre fatos morais é que está mal feita? Duas saídas, com problemas diferentes.
+- [Revisão do nível Avançado](https://eticaparainiciantes.biblioverse.org/revisao-avancado.html): 31 perguntas de aplicação, uma por lição do nível Avançado, com placar e link de volta para cada lição.
+- [Riscos X e riscos S: o pior que pode acontecer](https://eticaparainiciantes.biblioverse.org/riscos-s-e-riscos-x.html): Extinção da humanidade e sofrimento em escala astronômica são os dois piores desfechos imagináveis. Como pensar neles sem fanatismo nem indiferença?
+- [Senciência: o que é, quem tem e como sabemos](https://eticaparainiciantes.biblioverse.org/senciencia.html): Sentir dor e prazer é o critério mais defendido para entrar no círculo moral. A ciência diz quem sente, com graus variados de certeza.
+- [O sofrimento dos animais selvagens](https://eticaparainiciantes.biblioverse.org/sofrimento-dos-animais-selvagens.html): A natureza não é um documentário. A maioria dos animais que nasce morre cedo, de fome, doença ou predação. Se o sofrimento conta, conta aqui também.
+- [Teoria da decisão e ética](https://eticaparainiciantes.biblioverse.org/teoria-da-decisao-e-etica.html): Valor esperado, aversão ao risco, maximin e dominância: as ferramentas de decidir sob incerteza, e o que elas mudam na ética.
+- [Teste do nível Avançado](https://eticaparainiciantes.biblioverse.org/teste-avancado.html): Dez perguntas sorteadas sobre as lições do nível Avançado de ética, com a lição a rever em cada resposta.
+- [Vida e ecossistemas: biocentrismo e ecocentrismo](https://eticaparainiciantes.biblioverse.org/vida-e-ecossistemas.html): Uma árvore ou um rio contam por si mesmos? As éticas ambientais ampliam o círculo além da senciência, e entram em tensão com ela.
+
+## Critérios éticos
+
+- [Critérios éticos](https://eticaparainiciantes.biblioverse.org/criterios.html): Quem conta e com que peso: antropocentrismo, sencientismo, biocentrismo, ecocentrismo, gradualismo; e egoísmo, relativismo e ceticismo.
+- [Antropocentrismo](https://eticaparainiciantes.biblioverse.org/teorias/antropocentrismo.html): Só humanos contam de forma direta; o resto conta pelo efeito sobre pessoas.
+- [Biocentrismo](https://eticaparainiciantes.biblioverse.org/teorias/biocentrismo.html): Toda vida tem valor inerente, sencientes ou não; humanos não são a referência.
+- [Carbonismo](https://eticaparainiciantes.biblioverse.org/teorias/carbonismo.html): Só mentes biológicas contam, mesmo que um sistema artificial venha a sentir.
+- [Ceticismo normativo](https://eticaparainiciantes.biblioverse.org/teorias/ceticismo-normativo.html): Talvez não exista padrão moral algum a descobrir; juízos morais só expressam atitudes.
+- [Ecocentrismo (holismo ambiental)](https://eticaparainiciantes.biblioverse.org/teorias/ecocentrismo.html): Ecossistemas, espécies e a biosfera têm valor por si mesmos, acima dos indivíduos.
+- [Egoísmo ético](https://eticaparainiciantes.biblioverse.org/teorias/egoismo-etico.html): Cada pessoa deve agir pelo próprio interesse. Na versão universal, todos devem; na individual, é uma escolha pessoal.
+- [Gradualismo](https://eticaparainiciantes.biblioverse.org/teorias/gradualismo.html): Seres sencientes contam, mas o peso dos seus interesses varia com capacidades como inteligência e autoconsciência.
+- [Jainismo (ahimsa)](https://eticaparainiciantes.biblioverse.org/teorias/jainismo.html): Jainismo: a tradição indiana que levou a não violência mais longe. Todo ser vivo tem alma e sofre, e o dever primeiro é não ferir nenhum.
+- [Objetivismo de Ayn Rand](https://eticaparainiciantes.biblioverse.org/teorias/objetivismo-de-ayn-rand.html): O egoísmo racional como virtude: a própria vida é o padrão de valor, e o altruísmo é um erro moral.
+- [Relativismo cultural](https://eticaparainiciantes.biblioverse.org/teorias/relativismo-cultural.html): Certo e errado dependem das normas de cada cultura; não há padrão para julgar de fora.
+- [Satanismo](https://eticaparainiciantes.biblioverse.org/teorias/satanismo.html): Satanismo moderno não adora o diabo: o de LaVey é egoísmo racional com indulgência; o Templo Satânico, humanismo secular que luta pela laicidade.
+- [Sencientismo](https://eticaparainiciantes.biblioverse.org/teorias/sencientismo.html): Quem pode sentir dor e prazer conta por si mesmo, seja de que espécie for.
+- [Subjetivismo (relativismo individual)](https://eticaparainiciantes.biblioverse.org/teorias/subjetivismo.html): Certo e errado dependem do julgamento de cada pessoa. O que mais pesa para cada teoria, pontos fortes, objeções e referências.
+- [Temporalismo e atemporalismo](https://eticaparainiciantes.biblioverse.org/teorias/temporalismo.html): O presente pesa mais do que o futuro (temporalismo), ou um sofrimento vale o mesmo em qualquer data (atemporalismo)?
+
+## Debates
+
+- [Debates éticos](https://eticaparainiciantes.biblioverse.org/debates.html): Bilionários, eutanásia, aborto, mentira, tortura, imigração, relacionamentos, duplo padrão sexual, luxo e mais: as perspectivas e onde a razão pesa.
+- [Aborto](https://eticaparainiciantes.biblioverse.org/debates/aborto.html): O debate mais polarizado da ética aplicada, e um dos mais bem estruturados: tudo depende de duas perguntas, e elas são diferentes.
+- [Manter amizade com quem pensa muito diferente](https://eticaparainiciantes.biblioverse.org/debates/amizade-e-desacordo.html): Amigos que votam no oposto, que comem o que você condena, que acham errado o que você faz. Cortar relações é coerência ou tribalismo?
+- [Ter animais de estimação](https://eticaparainiciantes.biblioverse.org/debates/animais-de-estimacao.html): Amamos cães e gatos, e os criamos para depender de nós. Isso é cuidado, é posse, ou as duas coisas? E o que devemos a eles?
+- [Apostas: liberdade, vício e quem lucra com ele](https://eticaparainiciantes.biblioverse.org/debates/apostas.html): Apostas por celular, cassinos e loterias do Estado: entre o direito de arriscar o próprio dinheiro e uma indústria desenhada para explorar o vício.
+- [Devem existir bilionários?](https://eticaparainiciantes.biblioverse.org/debates/bilionarios.html): Existem bilionários éticos? A pergunta não é sobre o caráter de ninguém, e sim sobre o que a concentração extrema de riqueza faz ao mundo.
+- [Bolhas e câmaras de eco: de quem é a culpa?](https://eticaparainiciantes.biblioverse.org/debates/bolhas-e-camaras-de-eco.html): Só ouvir quem concorda, e desconfiar de quem não. Até onde isso é uma falha pessoal, um desenho das plataformas ou um problema moral coletivo.
+- [Cancelamento e vergonha pública](https://eticaparainiciantes.biblioverse.org/debates/cancelamento.html): Punir publicamente quem disse ou fez algo errado: justiça feita por quem não tinha voz, ou linchamento sem defesa nem proporção?
+- [Censura: quando é legítimo impedir que algo seja dito?](https://eticaparainiciantes.biblioverse.org/debates/censura.html): Estado, plataformas, editoras, público: muitos podem silenciar. O que separa a proibição legítima de incitação e fraude da censura de opiniões.
+- [Compensação moral: doar compensa causar dano?](https://eticaparainiciantes.biblioverse.org/debates/compensacao-moral.html): Comer carne e doar para proteger animais, poluir e comprar créditos de carbono: o saldo pode ser “excelente”. O que a aritmética esconde.
+- [Condições que causam dano: dependência, transtornos, abuso](https://eticaparainiciantes.biblioverse.org/debates/condicoes-que-causam-dano.html): Algumas condições tornam provável o dano a outros. A ética separa a condição do ato, a pessoa do risco, e pergunta o que previne.
+- [Em que focar: consequências, regras ou caráter?](https://eticaparainiciantes.biblioverse.org/debates/consequencias-regras-ou-carater.html): As três grandes famílias respondem a perguntas diferentes: o que produzir, o que fazer e quem ser. A disputa é sobre qual vem primeiro.
+- [Gastar com luxo é errado?](https://eticaparainiciantes.biblioverse.org/debates/consumo-de-luxo.html): Um carro caro, uma viagem, um relógio: o dinheiro que compra prazer para você poderia salvar uma vida para outro. Isso torna o gasto errado?
+- [Corrupção: do “jeitinho” ao desvio](https://eticaparainiciantes.biblioverse.org/debates/corrupcao.html): Pagar para não levar multa, furar a fila com um contato, desviar o orçamento: a mesma estrutura em escalas diferentes.
+- [Cotas e ações afirmativas](https://eticaparainiciantes.biblioverse.org/debates/cotas.html): Reservar vagas por raça ou renda corrige uma injustiça ou cria outra? O que a evidência brasileira diz.
+- [Qual é o critério moral mais sólido?](https://eticaparainiciantes.biblioverse.org/debates/criterio-mais-solido.html): Regra de ouro, véu da ignorância, universalidade, coerência, justiça, imparcialidade: são testes diferentes, e todos apontam na mesma direção.
+- [Fazer mal a quem nunca vai saber: existe dano?](https://eticaparainiciantes.biblioverse.org/debates/dano-sem-experiencia.html): Uma traição nunca descoberta, uma invasão de privacidade que a vítima jamais percebe. Se não há sofrimento, há dano? O debate sobre o requisito da experiência.
+- [Dar dinheiro a quem pede na rua](https://eticaparainiciantes.biblioverse.org/debates/dar-dinheiro-na-rua.html): Ajuda ou alimenta um problema? O gesto mais comum de caridade é também o mais discutido.
+- [Desobedecer a lei pode ser certo?](https://eticaparainiciantes.biblioverse.org/debates/desobediencia-civil.html): Quebrar a lei para corrigir uma injustiça, abertamente e aceitando as consequências: de Thoreau a Gandhi e King, e os limites da ideia.
+- [O que devemos aos pais?](https://eticaparainiciantes.biblioverse.org/debates/deveres-com-os-pais.html): Cuidar dos pais na velhice: dívida, gratidão, amizade ou escolha? E quando eles não cuidaram de nós?
+- [Doar para as causas mais eficazes?](https://eticaparainiciantes.biblioverse.org/debates/doacao-eficaz.html): Uma doação pode salvar uma vida ou pagar um folheto. O altruísmo eficaz diz que a diferença obriga. Os críticos dizem que a planilha esconde coisas.
+- [Uso e criminalização de drogas](https://eticaparainiciantes.biblioverse.org/debates/drogas.html): Adultos podem fazer o que quiserem com o próprio corpo? E a criminalização reduz o dano, ou o aumenta?
+- [Duplo padrão sexual: julgar homens e mulheres igual?](https://eticaparainiciantes.biblioverse.org/debates/duplo-padrao-sexual.html): O homem que tem muitos parceiros é “garanhão”; a mulher, recebe outro nome. O duplo padrão é quase universal. Ele tem alguma defesa?
+- [Editar genes humanos](https://eticaparainiciantes.biblioverse.org/debates/edicao-genetica.html): Curar doenças no embrião, quase todos aceitam. Escolher altura, inteligência ou cor dos olhos, a maioria rejeita. Por quê?
+- [Empresas têm deveres além do lucro?](https://eticaparainiciantes.biblioverse.org/debates/empresas-e-lucro.html): Friedman contra Freeman: a empresa deve só aos acionistas ou a todos os afetados? O que a ética diz sobre o lucro, as regras do jogo e quem fica fora delas.
+- [Eutanásia e suicídio assistido](https://eticaparainiciantes.biblioverse.org/debates/eutanasia-e-suicidio-assistido.html): Uma pessoa lúcida, com doença incurável e sofrimento intenso, pode pedir ajuda para morrer? Quem pode ajudá-la?
+- [Existe verdade moral?](https://eticaparainiciantes.biblioverse.org/debates/existe-verdade-moral.html): “A tortura é errada” é verdadeiro como “a água ferve a 100 graus”? Realistas dizem que sim; antirrealistas, que a frase faz outra coisa. O que está em jogo.
+- [Experimentação em animais](https://eticaparainiciantes.biblioverse.org/debates/experimentacao-animal.html): O uso de animais com mais benefício humano real, e por isso o mais difícil de julgar. Onde fica a linha?
+- [Explorar animais](https://eticaparainiciantes.biblioverse.org/debates/explorar-animais.html): Criar, confinar e matar animais para comida, roupa e entretenimento: há defesa ética para isso? E se houver, para qual parte?
+- [Se tudo vai acabar, por que evitar a extinção?](https://eticaparainiciantes.biblioverse.org/debates/extincao-e-boa-existencia.html): O Sol vai engolir a Terra e o universo esfria. Vale a pena gastar tanto com riscos existenciais, ou o que importa é a qualidade da existência enquanto ela dura?
+- [Fetiches e preferências sexuais](https://eticaparainiciantes.biblioverse.org/debates/fetiches-e-preferencias-sexuais.html): O que torna uma prática sexual aceitável não é ser comum, e sim consentida e sem dano. Onde a linha passa, e onde ela realmente é cruzada.
+- [Os fins justificam os meios?](https://eticaparainiciantes.biblioverse.org/debates/fins-e-meios.html): Os fins justificam os meios? Maquiavel, Trótski, Dewey e os deontologistas sobre a frase mais citada da ética, e por que a resposta é “às vezes”.
+- [Homofobia, transfobia, xenofobia: “fobias” que prejudicam](https://eticaparainiciantes.biblioverse.org/debates/fobias-e-preconceitos.html): O nome diz medo, mas o que elas produzem é dano a outros. São condições, atitudes ou escolhas? E o que isso muda na responsabilidade?
+- [Existe guerra justa?](https://eticaparainiciantes.biblioverse.org/debates/guerra-justa.html): Pacifismo, guerra justa e realismo: quando, se alguma vez, matar em escala é permitido, e com que regras.
+- [Homossexualidade](https://eticaparainiciantes.biblioverse.org/debates/homossexualidade.html): Há algo moralmente errado em relações entre pessoas do mesmo sexo? A filosofia respondeu que não, e vale ver por quê, e o que ainda é devido.
+- [Humildade intelectual: dever de duvidar ou desculpa?](https://eticaparainiciantes.biblioverse.org/debates/humildade-intelectual.html): Saber o que não se sabe, dar peso ao desacordo, mudar de ideia. Quando a humildade intelectual é uma virtude e quando vira relativismo ou paralisia.
+- [Humildade: virtude, vício ou postura?](https://eticaparainiciantes.biblioverse.org/debates/humildade.html): Aristóteles a desprezava, o cristianismo a colocou no centro, Nietzsche a chamou de moral de escravos. O que a humildade é, quando é virtude e quando é falsa.
+- [Fronteiras abertas?](https://eticaparainiciantes.biblioverse.org/debates/imigracao.html): O lugar de nascimento é a maior loteria da vida. Que direito um país tem de impedir alguém de entrar?
+- [Traição](https://eticaparainiciantes.biblioverse.org/debates/infidelidade.html): Quase todos condenam, muitos praticam. O que exatamente é errado na infidelidade, e isso muda alguma coisa?
+- [Legítima defesa](https://eticaparainiciantes.biblioverse.org/debates/legitima-defesa.html): Pode-se ferir ou matar para se defender? Quase todos dizem sim. O debate é sobre os limites: necessidade, proporção e o caso do agressor inocente.
+- [Liberdade de expressão irrestrita](https://eticaparainiciantes.biblioverse.org/debates/liberdade-de-expressao-irrestrita.html): Deve ser possível dizer qualquer coisa? Quase ninguém defende isso ao pé da letra. O debate real é sobre onde ficam os limites.
+- [Humor depreciativo, humor negro e os limites do humor](https://eticaparainiciantes.biblioverse.org/debates/limites-do-humor.html): “É só uma piada.” Quando o riso fere, quando é remédio, e por que “para cima” e “para baixo” não são a mesma coisa. O que a ética e a filosofia do humor dizem.
+- [Devemos priorizar o futuro distante?](https://eticaparainiciantes.biblioverse.org/debates/longoprazismo.html): Se as pessoas futuras contam e podem ser trilhões, o longo prazo domina tudo? Ou isso é um cheque em branco contra o presente?
+- [Mentir é sempre errado?](https://eticaparainiciantes.biblioverse.org/debates/mentir.html): Da mentira branca à mentira que salva vidas: Kant disse que nunca; quase todo mundo discorda. Onde fica a linha?
+- [Meritocracia é justa?](https://eticaparainiciantes.biblioverse.org/debates/meritocracia.html): Recompensar o mérito parece óbvio. Mas de onde vem o mérito, e o que acontece com quem não o tem?
+- [Mudar o meio ou mudar a cabeça das pessoas?](https://eticaparainiciantes.biblioverse.org/debates/mudar-o-meio-ou-as-pessoas.html): Convencer um a um ou mudar leis, preços, tecnologia e padrões? A estratégia de quem quer um mundo melhor, e o que a psicologia diz sobre ela.
+- [Neurodivergência, intersexo e outras condições](https://eticaparainiciantes.biblioverse.org/debates/neurodivergencia-e-outras-condicoes.html): Autismo, TDAH, intersexo, assexualidade: diferenças que já foram tratadas como defeito. O que a ética diz sobre cada uma, e o que é devido.
+- [Separar a obra do artista?](https://eticaparainiciantes.biblioverse.org/debates/obra-e-artista.html): Ouvir, ler e pagar por obras de quem fez coisas terríveis: o que a ética diz sobre a obra, o consumo e o que muda quando o autor está vivo.
+- [De onde vem a moral?](https://eticaparainiciantes.biblioverse.org/debates/origem-da-moral.html): Deus, a natureza, a razão, o sentimento ou a convenção? As respostas sobre a origem da moral, e por que a origem não decide o conteúdo.
+- [Castigo físico em crianças](https://eticaparainiciantes.biblioverse.org/debates/palmada.html): “Uma palmada nunca fez mal a ninguém.” A evidência diz outra coisa, e a ética também.
+- [O Estado pode proteger você de si mesmo?](https://eticaparainiciantes.biblioverse.org/debates/paternalismo.html): Cinto de segurança, capacete, açúcar, jogo, drogas: quando interferir na escolha de um adulto para o próprio bem dele é aceitável?
+- [Pena de morte](https://eticaparainiciantes.biblioverse.org/debates/pena-de-morte.html): O Estado pode matar quem cometeu o pior dos crimes? Merecimento de um lado, erro irreversível e falta de efeito do outro.
+- [Pequenas trapaças: pirataria, sonegação, furar fila](https://eticaparainiciantes.biblioverse.org/debates/pequenas-trapacas.html): Baixar um filme, não declarar uma renda, passar na frente. “Todo mundo faz” e “não prejudica ninguém”: duas desculpas, examinadas.
+- [Perdoar é um dever?](https://eticaparainiciantes.biblioverse.org/debates/perdao.html): Perdoar quem não se arrependeu, perdoar em nome de outros, perdoar o imperdoável. O que o perdão é, quando é devido e quando é uma traição à vítima.
+- [Pirataria](https://eticaparainiciantes.biblioverse.org/debates/pirataria.html): Baixar um filme, um livro ou um programa sem pagar: roubo, carona ou acesso legítimo? Depende de quem perde o quê.
+- [Plágio](https://eticaparainiciantes.biblioverse.org/debates/plagio.html): Apresentar como seu o que é de outro: quem é prejudicado, por que é diferente de copiar, e onde a inteligência artificial muda a pergunta.
+- [Com grande poder vem grande responsabilidade?](https://eticaparainiciantes.biblioverse.org/debates/poder-e-responsabilidade.html): Governantes, empresários, cientistas, influenciadores, países ricos. A responsabilidade cresce com o poder, ou cada um responde só pelo que faz?
+- [Por que ser moral?](https://eticaparainiciantes.biblioverse.org/debates/por-que-ser-moral.html): Se ninguém visse, você seria justo? A pergunta de Gláucon a Sócrates, e as respostas de 2.400 anos.
+- [Pornografia](https://eticaparainiciantes.biblioverse.org/debates/pornografia.html): Consumir e produzir pornografia entre adultos: liberdade de expressão e prazer sem vítima, ou indústria que explora e molda o desejo?
+- [Preferências póstumas: o que o morto quis ainda conta?](https://eticaparainiciantes.biblioverse.org/debates/preferencias-postumas.html): Testamentos, promessas ao leito de morte, o destino do corpo. A pessoa não existe mais; sua vontade deve pesar? O debate sobre dano e interesses póstumos.
+- [Primitivismo: a civilização foi um erro?](https://eticaparainiciantes.biblioverse.org/debates/primitivismo.html): Rousseau, o anarcoprimitivismo e a nostalgia da vida pré-agrícola. O que a crítica acerta sobre a civilização, e o que ela esquece sobre quem viveria sem ela.
+- [É errado haver pseudociência nas universidades?](https://eticaparainiciantes.biblioverse.org/debates/pseudociencia-nas-universidades.html): Se há teorias blindadas e resultados que não se replicam na universidade, de quem é o dever de corrigir, o que ele exige e o que não justifica.
+- [Pseudociências: acreditar é um problema moral?](https://eticaparainiciantes.biblioverse.org/debates/pseudociencias.html): Astrologia, homeopatia, terapias sem evidência, negação de vacinas. Entre a liberdade de crer e o dano de agir, onde a ética entra.
+- [Psicopatia e responsabilidade](https://eticaparainiciantes.biblioverse.org/debates/psicopatia.html): Pessoas com psicopatia entendem as regras e não sentem o que elas protegem. São responsáveis pelo que fazem? E o que a sociedade deve a elas e às suas vítimas?
+- [Publicidade e manipulação: onde persuadir vira enganar?](https://eticaparainiciantes.biblioverse.org/debates/publicidade-e-manipulacao.html): Informar, seduzir, explorar vieses, mirar crianças. A linha entre a persuasão legítima e a manipulação, e por que ela é mais nítida do que parece.
+- [Punir por merecimento ou para prevenir?](https://eticaparainiciantes.biblioverse.org/debates/punicao.html): Retribuição, dissuasão, reabilitação, proteção: o que justifica a prisão, e o que isso muda em como punimos.
+- [Qual vertente política leva a um mundo melhor?](https://eticaparainiciantes.biblioverse.org/debates/qual-vertente-politica.html): Esquerda, direita, liberalismo, socialismo, conservadorismo: o que a evidência e a filosofia moral permitem dizer, e o que nenhuma delas ainda inclui.
+- [Razão ou sentimento: o que fundamenta o juízo moral?](https://eticaparainiciantes.biblioverse.org/debates/razao-ou-sentimento.html): Hume disse que a razão é escrava das paixões; Kant, que a moral vem da razão pura.
+- [Relacionamentos abertos e não monogamia](https://eticaparainiciantes.biblioverse.org/debates/relacionamentos-abertos.html): A monogamia é um padrão moral ou um arranjo entre outros? O que importa: a forma do relacionamento, ou o acordo e a honestidade entre as pessoas?
+- [Podemos julgar outras culturas?](https://eticaparainiciantes.biblioverse.org/debates/relativismo-moral.html): “Cada cultura tem sua moral, e ninguém pode julgar.” A frase soa tolerante. Levada a sério, ela impede dizer que a escravidão era errada.
+- [Religião na política](https://eticaparainiciantes.biblioverse.org/debates/religiao-na-politica.html): Crentes podem votar e legislar segundo sua fé? Argumentos religiosos valem no debate público? O Estado laico, a razão pública e os limites dos dois lados.
+- [Reparações históricas: quem deve o quê a quem?](https://eticaparainiciantes.biblioverse.org/debates/reparacoes-historicas.html): Escravidão, colonização, genocídios. Os vivos devem reparar o que os mortos fizeram? A quem se paga, e com que dinheiro?
+- [É certo ter filhos?](https://eticaparainiciantes.biblioverse.org/debates/ter-filhos.html): O antinatalismo diz que nascer é sempre um dano. A maioria discorda, mas o argumento é mais difícil de responder do que parece.
+- [Terrorismo: há alguma versão justificável?](https://eticaparainiciantes.biblioverse.org/debates/terrorismo.html): Matar civis para forçar uma mudança política: a definição de terrorismo, a diferença para a guerra e a resistência, e por que quase todos o condenam.
+- [Tirar a vida de um ser senciente: qual é o dano da morte?](https://eticaparainiciantes.biblioverse.org/debates/tirar-a-vida.html): Se a morte é indolor, o que ela tira de quem morre? A resposta decide o que pensar de eutanásia, aborto, abate e guerra.
+- [Tornar ignorantes famosos é errado?](https://eticaparainiciantes.biblioverse.org/debates/tornar-ignorantes-famosos.html): Audiências, mídia e algoritmos dão palco a quem fala com segurança sobre o que não sabe. Isso faz mal à sociedade?
+- [Tortura: nunca, ou na bomba-relógio?](https://eticaparainiciantes.biblioverse.org/debates/tortura.html): O caso hipotético em que torturar um terrorista salvaria milhares. O que ele prova, e o que ele esconde.
+- [Trabalho sexual](https://eticaparainiciantes.biblioverse.org/debates/trabalho-sexual.html): Vender sexo entre adultos: é trabalho como outro, exploração por definição, ou algo que depende das condições?
+- [Trabalho: dever, dignidade ou necessidade?](https://eticaparainiciantes.biblioverse.org/debates/trabalho.html): Quem não trabalha não merece comer? Entre a ética do trabalho, o direito à preguiça e o que devemos a quem não pode trabalhar.
+- [Transgeneridade](https://eticaparainiciantes.biblioverse.org/debates/transgeneridade.html): O que devemos a pessoas cuja identidade de gênero não corresponde ao sexo atribuído ao nascer: respeito, reconhecimento e cuidado.
+- [Como usar o tempo para melhorar o mundo?](https://eticaparainiciantes.biblioverse.org/debates/uso-do-tempo.html): Oitenta mil horas de trabalho, mais o resto. Carreira, voluntariado, ativismo, cuidado: o que a ética diz sobre onde colocar o recurso que não se recupera.
+- [Vacinação obrigatória: o corpo de um e o dano aos outros](https://eticaparainiciantes.biblioverse.org/debates/vacinacao-obrigatoria.html): Exigir vacina para a escola, o trabalho ou a entrada em lugares. O que a ética da saúde pública diz sobre coerção, imunidade coletiva e o direito de recusar.
+- [Doação e venda de órgãos](https://eticaparainiciantes.biblioverse.org/debates/venda-de-orgaos.html): Milhares morrem na fila. Consentimento presumido resolveria parte; um mercado regulado, talvez o resto. Por que a ideia causa tanta repulsa?
+- [Vigilância e privacidade](https://eticaparainiciantes.biblioverse.org/debates/vigilancia-e-privacidade.html): “Quem não deve, não teme”? A privacidade vale por si, ou só pelo que protege? E o que a vigilância em massa faz com uma sociedade?
+
+## Dilemas clássicos
+
+- [O anel de Giges](https://eticaparainiciantes.biblioverse.org/dilemas/anel-de-giges.html): Um anel torna você invisível. Você continuaria sendo justo sem ninguém para ver?
+- [O barco salva-vidas](https://eticaparainiciantes.biblioverse.org/dilemas/barco-salva-vidas.html): Um barco com lugar para poucos, e muitos nadando ao redor. Quem entra, e com que critério?
+- [O bonde: o desvio](https://eticaparainiciantes.biblioverse.org/dilemas/bonde-desvio.html): Acionar uma alavanca e matar um para salvar cinco. A maioria diz sim. O caso, a pergunta e o que cada teoria tende a dizer.
+- [O bonde: a passarela](https://eticaparainiciantes.biblioverse.org/dilemas/bonde-passarela.html): Empurrar um homem da passarela para parar o bonde e salvar cinco. A maioria diz não.
+- [Os casos de Frankfurt](https://eticaparainiciantes.biblioverse.org/dilemas/casos-de-frankfurt.html): Jones vota em A por conta própria, mas um dispositivo o forçaria se ele fosse votar em B. Ele não podia fazer diferente, e é responsável. Como?
+- [Os casos marginais](https://eticaparainiciantes.biblioverse.org/dilemas/casos-marginais.html): Se a razão é o critério para contar, bebês e pessoas com deficiência grave ficariam fora. Se contam mesmo assim, por que os animais não?
+- [A conclusão repugnante](https://eticaparainiciantes.biblioverse.org/dilemas/conclusao-repugnante.html): Um mundo imenso de vidas quase sem valor seria melhor do que um mundo pequeno de vidas excelentes, porque a soma é maior.
+- [A criança no lago](https://eticaparainiciantes.biblioverse.org/dilemas/crianca-no-lago.html): Você salvaria uma criança se afogando, mesmo estragando sapatos caros. Por que não doa o valor dos sapatos para salvar uma criança distante?
+- [O dilema de Heinz](https://eticaparainiciantes.biblioverse.org/dilemas/dilema-de-heinz.html): Heinz não tem dinheiro para o remédio que salvaria a mulher. Deve roubá-lo? A pergunta era sobre como as pessoas raciocinam.
+- [O dilema do prisioneiro](https://eticaparainiciantes.biblioverse.org/dilemas/dilema-do-prisioneiro.html): Dois presos, cada um melhor se trair, os dois piores se ambos traírem. O modelo de todo problema de cooperação.
+- [A escolha de Sofia](https://eticaparainiciantes.biblioverse.org/dilemas/escolha-de-sofia.html): Um oficial manda uma mãe escolher qual dos dois filhos morrerá; se não escolher, morrem os dois. Qualquer escolha é uma perda irreparável.
+- [O Gauguin de Williams](https://eticaparainiciantes.biblioverse.org/dilemas/gauguin.html): Um pintor abandona a família para pintar no Taiti. Se virar um grande artista, foi justificado? Se fracassar, não? A sorte decide o juízo?
+- [Jim e os indígenas](https://eticaparainiciantes.biblioverse.org/dilemas/jim-e-os-indigenas.html): Jim pode matar um prisioneiro para que outros dezenove sejam libertados. Williams pergunta o que isso faz com Jim.
+- [A máquina de experiências](https://eticaparainiciantes.biblioverse.org/dilemas/maquina-de-experiencias.html): Uma máquina pode dar qualquer experiência que você quiser, pela vida inteira, indistinguível da realidade. Você se ligaria?
+- [Mentir ao assassino](https://eticaparainiciantes.biblioverse.org/dilemas/mentir-ao-assassino.html): Um assassino pergunta onde está a pessoa que você escondeu. Kant disse que não se pode mentir nem assim.
+- [O monstro utilitário](https://eticaparainiciantes.biblioverse.org/dilemas/monstro-utilitario.html): Um ser que ganha mais prazer do que todos perdem justificaria sacrificar todos a ele.
+- [Omelas](https://eticaparainiciantes.biblioverse.org/dilemas/omelas.html): Uma cidade perfeita, cuja felicidade depende de uma criança mantida em sofrimento. Todos sabem. Alguns vão embora.
+- [O paradoxo da tolerância](https://eticaparainiciantes.biblioverse.org/dilemas/paradoxo-da-tolerancia.html): Uma sociedade tolerante com os intolerantes acaba destruída por eles? Popper disse que sim, com uma condição que costuma ser esquecida.
+- [O sorites: o paradoxo do monte](https://eticaparainiciantes.biblioverse.org/dilemas/sorites.html): Um grão não faz um monte; mais um grão também não; logo, nenhum número de grãos faz um monte. O paradoxo que atravessa o aborto, o gradualismo e a senciência.
+- [Os torturadores inofensivos](https://eticaparainiciantes.biblioverse.org/dilemas/torturadores-inofensivos.html): Mil pessoas, cada uma gira um botão imperceptível; juntas, torturam uma vítima. Ninguém causou dano perceptível. Alguém fez algo errado?
+- [A tragédia dos comuns](https://eticaparainiciantes.biblioverse.org/dilemas/tragedia-dos-comuns.html): Um pasto comum, cada pastor com incentivo para pôr mais uma vaca, e o pasto destruído. Clima, pesca e trânsito em uma imagem.
+- [O transplante](https://eticaparainiciantes.biblioverse.org/dilemas/transplante.html): Um cirurgião pode matar um paciente saudável e usar seus órgãos para salvar cinco. Quase ninguém aceita.
+- [O último homem](https://eticaparainiciantes.biblioverse.org/dilemas/ultimo-homem.html): O último humano vivo destrói toda a vida restante antes de morrer. Ninguém será afetado. Ele fez algo errado?
+- [O véu da ignorância](https://eticaparainiciantes.biblioverse.org/dilemas/veu-da-ignorancia.html): Escolha as regras da sociedade sem saber quem você será nela. E se também não soubesse a sua espécie?
+- [O violinista](https://eticaparainiciantes.biblioverse.org/dilemas/violinista.html): Você acorda conectado a um violinista que morrerá se for desconectado. Tem obrigação de ficar nove meses?
+
+## Ferramentas
+
+- [O bonde, caso a caso](https://eticaparainiciantes.biblioverse.org/ferramentas/dilema-do-bonde.html): Responda às variantes do dilema e veja que padrão suas respostas revelam.
+- [Exercício de equilíbrio reflexivo](https://eticaparainiciantes.biblioverse.org/ferramentas/equilibrio-reflexivo.html): Julgue casos, escolha um princípio e veja onde seus juízos e seu princípio se contradizem.
+- [Fato ou valor?](https://eticaparainiciantes.biblioverse.org/ferramentas/fato-ou-valor.html): Treine separar o que se discute com argumento moral do que se checa com evidência.
+- [Monte o seu círculo moral](https://eticaparainiciantes.biblioverse.org/ferramentas/meu-circulo-moral.html): Marque quem conta para você e descubra o nome da sua posição. Ferramenta interativa e gratuita, sem cadastro.
+- [Que teoria é essa?](https://eticaparainiciantes.biblioverse.org/ferramentas/que-teoria-e-essa.html): Doze frases, seis famílias. Reconheça o ponto focal de cada argumento.
+- [Quem disse?](https://eticaparainiciantes.biblioverse.org/ferramentas/quem-disse.html): Dezesseis ideias, dezesseis filósofos. Ligue cada tese a quem a defendeu.
+- [Teste de troca](https://eticaparainiciantes.biblioverse.org/ferramentas/teste-de-troca.html): Você julgaria o mesmo ato se o autor fosse do outro grupo? Ferramenta interativa e gratuita, sem cadastro.
+- [Simulador do véu da ignorância](https://eticaparainiciantes.biblioverse.org/ferramentas/veu-da-ignorancia.html): Escolha as regras de uma sociedade sem saber quem você será nela. Depois, descubra.
+
+## Filósofos morais
+
+- [Elisa Aaltola](https://eticaparainiciantes.biblioverse.org/filosofos/aaltola.html): Filósofa das emoções morais e da empatia na relação com os animais. Quem foi, o que defendeu e o que dizem os críticos.
+- [Adam Smith](https://eticaparainiciantes.biblioverse.org/filosofos/adam-smith.html): Antes de economista, filósofo moral: a simpatia e o espectador imparcial como base do juízo moral.
+- [Elizabeth Anscombe](https://eticaparainiciantes.biblioverse.org/filosofos/anscombe.html): Reabriu a ética das virtudes em 1958 e cunhou o termo “consequencialismo” como crítica.
+- [Jacy Reese Anthis](https://eticaparainiciantes.biblioverse.org/filosofos/anthis.html): Pesquisador social; estuda a expansão do círculo moral, inclusive a mentes artificiais.
+- [Hannah Arendt](https://eticaparainiciantes.biblioverse.org/filosofos/arendt.html): A banalidade do mal e a ação política: o mal em escala precisa de pessoas que não pensam.
+- [Aristóteles](https://eticaparainiciantes.biblioverse.org/filosofos/aristoteles.html): Autor da Ética a Nicômaco, texto fundador da ética das virtudes. Quem foi, o que defendeu e o que dizem os críticos.
+- [Robin Attfield](https://eticaparainiciantes.biblioverse.org/filosofos/attfield.html): Defende um consequencialismo biocêntrico: o florescimento de todos os vivos conta.
+- [A. J. Ayer](https://eticaparainiciantes.biblioverse.org/filosofos/ayer.html): Formulou o emotivismo: juízos morais expressam emoção, não descrevem fatos.
+- [Tobias Baumann](https://eticaparainiciantes.biblioverse.org/filosofos/baumann.html): Cofundador do Center for Reducing Suffering; autor da primeira introdução sistemática aos riscos S.
+- [Simone de Beauvoir](https://eticaparainiciantes.biblioverse.org/filosofos/beauvoir.html): A ética da ambiguidade e O Segundo Sexo: minha liberdade exige a dos outros.
+- [David Benatar](https://eticaparainiciantes.biblioverse.org/filosofos/benatar.html): Defensor do antinatalismo: nascer é sempre um dano, pela assimetria entre dor e prazer.
+- [Jeremy Bentham](https://eticaparainiciantes.biblioverse.org/filosofos/bentham.html): Fundador do utilitarismo; o primeiro a perguntar dos animais “podem sofrer?”.
+- [Simon Blackburn](https://eticaparainiciantes.biblioverse.org/filosofos/blackburn.html): Criador do quase-realismo: expressamos atitudes, mas podemos falar como realistas.
+- [Nick Bostrom](https://eticaparainiciantes.biblioverse.org/filosofos/bostrom.html): Definiu o risco existencial e fundou o Future of Humanity Institute. Quem foi, o que defendeu e o que dizem os críticos.
+- [J. Baird Callicott](https://eticaparainiciantes.biblioverse.org/filosofos/callicott.html): Sistematizou a ética da terra de Leopold como teoria filosófica. Quem foi, o que defendeu e o que dizem os críticos.
+- [Carol J. Adams](https://eticaparainiciantes.biblioverse.org/filosofos/carol-adams.html): Teórica ecofeminista; ligou a exploração dos animais à opressão das mulheres.
+- [Alasdair Cochrane](https://eticaparainiciantes.biblioverse.org/filosofos/cochrane.html): Teórico político dos direitos animais; propôs uma democracia cosmopolita senciocêntrica.
+- [Confúcio](https://eticaparainiciantes.biblioverse.org/filosofos/confucio.html): Mestre da ética do caráter e das relações, com uma versão própria da regra de ouro.
+- [Jonathan Dancy](https://eticaparainiciantes.biblioverse.org/filosofos/dancy.html): Autor do particularismo moral: não há princípios verdadeiros em geral; só o juízo decide cada caso.
+- [David DeGrazia](https://eticaparainiciantes.biblioverse.org/filosofos/degrazia.html): Bioeticista; defende a consideração igual dos animais com uma visão gradual do que está em jogo.
+- [John Dewey](https://eticaparainiciantes.biblioverse.org/filosofos/dewey.html): Pragmatista: a moral é inteligência aplicada a problemas, revisada pela experiência; a educação é seu laboratório.
+- [Diógenes de Sinope](https://eticaparainiciantes.biblioverse.org/filosofos/diogenes.html): A figura central do cinismo grego: viveu com o mínimo, desafiou as convenções em público e se dizia cidadão do mundo.
+- [Sue Donaldson e Will Kymlicka](https://eticaparainiciantes.biblioverse.org/filosofos/donaldson-kymlicka.html): Autores de Zoopolis: animais como membros da comunidade política, com cidadania, residência ou soberania.
+- [Ronald Dworkin](https://eticaparainiciantes.biblioverse.org/filosofos/dworkin.html): Direitos como trunfos, a unidade do valor e a leitura moral da Constituição.
+- [Epicteto](https://eticaparainiciantes.biblioverse.org/filosofos/epicteto.html): Escravo liberto que se tornou o mais influente professor estoico. Quem foi, o que defendeu e o que dizem os críticos.
+- [Epicuro](https://eticaparainiciantes.biblioverse.org/filosofos/epicuro.html): Hedonista moderado: o bem é o prazer, entendido como ausência de dor e de perturbação.
+- [Philippa Foot](https://eticaparainiciantes.biblioverse.org/filosofos/foot.html): Inventou o dilema do bonde e defendeu um naturalismo aristotélico. Quem foi, o que defendeu e o que dizem os críticos.
+- [Gary Francione](https://eticaparainiciantes.biblioverse.org/filosofos/francione.html): Jurista do abolicionismo animal: o problema é tratar animais como propriedade.
+- [Miranda Fricker](https://eticaparainiciantes.biblioverse.org/filosofos/fricker.html): Nomeou a injustiça epistêmica: o dano de não ser acreditada por preconceito e o de não ter conceitos para entender a própria experiência.
+- [Gabriel Garmendia da Trindade](https://eticaparainiciantes.biblioverse.org/filosofos/gabriel-garmendia-trindade.html): Filósofo e pesquisador de ética e direito animal; organizador de coletâneas sobre o tema no Brasil.
+- [Carol Gilligan](https://eticaparainiciantes.biblioverse.org/filosofos/gilligan.html): Autora de Uma Voz Diferente; fundadora da ética do cuidado. Quem foi, o que defendeu e o que dizem os críticos.
+- [Marcelo Gleiser](https://eticaparainiciantes.biblioverse.org/filosofos/gleiser.html): Físico e divulgador; propõe um biocentrismo cósmico a partir da raridade da vida.
+- [Kenneth Goodpaster](https://eticaparainiciantes.biblioverse.org/filosofos/goodpaster.html): Perguntou em 1978 o que basta para ser objeto de consideração moral, e respondeu: estar vivo.
+- [Jürgen Habermas](https://eticaparainiciantes.biblioverse.org/filosofos/habermas.html): A ética do discurso: uma norma vale se todos os afetados poderiam aceitá-la em diálogo livre de coerção.
+- [Jonathan Haidt](https://eticaparainiciantes.biblioverse.org/filosofos/haidt.html): Psicólogo moral: intuição primeiro, razão depois; os seis fundamentos morais.
+- [Yuval Noah Harari](https://eticaparainiciantes.biblioverse.org/filosofos/harari.html): Historiador; chamou a criação industrial de animais de um dos piores crimes da história.
+- [R. M. Hare](https://eticaparainiciantes.biblioverse.org/filosofos/hare.html): Criador do prescritivismo universal e do utilitarismo de dois níveis. Quem foi, o que defendeu e o que dizem os críticos.
+- [Thomas Hobbes](https://eticaparainiciantes.biblioverse.org/filosofos/hobbes.html): Autor do Leviatã; a moral como pacto racional entre interessados em segurança.
+- [Oscar Horta](https://eticaparainiciantes.biblioverse.org/filosofos/horta.html): Filósofo do sencientismo e do sofrimento dos animais selvagens; cofundador da Animal Ethics.
+- [Michael Huemer](https://eticaparainiciantes.biblioverse.org/filosofos/huemer.html): Intuicionista moral e libertário; escreveu o diálogo mais conhecido em defesa do vegetarianismo ético.
+- [David Hume](https://eticaparainiciantes.biblioverse.org/filosofos/hume.html): Mostrou que do “é” não se tira o “deve” e fundou a moral no sentimento.
+- [Rosalind Hursthouse](https://eticaparainiciantes.biblioverse.org/filosofos/hursthouse.html): Mostrou que a ética das virtudes orienta a ação, e a aplicou aos animais.
+- [Iris Marion Young](https://eticaparainiciantes.biblioverse.org/filosofos/iris-young.html): Iris Young, filósofa da opressão e da injustiça estrutural: as cinco faces da opressão e um modelo de responsabilidade coletiva voltado ao futuro.
+- [Jesus de Nazaré](https://eticaparainiciantes.biblioverse.org/filosofos/jesus.html): Mestre moral do cristianismo. Não é classificado como filósofo, mas seu ensino ético é estudado como tal.
+- [Immanuel Kant](https://eticaparainiciantes.biblioverse.org/filosofos/kant.html): Autor do imperativo categórico; a deontologia mais influente da história.
+- [Holden Karnofsky](https://eticaparainiciantes.biblioverse.org/filosofos/karnofsky.html): Cofundador do GiveWell e da Open Philanthropy; avaliar caridades por resultado.
+- [Christine Korsgaard](https://eticaparainiciantes.biblioverse.org/filosofos/korsgaard.html): Kantiana que estendeu o status de fim em si aos animais. Quem foi, o que defendeu e o que dizem os críticos.
+- [Aldo Leopold](https://eticaparainiciantes.biblioverse.org/filosofos/leopold.html): Autor da Ética da Terra, fundador do ecocentrismo. Quem foi, o que defendeu e o que dizem os críticos.
+- [Emmanuel Levinas](https://eticaparainiciantes.biblioverse.org/filosofos/levinas.html): A ética como filosofia primeira: o rosto do outro me obriga antes de qualquer teoria.
+- [Andrew Linzey](https://eticaparainiciantes.biblioverse.org/filosofos/linzey.html): Teólogo anglicano, fundador do Oxford Centre for Animal Ethics; a teologia dos direitos animais.
+- [Luciano Carlos Cunha](https://eticaparainiciantes.biblioverse.org/filosofos/luciano-carlos-cunha.html): Filósofo da ética animal e do sofrimento dos animais selvagens; coordenador da Ética Animal no Brasil.
+- [William MacAskill](https://eticaparainiciantes.biblioverse.org/filosofos/macaskill.html): Cofundador do altruísmo eficaz; sistematizou o longoprazismo. Quem foi, o que defendeu e o que dizem os críticos.
+- [Alasdair MacIntyre](https://eticaparainiciantes.biblioverse.org/filosofos/macintyre.html): Autor de Depois da Virtude; as virtudes vivem em tradições e comunidades.
+- [J. L. Mackie](https://eticaparainiciantes.biblioverse.org/filosofos/mackie.html): Autor da teoria do erro: a moral pretende descrever fatos que não existem.
+- [Mahavira (Vardhamana)](https://eticaparainiciantes.biblioverse.org/filosofos/mahavira.html): O vigésimo quarto tirthankara do jainismo, contemporâneo do Buda. Sistematizou a ahimsa, a não violência para com todo ser vivo, como centro da vida moral.
+- [Maria Alice da Silva](https://eticaparainiciantes.biblioverse.org/filosofos/maria-alice-da-silva.html): Filósofa da ética animal e da filosofia política; pesquisa a inclusão dos animais na justiça.
+- [Melanie Joy](https://eticaparainiciantes.biblioverse.org/filosofos/melanie-joy.html): Psicóloga social; nomeou o “carnismo”, a ideologia invisível que faz comer animais parecer natural.
+- [Mary Midgley](https://eticaparainiciantes.biblioverse.org/filosofos/midgley.html): Filósofa da natureza humana; criticou o reducionismo e defendeu a comunidade mista entre humanos e animais.
+- [John Stuart Mill](https://eticaparainiciantes.biblioverse.org/filosofos/mill.html): Refinou o utilitarismo e o uniu à defesa da liberdade individual. Quem foi, o que defendeu e o que dizem os críticos.
+- [G. E. Moore](https://eticaparainiciantes.biblioverse.org/filosofos/moore.html): Autor do argumento da questão em aberto e do não naturalismo moderno. Quem foi, o que defendeu e o que dizem os críticos.
+- [Mozi (Mo Di)](https://eticaparainiciantes.biblioverse.org/filosofos/mozi.html): Fundador do moísmo: o cuidado imparcial por todos e o julgamento das práticas pelo benefício. O primeiro consequencialista.
+- [Carlos Naconecy](https://eticaparainiciantes.biblioverse.org/filosofos/naconecy.html): Filósofo brasileiro da ética ambiental e animal; discute os limites entre sencientismo e biocentrismo.
+- [Thomas Nagel](https://eticaparainiciantes.biblioverse.org/filosofos/nagel.html): Realista moral; a sorte moral, o ponto de vista de lugar nenhum e o que é ser um morcego.
+- [Friedrich Nietzsche](https://eticaparainiciantes.biblioverse.org/filosofos/nietzsche.html): Crítico da moral como invenção dos fracos; genealogista dos valores. Quem foi, o que defendeu e o que dizem os críticos.
+- [Nel Noddings](https://eticaparainiciantes.biblioverse.org/filosofos/noddings.html): Teórica da ética do cuidado como relação entre quem cuida e quem é cuidado.
+- [Robert Nozick](https://eticaparainiciantes.biblioverse.org/filosofos/nozick.html): Libertário dos direitos como restrições laterais; autor do monstro utilitário e da máquina de experiências.
+- [Martha Nussbaum](https://eticaparainiciantes.biblioverse.org/filosofos/nussbaum.html): Abordagem das capacidades, inspirada em Aristóteles, estendida aos animais.
+- [Toby Ord](https://eticaparainiciantes.biblioverse.org/filosofos/ord.html): Autor de O Precipício; cofundador do Giving What We Can. Quem foi, o que defendeu e o que dizem os críticos.
+- [Derek Parfit](https://eticaparainiciantes.biblioverse.org/filosofos/parfit.html): Autor de Reasons and Persons; a conclusão repugnante, o prioritarismo e a convergência das teorias.
+- [Paul W. Taylor](https://eticaparainiciantes.biblioverse.org/filosofos/paul-taylor.html): Autor de Respeito pela Natureza, a formulação sistemática do biocentrismo.
+- [David Pearce](https://eticaparainiciantes.biblioverse.org/filosofos/pearce.html): Filósofo transumanista; propõe abolir o sofrimento de todos os sencientes com biotecnologia.
+- [Pitágoras](https://eticaparainiciantes.biblioverse.org/filosofos/pitagoras.html): Matemático e filósofo; sua escola praticou o vegetarianismo por razões morais e religiosas.
+- [Platão](https://eticaparainiciantes.biblioverse.org/filosofos/platao.html): Fundador da filosofia moral sistemática; perguntou se a justiça vale por si mesma.
+- [Humphry Primatt](https://eticaparainiciantes.biblioverse.org/filosofos/primatt.html): Clérigo anglicano; escreveu em 1776 o primeiro tratado inglês contra a crueldade com os animais.
+- [Rachel Carson](https://eticaparainiciantes.biblioverse.org/filosofos/rachel-carson.html): Bióloga e escritora; Primavera Silenciosa fundou o ambientalismo moderno.
+- [James Rachels](https://eticaparainiciantes.biblioverse.org/filosofos/rachels.html): Autor do manual de ética mais usado no mundo; aplicou Darwin à moral e defendeu os animais.
+- [John Rawls](https://eticaparainiciantes.biblioverse.org/filosofos/rawls.html): Autor de Uma Teoria da Justiça e do véu da ignorância. Quem foi, o que defendeu e o que dizem os críticos.
+- [Tom Regan](https://eticaparainiciantes.biblioverse.org/filosofos/regan.html): Autor de The Case for Animal Rights; direitos para todo sujeito de uma vida.
+- [Bernard E. Rollin](https://eticaparainiciantes.biblioverse.org/filosofos/rollin.html): Filósofo e veterinário; pioneiro da ética veterinária e da crítica ao negacionismo científico da dor animal.
+- [Holmes Rolston III](https://eticaparainiciantes.biblioverse.org/filosofos/rolston.html): Chamado de pai da ética ambiental; defendeu o valor intrínseco objetivo da natureza.
+- [W. D. Ross](https://eticaparainiciantes.biblioverse.org/filosofos/ross.html): Formulou a deontologia pluralista dos deveres prima facie. Quem foi, o que defendeu e o que dizem os críticos.
+- [Mark Rowlands](https://eticaparainiciantes.biblioverse.org/filosofos/rowlands.html): Estendeu o véu da ignorância à espécie: o contratualismo estendido. Quem foi, o que defendeu e o que dizem os críticos.
+- [Richard D. Ryder](https://eticaparainiciantes.biblioverse.org/filosofos/ryder.html): Psicólogo que cunhou “especismo” em 1970 e propôs o “painismo”. Quem foi, o que defendeu e o que dizem os críticos.
+- [Jean-Paul Sartre](https://eticaparainiciantes.biblioverse.org/filosofos/sartre.html): A existência precede a essência: somos o que escolhemos, e a má-fé é fingir que não escolhemos.
+- [T. M. Scanlon](https://eticaparainiciantes.biblioverse.org/filosofos/scanlon.html): Autor de O Que Devemos Uns aos Outros; o contratualismo da justificabilidade.
+- [Arthur Schopenhauer](https://eticaparainiciantes.biblioverse.org/filosofos/schopenhauer.html): Fundou a moral na compaixão, não na razão, e a estendeu aos animais. Quem foi, o que defendeu e o que dizem os críticos.
+- [Albert Schweitzer](https://eticaparainiciantes.biblioverse.org/filosofos/schweitzer.html): Médico e teólogo da “reverência pela vida”, raiz do biocentrismo. Quem foi, o que defendeu e o que dizem os críticos.
+- [Amartya Sen](https://eticaparainiciantes.biblioverse.org/filosofos/sen.html): A abordagem das capacidades: o que importa não é o que as pessoas têm, e sim o que conseguem ser e fazer.
+- [Sidarta Gautama (Buda)](https://eticaparainiciantes.biblioverse.org/filosofos/sidarta-gautama.html): Fundador do budismo; uma ética do fim do sofrimento, com compaixão por todos os seres sencientes.
+- [Henry Sidgwick](https://eticaparainiciantes.biblioverse.org/filosofos/sidgwick.html): Deu ao utilitarismo sua formulação mais rigorosa e viu o “dualismo da razão prática”.
+- [Peter Singer](https://eticaparainiciantes.biblioverse.org/filosofos/singer.html): Autor de Libertação Animal e da criança no lago; o filósofo vivo mais influente em ética prática.
+- [Sônia T. Felipe](https://eticaparainiciantes.biblioverse.org/filosofos/sonia-felipe.html): Pioneira da ética animal no Brasil; introduziu Singer, Regan e o antiespecismo na filosofia brasileira.
+- [Steven Best](https://eticaparainiciantes.biblioverse.org/filosofos/steven-best.html): Filósofo da libertação total; une libertação animal, humana e da Terra, com defesa da ação direta.
+- [Steven M. Wise](https://eticaparainiciantes.biblioverse.org/filosofos/steven-wise.html): Advogado; fundou o Nonhuman Rights Project para obter personalidade jurídica para animais.
+- [Sharon Street](https://eticaparainiciantes.biblioverse.org/filosofos/street.html): Formulou o dilema darwiniano contra o realismo moral e defende um construtivismo humeano.
+- [Susan Wolf](https://eticaparainiciantes.biblioverse.org/filosofos/susan-wolf.html): Susan Wolf, filósofa da vida moral e do sentido: por que uma vida só dedicada à moral seria pobre, e o que torna uma vida significativa.
+- [David Sztybel](https://eticaparainiciantes.biblioverse.org/filosofos/sztybel.html): Filósofo dos direitos animais; formulou o “best caring” como fundamento.
+- [Judith Jarvis Thomson](https://eticaparainiciantes.biblioverse.org/filosofos/thomson.html): Criou o violinista, o transplante e as variantes do bonde; a deontologia dos direitos aplicada a casos.
+- [Tomás de Aquino](https://eticaparainiciantes.biblioverse.org/filosofos/tomas-de-aquino.html): Uniu Aristóteles ao cristianismo e formulou a doutrina do duplo efeito.
+- [Brian Tomasik](https://eticaparainiciantes.biblioverse.org/filosofos/tomasik.html): Ensaísta do sofrimento; chamou a atenção para os animais selvagens, os invertebrados e os riscos S.
+- [Magnus Vinding](https://eticaparainiciantes.biblioverse.org/filosofos/vinding.html): Autor de Reasoned Politics e de defesas da ética focada no sofrimento.
+- [Bernard Williams](https://eticaparainiciantes.biblioverse.org/filosofos/williams.html): Crítico do utilitarismo e do kantismo em nome da integridade e da vida real.
+
+## Metaética
+
+- [Metaética](https://eticaparainiciantes.biblioverse.org/metaetica.html): Realismo, antirrealismo, teoria do erro, emotivismo, prescritivismo, quase-realismo, construtivismo e quietismo: o que é um juízo moral.
+- [Construtivismo moral](https://eticaparainiciantes.biblioverse.org/teorias/construtivismo.html): Fatos morais são o que agentes racionais decidiriam em condições ideais: nem descobertos nem inventados, construídos.
+- [Emotivismo](https://eticaparainiciantes.biblioverse.org/teorias/emotivismo.html): Juízos morais expressam emoções e tentam influenciar os outros; não são verdadeiros nem falsos.
+- [Ficcionalismo moral](https://eticaparainiciantes.biblioverse.org/teorias/ficcionalismo-moral.html): Se não há fatos morais, mantenha a moral como ficção útil: fale e aja como se houvesse, sabendo que não há.
+- [Intuicionismo moral](https://eticaparainiciantes.biblioverse.org/teorias/intuicionismo-moral.html): Conhecemos verdades morais básicas por intuição racional, como axiomas: ao entender bem “sofrimento gratuito é mau”, vemos que é verdadeiro.
+- [Objetivismo moral (universalismo)](https://eticaparainiciantes.biblioverse.org/teorias/objetivismo-moral.html): Há verdades morais que valem para todos, independentemente de cultura ou opinião. Não confundir com o “objetivismo” de Ayn Rand.
+- [Prescritivismo universal](https://eticaparainiciantes.biblioverse.org/teorias/prescritivismo.html): Juízos morais são comandos disfarçados, com uma marca: devem valer para todos em situação igual.
+- [Quase-realismo (expressivismo)](https://eticaparainiciantes.biblioverse.org/teorias/quase-realismo.html): Expressamos atitudes, mas temos direito a falar como realistas: a escravidão “era errada mesmo quando todos a aprovavam”.
+- [Quietismo metaético](https://eticaparainiciantes.biblioverse.org/teorias/quietismo-metaetico.html): A pergunta “fatos morais são independentes da mente?” está mal colocada. Aceite a prática moral como funciona, sem fundamentos de fora.
+- [Realismo moral não naturalista](https://eticaparainiciantes.biblioverse.org/teorias/realismo-nao-naturalista.html): Fatos morais existem, mas são de um tipo próprio, irredutível, como os fatos matemáticos.
+- [Realismo moral naturalista](https://eticaparainiciantes.biblioverse.org/teorias/realismo-naturalista.html): Fatos morais existem e são fatos naturais, redutíveis a bem-estar, florescimento ou cooperação.
+- [Relativismo metaético](https://eticaparainiciantes.biblioverse.org/teorias/relativismo-metaetico.html): Juízos morais são verdadeiros ou falsos só dentro de um referencial cultural ou pessoal.
+- [Sentimentalismo moral](https://eticaparainiciantes.biblioverse.org/teorias/sentimentalismo-moral.html): Hume e Adam Smith: os juízos morais nascem do sentimento, sobretudo da simpatia, corrigido pelo ponto de vista de um espectador imparcial.
+- [Teoria do erro](https://eticaparainiciantes.biblioverse.org/teorias/teoria-do-erro.html): A linguagem moral tenta descrever fatos objetivos que não existem; todo juízo moral é falso.
+
+## Teorias éticas
+
+- [Teorias éticas](https://eticaparainiciantes.biblioverse.org/teorias.html): Consequencialismo, deontologia, virtudes, cuidado e contratualismo: o ponto focal de cada teoria normativa, forças e objeções.
+- [Cinismo](https://eticaparainiciantes.biblioverse.org/teorias/cinismo.html): A felicidade está na virtude e na autossuficiência: viver conforme a natureza, com o mínimo, e desmascarar as convenções que escravizam.
+- [Ética confuciana](https://eticaparainiciantes.biblioverse.org/teorias/confucionismo.html): No confucionismo, benevolência (ren), ritual (li) e retidão (yi) se cultivam nas relações: a pessoa boa se forma na família e se estende à sociedade.
+- [Consequencialismo de ato](https://eticaparainiciantes.biblioverse.org/teorias/consequencialismo-de-ato.html): Cada ação é julgada pelas suas próprias consequências, caso a caso. O que mais pesa para cada teoria, pontos fortes, objeções e referências.
+- [Consequencialismo de regras](https://eticaparainiciantes.biblioverse.org/teorias/consequencialismo-de-regras.html): Siga as regras que, se aceitas por todos, produziriam as melhores consequências.
+- [Contratualismo escanloniano](https://eticaparainiciantes.biblioverse.org/teorias/contratualismo-escanloniano.html): Um ato é errado se é proibido por princípios que ninguém poderia razoavelmente rejeitar.
+- [Contratualismo estendido](https://eticaparainiciantes.biblioverse.org/teorias/contratualismo-estendido.html): O véu da ignorância esconde também a espécie: que regras você aceitaria sem saber se nasceria humano ou animal?
+- [Contratualismo hobbesiano](https://eticaparainiciantes.biblioverse.org/teorias/contratualismo-hobbesiano.html): A moral é o pacto que pessoas interessadas em paz e segurança mútua aceitariam seguir.
+- [Contratualismo rawlsiano](https://eticaparainiciantes.biblioverse.org/teorias/contratualismo-rawlsiano.html): Justas são as regras que escolheríamos sem saber que posição ocuparíamos na sociedade.
+- [Deontologia absolutista](https://eticaparainiciantes.biblioverse.org/teorias/deontologia-absolutista.html): Certas restrições nunca podem ser violadas, não importa o custo. O que mais pesa para cada teoria, pontos fortes, objeções e referências.
+- [Deontologia de direitos](https://eticaparainiciantes.biblioverse.org/teorias/deontologia-de-direitos.html): Direitos básicos funcionam como trunfos: vencem cálculos de utilidade.
+- [Deontologia de limiar](https://eticaparainiciantes.biblioverse.org/teorias/deontologia-de-limiar.html): As restrições valem quase sempre, mas cedem quando as consequências se tornam catastróficas.
+- [Deontologia kantiana](https://eticaparainiciantes.biblioverse.org/teorias/deontologia-kantiana.html): Aja só segundo regras que você possa querer universais, e trate cada pessoa como fim, nunca apenas como meio.
+- [Deontologia pluralista (deveres prima facie)](https://eticaparainiciantes.biblioverse.org/teorias/deontologia-pluralista.html): Vários deveres, nenhum absoluto, sem hierarquia fixa: cada caso pede juízo.
+- [Doutrina do duplo efeito](https://eticaparainiciantes.biblioverse.org/teorias/doutrina-do-duplo-efeito.html): Importa se um dano foi pretendido ou apenas previsto como efeito colateral.
+- [Epicurismo](https://eticaparainiciantes.biblioverse.org/teorias/epicurismo.html): A vida boa é a ausência de dor e de perturbação (ataraxia), alcançada com prazeres simples, amizade e a cura dos medos, sobretudo o da morte.
+- [Ética estoica](https://eticaparainiciantes.biblioverse.org/teorias/estoicismo.html): A virtude é o único bem; o resto é indiferente. Aceite o que não controla e aja bem no que controla.
+- [Ética budista](https://eticaparainiciantes.biblioverse.org/teorias/etica-budista.html): A vida envolve sofrimento; o caminho ético visa cessá-lo, com não violência e compaixão por todos os seres sencientes.
+- [Ética das virtudes](https://eticaparainiciantes.biblioverse.org/teorias/etica-das-virtudes.html): Cultive coragem, justiça, compaixão e sabedoria prática como fins em si: a ação certa é a que a pessoa virtuosa faria.
+- [Ética do cuidado](https://eticaparainiciantes.biblioverse.org/teorias/etica-do-cuidado.html): A moral começa em relações de dependência: perceber necessidades concretas e responder a elas.
+- [Ética do discurso](https://eticaparainiciantes.biblioverse.org/teorias/etica-do-discurso.html): Habermas e Apel: uma norma é válida se todos os afetados poderiam aceitá-la em um diálogo livre de coerção.
+- [Ética exclusivamente negativa](https://eticaparainiciantes.biblioverse.org/teorias/etica-focada-no-sofrimento.html): Só reduzir sofrimento tem valor moral; o prazer nunca tem valor positivo, nem fora de casos extremos.
+- [Ética existencialista](https://eticaparainiciantes.biblioverse.org/teorias/existencialismo.html): Não há natureza humana nem valores dados: cada um é responsável por criar-se pelas escolhas, e a má-fé é fingir que não escolhe.
+- [Igualitarismo](https://eticaparainiciantes.biblioverse.org/teorias/igualitarismo.html): O que importa é o grau de igualdade na distribuição do bem-estar. O que mais pesa para cada teoria, pontos fortes, objeções e referências.
+- [Ética da lei natural](https://eticaparainiciantes.biblioverse.org/teorias/lei-natural.html): A razão pode conhecer o bem pela natureza humana: há bens básicos que não se devem atacar diretamente.
+- [Maximin](https://eticaparainiciantes.biblioverse.org/teorias/maximin.html): Avalie só pelo nível de quem está pior: a melhor sociedade é a que tem o pior caso menos ruim.
+- [Moísmo (cuidado imparcial)](https://eticaparainiciantes.biblioverse.org/teorias/moismo.html): Mozi, no século V a.C.: amar todos igualmente e julgar práticas pelo benefício que trazem. O primeiro consequencialismo.
+- [Particularismo moral](https://eticaparainiciantes.biblioverse.org/teorias/particularismo.html): Dancy: não há princípios morais verdadeiros em geral; o que conta a favor em um caso pode contar contra em outro. Só o juízo decide.
+- [Ética pragmatista](https://eticaparainiciantes.biblioverse.org/teorias/pragmatismo.html): Dewey: a moral é inteligência aplicada a problemas da vida, revisada pela experiência, sem fundamentos fixos nem fins últimos.
+- [Prioridade ao sofrimento](https://eticaparainiciantes.biblioverse.org/teorias/prioridade-ao-sofrimento.html): Reduzir sofrimento pesa mais do que produzir prazer, mas muito bem-estar ainda pode compensar.
+- [Prioritarismo](https://eticaparainiciantes.biblioverse.org/teorias/prioritarismo.html): Soma o bem-estar, mas um ganho vale mais quando vai para quem está pior.
+- [Suficientismo](https://eticaparainiciantes.biblioverse.org/teorias/suficientismo.html): Garanta a todos um nível mínimo suficiente; acima dele, a distribuição importa pouco ou nada.
+- [Teoria do mandamento divino](https://eticaparainiciantes.biblioverse.org/teorias/teoria-do-mandamento-divino.html): O certo é o que Deus ordena. Na versão modificada, Deus ordena o bom porque sua natureza é boa.
+- [Ubuntu](https://eticaparainiciantes.biblioverse.org/teorias/ubuntu.html): “Uma pessoa é uma pessoa por meio de outras pessoas”: a ética africana da comunidade, da reciprocidade e da humanidade compartilhada.
+- [Utilitarismo clássico](https://eticaparainiciantes.biblioverse.org/teorias/utilitarismo-classico.html): A ação certa produz a maior soma total de bem-estar, contando cada um por um.
+- [Utilitarismo de preferências](https://eticaparainiciantes.biblioverse.org/teorias/utilitarismo-de-preferencias.html): O bem-estar é a satisfação do que as pessoas de fato querem, não só prazer.
+- [Utilitarismo médio](https://eticaparainiciantes.biblioverse.org/teorias/utilitarismo-medio.html): O que importa é a maior média de bem-estar por indivíduo, não a soma. O que mais pesa para cada teoria, pontos fortes, objeções e referências.
+- [Utilitarismo negativo (prioridade absoluta)](https://eticaparainiciantes.biblioverse.org/teorias/utilitarismo-negativo.html): Nenhuma quantidade de prazer compensa sofrimento extremo; fora dos extremos, o prazer conta normalmente.
+
+## Optional
+
+- [Mapa do site](https://eticaparainiciantes.biblioverse.org/sitemap.xml)
+- [Texto completo](https://eticaparainiciantes.biblioverse.org/llms-full.txt)
