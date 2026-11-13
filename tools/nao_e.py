@@ -97,6 +97,11 @@ NAO_E = {
  ('“Cuidar é ser submisso ou se sacrificar.”', 'Autoras da corrente alertam contra o cuidado que destrói quem cuida. Cuidar bem inclui cuidar de si e exigir reciprocidade.'),
  ('“É só sentimentalismo, sem razão.”', 'O cuidado exige atenção, juízo e conhecimento da situação concreta. A crítica da corrente é a uma razão abstrata que ignora as pessoas reais.'),
 ],
+'cinismo': [
+ ('“Cínico é quem não acredita em nada nem em ninguém.”', 'Esse é o sentido moderno da palavra. Os cínicos gregos acreditavam muito em algo: a virtude e a vida simples. Desconfiavam das convenções e da busca por riqueza e status, não da bondade humana.'),
+ ('“O cinismo é só provocação e falta de educação.”', 'A provocação era um método para mostrar que costumes tidos como naturais eram escolhas. Por trás dela havia uma ética exigente de autossuficiência, franqueza e treino moral.'),
+ ('“Cinismo e estoicismo são opostos.”', 'São parentes próximos. Crates, cínico, foi professor de Zenão, fundador do estoicismo, que herdou dos cínicos a tese de que a virtude basta e o cosmopolitismo.'),
+],
 'estoicismo': [
  ('“Estoico é quem não sente nada.”', 'O estoico sente, e muito; o que ele não faz é deixar que paixões sem juízo governem suas ações. Sêneca escreveu cartas de consolo e chorou mortes.'),
  ('“Estoicismo é aceitar tudo e não lutar.”', 'Catão lutou contra César e Marco Aurélio governou um império. O estoico age no que depende dele e aceita apenas o que não depende.'),

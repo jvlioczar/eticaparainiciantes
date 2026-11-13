@@ -4,6 +4,10 @@ WE = 'https://en.wikipedia.org/wiki/'
 TR, CA, JS = 'Tradições religiosas', 'Caráter e cuidado', 'Justiça e sociedade'
 
 F_NOVOS3 = [
+dict(slug='diogenes', nome='Diógenes de Sinope', anos='c. 412–323 a.C.', pais='Grécia', corrente='Clássicos', quem='A figura central do cinismo grego: viveu com o mínimo, desafiou as convenções em público e se dizia cidadão do mundo.',
+ ideias=['A virtude basta para a felicidade, e ela se alcança pelo treino, não pela teoria.', 'Riqueza, fama e poder são amarras, não bens; viver conforme a natureza é reduzir os desejos ao essencial.', 'A franqueza (parrhesía) é um dever, inclusive diante dos poderosos.', 'Sou cidadão do mundo (kosmopolítes): o lugar de nascimento não define a quem devo consideração.'],
+ obras=['Não deixou obras conservadas; sua vida chegou até nós em anedotas reunidas por Diógenes Laércio, em Vidas e doutrinas dos filósofos ilustres'], criticas='Críticos dizem que o desprezo por todas as convenções ignora as que existem por bons motivos e que sua ética serve a indivíduos excepcionais, não a uma sociedade inteira. Muitas anedotas sobre ele são lendárias.',
+ teorias=['cinismo'], w='Diogenes', fx=[('Cynics (Internet Encyclopedia of Philosophy)', 'https://iep.utm.edu/cynics/')]),
 dict(slug='mahavira', nome='Mahavira (Vardhamana)', anos='c. 599–527 a.C.', pais='Índia', corrente=TR, quem='O vigésimo quarto tirthankara do jainismo, contemporâneo do Buda. Sistematizou a ahimsa, a não violência para com todo ser vivo, como centro da vida moral.',
  ideias=['Todo ser vivo tem uma alma e sofre; o dever primeiro é não ferir nenhum, em ato, palavra ou pensamento.', 'Os seres se graduam pelo número de sentidos; o cuidado cresce com a capacidade de sentir.', 'Nenhuma visão capta a verdade inteira (anekantavada): julgar exige humildade.', 'Cinco votos: não violência, verdade, não roubar, castidade, não possuir.'],
  obras=['Agamas (ensinamentos preservados pela tradição)'], criticas='Estende a consideração a plantas e microrganismos sem evidência de senciência, e o foco na pureza da própria alma pode deslocar a atenção da vítima; a ética animal moderna o reconhece como precursor e corrige o critério.',
