@@ -2068,7 +2068,7 @@ Dilemas para testar: O anel de Giges.
 
 ← AnteriorComo discutir ética sem brigarVocê chegou ao fim do nível Iniciante
 
-Faça o teste do nível e continue com 36 lições do nível Intermediário.
+Faça o teste do nível e continue com 37 lições do nível Intermediário.
 
 Revisão do nível Teste do nível Ir para o curso Intermediário →
 
@@ -4154,7 +4154,7 @@ Nos debates: Psicopatia e responsabilidade, Condições que causam dano: depend�
 - Moral Luck (Stanford Encyclopedia)
 - P. F. Strawson, Freedom and Resentment (Wikipédia)
 
-← AnteriorFraqueza de vontade: saber o que é certo e não fazerPróxima →Tribalismo moral: os eixos em que privilegiamos os nossos
+← AnteriorFraqueza de vontade: saber o que é certo e não fazerPróxima →Saber mais, dever mais: conhecimento e responsabilidade
 
 ---
 
@@ -4986,6 +4986,131 @@ Nos debates: É errado haver pseudociência nas universidades?, Reparações his
 
 ---
 
+# Saber mais, dever mais: conhecimento e responsabilidade
+
+Fonte: https://eticaparainiciantes.biblioverse.org/saber-mais-dever-mais.html · Intermediário
+
+Com grandes poderes vêm grandes responsabilidades: quem deixa de ser ignorante sobre uma questão moral ou científica ganha deveres. Até onde?
+
+No filme do Homem-Aranha, o tio Ben resume a ética de um adolescente que acaba de ganhar superpoderes: “com grandes poderes vêm grandes responsabilidades”. A frase é mais antiga do que os quadrinhos e vale para um poder que quase todo mundo tem, e que cresce cada vez que aprendemos algo: o conhecimento. Quem descobre que uma prática causa sofrimento, que um produto adoece, que uma crença é falsa, não volta a ser inocente. Saber muda o que se pode exigir de nós.
+
+Uma analogia
+
+É como um salva-vidas e um banhista comum na mesma praia. Os dois veem alguém se afogando, mas o salva-vidas sabe nadar contra a correnteza e sabe o que fazer. Ninguém culpa o banhista que não sabia nadar por não entrar no mar; do salva-vidas, espera-se que entre. Quanto mais você aprende sobre um problema, mais perto fica do salva-vidas.
+
+Explicando para uma criança
+
+Se você não sabe que o fogão está quente e encosta a mão de um amigo nele sem querer, foi um acidente. Mas, se você já sabe que ele está quente, não pode mais fazer de conta que não sabe. Aprender coisas novas é bom, e também quer dizer que agora você precisa tomar mais cuidado com o que faz.
+
+Ao fim desta lição, você vai conseguir
+
+- Distinguir ignorância invencível, vencível e deliberada, e dizer quando cada uma desculpa.
+- Explicar por que saber mais aumenta a responsabilidade, na moral e na ciência.
+- Reconhecer os limites desse dever: o que a pessoa pode fazer, o dever de convencer e não de impor, e a incerteza.
+
+Ajuda ter lido: Livre-arbítrio e responsabilidade moral, A ética da crença: é errado acreditar sem evidência?.
+
+Antes de ler: o que você faria?
+
+Você assistiu a um documentário que mostra como é produzido um alimento que você come todos os dias. Depois dele, uma amiga diz: “prefiro nem ver esses vídeos, assim não fico com peso na consciência”.
+
+A estratégia dela funciona? Saber agora muda alguma coisa para você?
+
+Ver o que a lição responde
+
+Evitar saber de propósito é ignorância deliberada, que não desculpa. E quem já sabe perde a desculpa de não saber. A lição mostra o que esse dever exige e onde ele para.
+
+## Uma ideia antiga
+
+A frase não nasceu nos quadrinhos de 1962. O Evangelho de Lucas diz que “a quem muito foi dado, muito será exigido”. Na Revolução Francesa, um decreto da Convenção de 1793 afirmava que “uma grande responsabilidade é a consequência inseparável de um grande poder”. E a filosofia moral discute desde Aristóteles quando a ignorância desculpa e quando não desculpa.
+
+## Quando a ignorância desculpa
+
+Aristóteles, na Ética a Nicômaco, separa quem age por ignorância de quem age na ignorância. Quem não tinha como saber age involuntariamente e merece perdão. Mas quem bebe até não saber o que faz responde pelo que fez bêbado, porque foi responsável por ficar ignorante. Tomás de Aquino deu nomes à distinção, que a filosofia usa até hoje:
+
+| Tipo de ignorância | O que é | Desculpa? |
+
+| Invencível | A pessoa não tinha como saber, nem com cuidado razoável | Sim: não se culpa quem não podia saber |
+
+| Vencível | A pessoa podia e devia ter procurado saber, e não procurou | Só em parte, ou nada |
+
+| Deliberada | A pessoa evita saber para não ter de mudar: não lê, não pergunta, muda de assunto | Não: escolher não saber é uma escolha |
+
+O direito tem um nome para o terceiro caso: cegueira deliberada. Quem fecha os olhos de propósito para não ver o crime responde como se tivesse visto. Na ética, vale o mesmo: a ignorância só desculpa se não foi escolhida.
+
+## Por que saber aumenta o dever
+
+- Some a desculpa. Antes de saber, a pessoa podia alegar que não sabia. Depois, a mesma ação passa a ser feita com conhecimento de causa. É o mesmo ato, com outra culpa.
+
+- Cresce a capacidade de ajudar. Quem entende de medicina, de finanças ou de clima consegue evitar danos que os outros nem percebem. Peter Singer argumenta, no caso da criança no lago , que poder evitar um grande mal a baixo custo cria um dever, e saber como fazê-lo é parte desse poder.
+
+- Muda o que é previsível. Responder pelas consequências depende do que se podia prever. Quem sabe mais prevê mais, e responde por mais. Veja intenção e previsão .
+
+- A crença também tem ética. W. K. Clifford contou a história de um armador que, para não gastar com reparos, se convenceu de que o navio era seguro; o navio afundou. Para Clifford, acreditar sem evidência suficiente já é errado. Veja a ética da crença .
+
+## Na moral e na ciência
+
+| Quem sabe | O que passa a dever |
+
+| Quem descobre como animais vivem nas fazendas industriais | Não pode mais tratar o próprio consumo como neutro. O que fazer é debatido, mas a indiferença deixa de ser inocente. Veja ética animal na prática |
+
+| Quem sabe que uma doação salva vidas a baixo custo | Tem uma razão mais forte para doar do que quem não sabe. Veja o debate sobre doação eficaz |
+
+| Cientistas que entendem uma tecnologia perigosa | Respondem por alertar. Em 1955, o manifesto Russell-Einstein, assinado por cientistas, alertou para o risco da guerra nuclear e pediu aos governos que buscassem meios pacíficos. Em 1974, biólogos suspenderam por conta própria certos experimentos com DNA recombinante, e em 1975, na conferência de Asilomar, definiram regras de segurança para retomá-los |
+
+| Especialistas que falam ao público | Respondem por comunicar com precisão, sem exagerar nem esconder a incerteza, porque mais gente confia neles |
+
+| Quem tem poder sobre outros, de pais a governantes | Responde por se informar antes de decidir. Ignorância de quem tinha o dever de saber é negligência |
+
+No site, essa ideia aparece numa das cinco dimensões de uma visão moral, a capacidade de agir, que reúne conhecimento, poder e motivação. Saber sem poder deixa a pessoa de mãos atadas; poder sem saber faz estragos; e os dois sem motivação ficam parados.
+
+## Os limites
+
+- Dever implica poder. Saber de todos os males do mundo não obriga ninguém a resolver todos. O dever cresce com o conhecimento, mas também depende do que a pessoa consegue fazer e do custo. Veja quanto a moral pode exigir .
+
+- Saber mais não dá direito de mandar. Conhecimento cria o dever de explicar e convencer, não o de impor. Quem sabe mais e despreza quem sabe menos troca a responsabilidade pela arrogância, e costuma convencer menos.
+
+- A dúvida também é conhecimento. Quem estudou um tema sabe melhor onde ele é incerto. Responsabilidade inclui dizer “não sei” e agir com cautela quando o risco é grave. Veja incerteza moral .
+
+- Não é motivo para fugir do conhecimento. Se saber traz deveres, é tentador não querer saber. Mas a ignorância deliberada não desculpa, e quem foge da informação ainda responde pelo que poderia ter evitado.
+
+## O que fazer com o que se sabe
+
+- Ajuste o que está ao seu alcance. O primeiro dever é sobre a própria conduta: o que você consome, vota, compra e faz.
+- Compartilhe com cuidado. Explique sem humilhar, com fontes, aceitando perguntas. Veja como discutir ética sem brigar .
+- Cobre de quem tem mais poder. A responsabilidade cresce com o poder: empresas, governos e especialistas sabem mais e podem mais.
+- Continue aprendendo, e aceite ser corrigido. Quem sabe um pouco mais também pode estar errado. Veja abertura moral .
+
+## Para guardar
+
+- Conhecimento é poder, e poder traz responsabilidade: quem sabe mais responde por mais.
+- A ignorância desculpa só quando não havia como saber; a vencível e a deliberada não desculpam.
+- O dever cresce com o saber, mas tem limites no que se pode fazer, e saber mais dá o dever de convencer, nunca o direito de impor.
+
+Para pensar
+
+O que você aprendeu nos últimos anos que mudou o que você acha que deve fazer? Houve algo que você preferiu não saber, e por quê?
+
+Erro comum: “Se eu não souber, não tenho culpa.” Só a ignorância que não podia ser evitada desculpa. Quem podia saber e não procurou, ou evitou saber de propósito, responde pelo que poderia ter evitado.
+
+Teorias desta lição: Ética das virtudes, Utilitarismo clássico, Deontologia kantiana.
+
+Dilemas para testar: A criança no lago.
+
+## Fontes e leituras
+
+- With great power comes great responsibility (Wikipédia)
+- Moral Responsibility: ignorance (Stanford Encyclopedia)
+- Aristotle’s Ethics (Stanford Encyclopedia)
+- The Ethics of Belief (Stanford Encyclopedia)
+- Willful blindness (Wikipédia)
+- Russell–Einstein Manifesto (Wikipédia)
+- Asilomar Conference on Recombinant DNA (Wikipédia)
+
+← AnteriorLivre-arbítrio e responsabilidade moralPróxima →Tribalismo moral: os eixos em que privilegiamos os nossos
+
+---
+
 # Ética e sentido da vida: o que torna uma vida significativa
 
 Fonte: https://eticaparainiciantes.biblioverse.org/sentido-da-vida.html · Intermediário
@@ -5488,7 +5613,7 @@ Nos debates: Fronteiras abertas?, Cotas e ações afirmativas, Duplo padrão sex
 - One World Now
 - A Mente Moralista
 
-← AnteriorLivre-arbítrio e responsabilidade moralPróxima →Pobreza extrema e ética global
+← AnteriorSaber mais, dever mais: conhecimento e responsabilidadePróxima →Pobreza extrema e ética global
 
 ---
 
@@ -6898,6 +7023,8 @@ O ceticismo metodológico, da ciência, é proporcionar a crença à evidência:
 ## Onde James tinha razão
 
 Há crenças cuja função não é descrever: a confiança em um amigo, a esperança em um projeto. Exigir evidência prévia para elas destruiria o que elas tornam possível. A posição razoável: evidencialismo para crenças sobre como o mundo é, sobretudo as que afetam outros; latitude para atitudes que não pretendem descrever. O armador de Clifford não tinha essa desculpa: ele cria sobre o estado de um navio com pessoas dentro.
+
+Se crer tem ética, saber também tem: quem deixa de ser ignorante perde a desculpa e ganha deveres. Veja saber mais, dever mais.
 
 ## Para guardar
 
@@ -13005,7 +13132,7 @@ O caso expõe um viés: a vítima identificável e próxima comove, a distante n
 - Esse princípio vale em um caso parecido com os papéis trocados?
 - O que mudaria a sua resposta?
 
-Lições relacionadas: Consequencialismo: quando o resultado pesa mais, Parcialidade: até onde cuidar mais dos seus?, Dilemas do cotidiano: mentiras, promessas e consumo, Fazer e deixar acontecer: o viés de omissão, Um cenário melhor ou o melhor cenário?, Vieses que distorcem o julgamento moral, Fraqueza de vontade: saber o que é certo e não fazer, Tribalismo moral: os eixos em que privilegiamos os nossos, Pobreza extrema e ética global, Outros experimentos mentais que mudaram a ética, Quanto a moral pode exigir de você?.
+Lições relacionadas: Consequencialismo: quando o resultado pesa mais, Parcialidade: até onde cuidar mais dos seus?, Dilemas do cotidiano: mentiras, promessas e consumo, Fazer e deixar acontecer: o viés de omissão, Um cenário melhor ou o melhor cenário?, Vieses que distorcem o julgamento moral, Fraqueza de vontade: saber o que é certo e não fazer, Saber mais, dever mais: conhecimento e responsabilidade, Tribalismo moral: os eixos em que privilegiamos os nossos, Pobreza extrema e ética global, Outros experimentos mentais que mudaram a ética, Quanto a moral pode exigir de você?.
 
 ## Fontes e leituras
 
@@ -15452,9 +15579,9 @@ Concepções erradas e espantalhos que costumam aparecer em conversas e debates,
 ## Filósofos ligados
 Immanuel KantChristine KorsgaardEmmanuel Levinas
 
-Lições: Uma breve história da ética, Resultado, regra ou caráter? O mapa das teorias, Deontologia: quando deveres e direitos pesam mais, Kant e o imperativo categórico, Livre-arbítrio e responsabilidade moral, Exploração: quando uma troca vantajosa ainda é injusta e mais 8
+Lições: Uma breve história da ética, Resultado, regra ou caráter? O mapa das teorias, Deontologia: quando deveres e direitos pesam mais, Kant e o imperativo categórico, Livre-arbítrio e responsabilidade moral, Saber mais, dever mais: conhecimento e responsabilidade e mais 9
 
-Punição: por que e como punir, Bioética: autonomia, consentimento e os quatro princípios, Ética da tecnologia e da inteligência artificial, Ética da inteligência artificial, Responsabilidade coletiva: sua parte nos danos de todos, O dilema do bonde e suas variantes, Motivação moral: saber o que é certo move a agir?, O problema do alinhamento.
+Exploração: quando uma troca vantajosa ainda é injusta, Punição: por que e como punir, Bioética: autonomia, consentimento e os quatro princípios, Ética da tecnologia e da inteligência artificial, Ética da inteligência artificial, Responsabilidade coletiva: sua parte nos danos de todos, O dilema do bonde e suas variantes, Motivação moral: saber o que é certo move a agir?, O problema do alinhamento.
 
 Nos dilemas: O bonde: a passarela, Mentir ao assassino, A criança no lago, O violinista, Omelas, O anel de Giges e mais 5
 
@@ -15811,9 +15938,9 @@ Concepções erradas e espantalhos que costumam aparecer em conversas e debates,
 ## Filósofos ligados
 PlatãoAristótelesConfúcioElizabeth AnscombePhilippa FootBernard WilliamsMartha NussbaumAlasdair MacIntyreRosalind HursthouseBernard E. RollinMary MidgleyPitágorasSidarta Gautama (Buda)Jesus de NazaréAdam SmithHannah ArendtSusan WolfMiranda Fricker
 
-Lições: As éticas religiosas: o que cada tradição ensina, Uma breve história da ética, Resultado, regra ou caráter? O mapa das teorias, Virtudes e cuidado: quando quem você é pesa mais, Aristóteles, a vida boa e as virtudes, Educação moral: como se forma uma pessoa boa? e mais 6
+Lições: As éticas religiosas: o que cada tradição ensina, Uma breve história da ética, Resultado, regra ou caráter? O mapa das teorias, Virtudes e cuidado: quando quem você é pesa mais, Aristóteles, a vida boa e as virtudes, Educação moral: como se forma uma pessoa boa? e mais 7
 
-Ética e sentido da vida: o que torna uma vida significativa, Emoções morais: culpa, vergonha, indignação, nojo e perdão, Milgram, Zimbardo, Arendt: pessoas comuns fazem o mal?, Fraqueza de vontade: saber o que é certo e não fazer, Ética animal na prática: granjas, laboratórios e natureza, Pluralismo de valores: quando os bens não se somam.
+Ética e sentido da vida: o que torna uma vida significativa, Emoções morais: culpa, vergonha, indignação, nojo e perdão, Milgram, Zimbardo, Arendt: pessoas comuns fazem o mal?, Fraqueza de vontade: saber o que é certo e não fazer, Saber mais, dever mais: conhecimento e responsabilidade, Ética animal na prática: granjas, laboratórios e natureza, Pluralismo de valores: quando os bens não se somam.
 
 Nos dilemas: O bonde: o desvio, Mentir ao assassino, Jim e os indígenas, Omelas, A máquina de experiências, O anel de Giges e mais 5
 
@@ -16735,9 +16862,9 @@ Concepções erradas e espantalhos que costumam aparecer em conversas e debates,
 ## Filósofos ligados
 EpicuroJeremy BenthamJohn Stuart MillHenry SidgwickPeter SingerHolden KarnofskyNick BostromToby OrdWilliam MacAskillMozi (Mo Di)
 
-Lições: Uma breve história da ética, Resultado, regra ou caráter? O mapa das teorias, Consequencialismo: quando o resultado pesa mais, Bentham, Mill e o utilitarismo clássico, O que torna uma vida boa? As teorias do bem-estar, As objeções ao consequencialismo, e as respostas e mais 10
+Lições: Uma breve história da ética, Resultado, regra ou caráter? O mapa das teorias, Consequencialismo: quando o resultado pesa mais, Bentham, Mill e o utilitarismo clássico, O que torna uma vida boa? As teorias do bem-estar, As objeções ao consequencialismo, e as respostas e mais 11
 
-Um cenário melhor ou o melhor cenário?, Pobreza extrema e ética global, Exploração: quando uma troca vantajosa ainda é injusta, Punição: por que e como punir, Bioética: autonomia, consentimento e os quatro princípios, Ética climática: quem deve o quê, e a quem, Identidade pessoal e ética: o que Parfit mudou, Teoria da decisão e ética, O problema do alinhamento, Quanto a moral pode exigir de você?.
+Um cenário melhor ou o melhor cenário?, Saber mais, dever mais: conhecimento e responsabilidade, Pobreza extrema e ética global, Exploração: quando uma troca vantajosa ainda é injusta, Punição: por que e como punir, Bioética: autonomia, consentimento e os quatro princípios, Ética climática: quem deve o quê, e a quem, Identidade pessoal e ética: o que Parfit mudou, Teoria da decisão e ética, O problema do alinhamento, Quanto a moral pode exigir de você?.
 
 Nos dilemas: O bonde: o desvio, Mentir ao assassino, Jim e os indígenas, A criança no lago, O violinista, O véu da ignorância e mais 12
 

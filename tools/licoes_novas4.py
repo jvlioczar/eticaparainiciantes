@@ -202,6 +202,7 @@ dict(slug='etica-da-crenca', grupo='Metaética', titulo='A ética da crença: é
 <p>O ceticismo metodológico, da ciência, é proporcionar a crença à evidência: aceitar o que está bem apoiado, duvidar do que não está, e manter os graus. Isso é diferente do ceticismo que nega tudo, que também é uma crença sem evidência. Veja <a href="probabilidade-e-etica.html">probabilidade e ética</a>.</p>
 <h2>Onde James tinha razão</h2>
 <p>Há crenças cuja função não é descrever: a confiança em um amigo, a esperança em um projeto. Exigir evidência prévia para elas destruiria o que elas tornam possível. A posição razoável: evidencialismo para crenças sobre como o mundo é, sobretudo as que afetam outros; latitude para atitudes que não pretendem descrever. O armador de Clifford não tinha essa desculpa: ele cria sobre o estado de um navio com pessoas dentro.</p>
+<p>Se crer tem ética, saber também tem: quem deixa de ser ignorante perde a desculpa e ganha deveres. Veja <a href="saber-mais-dever-mais.html">saber mais, dever mais</a>.</p>
 <div class="nota"><strong>Para guardar:</strong> acreditar é um ato, e atos têm consequências. O dever de ter boas razões é um dever para com quem vai pagar se você estiver errado.</div>
 ''', fontes=[('The Ethics of Belief (Stanford Encyclopedia)', SEP + 'ethics-belief/'), ('The Ethics of Belief (1877)', WE + 'The_Ethics_of_Belief'), ('The Will to Believe (1896)', WE + 'The_Will_to_Believe'), ('O ceticismo do cientista (Universo Racionalista)', 'https://universoracionalista.org/o-ceticismo-do-cientista')]),
 ]
