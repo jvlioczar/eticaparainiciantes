@@ -4154,7 +4154,7 @@ Nos debates: Psicopatia e responsabilidade, Condições que causam dano: depend�
 - Moral Luck (Stanford Encyclopedia)
 - P. F. Strawson, Freedom and Resentment (Wikipédia)
 
-← AnteriorFraqueza de vontade: saber o que é certo e não fazerPróxima →Saber mais, dever mais: conhecimento e responsabilidade
+← AnteriorFraqueza de vontade: saber o que é certo e não fazerPróxima →Grandes poderes, grandes responsabilidades: saber e poder
 
 ---
 
@@ -4986,17 +4986,17 @@ Nos debates: É errado haver pseudociência nas universidades?, Reparações his
 
 ---
 
-# Saber mais, dever mais: conhecimento e responsabilidade
+# Grandes poderes, grandes responsabilidades: saber e poder
 
 Fonte: https://eticaparainiciantes.biblioverse.org/saber-mais-dever-mais.html · Intermediário
 
-Com grandes poderes vêm grandes responsabilidades: quem deixa de ser ignorante sobre uma questão moral ou científica ganha deveres. Até onde?
+Quem sabe mais perde a desculpa da ignorância; quem tem mais poder causa mais efeitos e influencia mais gente. Os dois aumentam a responsabilidade.
 
-No filme do Homem-Aranha, o tio Ben resume a ética de um adolescente que acaba de ganhar superpoderes: “com grandes poderes vêm grandes responsabilidades”. A frase é mais antiga do que os quadrinhos e vale para um poder que quase todo mundo tem, e que cresce cada vez que aprendemos algo: o conhecimento. Quem descobre que uma prática causa sofrimento, que um produto adoece, que uma crença é falsa, não volta a ser inocente. Saber muda o que se pode exigir de nós.
+No filme do Homem-Aranha, o tio Ben resume a ética de um adolescente que acaba de ganhar superpoderes: “com grandes poderes vêm grandes responsabilidades”. A frase é mais antiga do que os quadrinhos e vale para dois tipos de poder. O primeiro é o conhecimento, que quase todo mundo tem e que cresce cada vez que aprendemos algo: quem descobre que uma prática causa sofrimento, que um produto adoece, que uma crença é falsa, não volta a ser inocente. O segundo é o poder no sentido comum, de dinheiro, cargo, fama e audiência: quem o tem causa mais efeitos e influencia mais gente. Saber e poder mudam o que se pode exigir de nós.
 
 Uma analogia
 
-É como um salva-vidas e um banhista comum na mesma praia. Os dois veem alguém se afogando, mas o salva-vidas sabe nadar contra a correnteza e sabe o que fazer. Ninguém culpa o banhista que não sabia nadar por não entrar no mar; do salva-vidas, espera-se que entre. Quanto mais você aprende sobre um problema, mais perto fica do salva-vidas.
+É como um salva-vidas e um banhista comum na mesma praia. Os dois veem alguém se afogando, mas o salva-vidas sabe nadar contra a correnteza e sabe o que fazer. Ninguém culpa o banhista que não sabia nadar por não entrar no mar; do salva-vidas, espera-se que entre. Quanto mais você aprende sobre um problema, ou quanto mais poder tem para resolvê-lo, mais perto fica do salva-vidas.
 
 Explicando para uma criança
 
@@ -5005,8 +5005,8 @@ Se você não sabe que o fogão está quente e encosta a mão de um amigo nele s
 Ao fim desta lição, você vai conseguir
 
 - Distinguir ignorância invencível, vencível e deliberada, e dizer quando cada uma desculpa.
-- Explicar por que saber mais aumenta a responsabilidade, na moral e na ciência.
-- Reconhecer os limites desse dever: o que a pessoa pode fazer, o dever de convencer e não de impor, e a incerteza.
+- Explicar por que saber mais e ter mais poder aumentam a responsabilidade: impacto, alcance e dependência dos outros.
+- Reconhecer os limites desse dever: o que a pessoa pode fazer, o dever de servir e convencer e não de impor, e a incerteza.
 
 Ajuda ter lido: Livre-arbítrio e responsabilidade moral, A ética da crença: é errado acreditar sem evidência?.
 
@@ -5064,11 +5064,37 @@ O direito tem um nome para o terceiro caso: cegueira deliberada. Quem fecha os o
 
 No site, essa ideia aparece numa das cinco dimensões de uma visão moral, a capacidade de agir, que reúne conhecimento, poder e motivação. Saber sem poder deixa a pessoa de mãos atadas; poder sem saber faz estragos; e os dois sem motivação ficam parados.
 
+## Não é só saber: mais poder, mais responsabilidade
+
+O poder aumenta a responsabilidade por três razões, que valem tanto para uma pessoa quanto para uma empresa ou um país.
+
+- Mais impacto. A mesma decisão tem efeitos maiores nas mãos de quem tem mais poder. Um erro de cálculo numa casa afeta uma família; num ministério, milhões. Quem pode causar mais dano deve mais cautela.
+
+- Mais alcance e influência. Quem tem audiência, prestígio ou cargo define o que os outros acham normal. O erro de alguém sem poder fica entre poucos; o de quem é seguido por milhões ensina, e se multiplica. Uma mentira dita por um influenciador ou por um presidente vale mais do que a mesma mentira dita num bar.
+
+- Mais gente depende dele. Governantes, executivos, médicos, professores e pais decidem por pessoas que não escolheram essas decisões. Essa assimetria é a fonte clássica da responsabilidade: quem decide pelos outros responde a eles.
+
+| Tipo de poder | O impacto que ele dá | A responsabilidade que traz |
+
+| Político | Leis, orçamento, polícia, guerra | Prestar contas, respeitar direitos e limites, decidir com evidências |
+
+| Econômico | Empregos, preços, cadeias de produção, lobby | Não transferir custos a quem não escolheu, como poluição e trabalho degradante; usar parte do que se tem para o bem que só ele pode fazer |
+
+| De audiência | O que milhões leem, assistem e repetem | Checar antes de publicar, corrigir erros em público, não incitar ódio |
+
+| Técnico | Saber o que os outros não sabem, como médicos, engenheiros e cientistas | Alertar sobre riscos, dizer a verdade a quem depende do seu saber |
+
+| Próximo | Pais, professores, chefes, sobre quem depende deles no dia a dia | Não abusar da dependência e formar em vez de controlar |
+
+O debate com grande poder vem grande responsabilidade? chega a uma conclusão equilibrada. O poder aumenta o dever de cuidado, porque quem pode causar mais dano deve mais cautela. Aumenta também o dever de fazer o bem, porque quem pode ajudar muito a baixo custo deve ajudar. Não aumenta a culpa pelo mesmo ato com a mesma intenção, embora os efeitos sejam mais graves. E o primeiro dever do poderoso é não abusar e prestar contas, não agir pelos outros sem ouvi-los.
+
 ## Os limites
 
 - Dever implica poder. Saber de todos os males do mundo não obriga ninguém a resolver todos. O dever cresce com o conhecimento, mas também depende do que a pessoa consegue fazer e do custo. Veja quanto a moral pode exigir .
 
-- Saber mais não dá direito de mandar. Conhecimento cria o dever de explicar e convencer, não o de impor. Quem sabe mais e despreza quem sabe menos troca a responsabilidade pela arrogância, e costuma convencer menos.
+- Saber ou poder mais não dá direito de mandar. Conhecimento cria o dever de explicar e convencer, não o de impor. Poder cria o dever de servir e prestar contas, não o de decidir pelos outros sem ouvi-los; impérios e tutelas sempre se justificaram dizendo que tinham o dever de agir porque podiam. Quem sabe ou pode mais e despreza os outros troca a responsabilidade pela arrogância.
+
+- Quem tem pouco poder também responde. A responsabilidade cresce com o poder, mas não some sem ele: cada pessoa responde pelo que faz e pelo que pode fazer, na proporção do que pode.
 
 - A dúvida também é conhecimento. Quem estudou um tema sabe melhor onde ele é incerto. Responsabilidade inclui dizer “não sei” e agir com cautela quando o risco é grave. Veja incerteza moral .
 
@@ -5078,24 +5104,27 @@ No site, essa ideia aparece numa das cinco dimensões de uma visão moral, a cap
 
 - Ajuste o que está ao seu alcance. O primeiro dever é sobre a própria conduta: o que você consome, vota, compra e faz.
 - Compartilhe com cuidado. Explique sem humilhar, com fontes, aceitando perguntas. Veja como discutir ética sem brigar .
+- Se você tem poder, use-o com cuidado. Quem tem audiência, cargo ou dinheiro deve checar antes de agir, corrigir em público quando erra e prestar contas a quem é afetado.
 - Cobre de quem tem mais poder. A responsabilidade cresce com o poder: empresas, governos e especialistas sabem mais e podem mais.
 - Continue aprendendo, e aceite ser corrigido. Quem sabe um pouco mais também pode estar errado. Veja abertura moral .
 
 ## Para guardar
 
-- Conhecimento é poder, e poder traz responsabilidade: quem sabe mais responde por mais.
+- Saber e poder aumentam a responsabilidade: quem sabe mais perde a desculpa, e quem pode mais causa mais efeitos e influencia mais gente.
 - A ignorância desculpa só quando não havia como saber; a vencível e a deliberada não desculpam.
-- O dever cresce com o saber, mas tem limites no que se pode fazer, e saber mais dá o dever de convencer, nunca o direito de impor.
+- O poder aumenta o dever de cuidado, de ajudar e de prestar contas, mas não dá o direito de impor nem de decidir pelos outros sem ouvi-los.
 
 Para pensar
 
-O que você aprendeu nos últimos anos que mudou o que você acha que deve fazer? Houve algo que você preferiu não saber, e por quê?
+Em que área da sua vida você tem mais poder do que as pessoas ao redor: na família, no trabalho, nas redes? O que esse poder pede de você que ainda não faz?
 
 Erro comum: “Se eu não souber, não tenho culpa.” Só a ignorância que não podia ser evitada desculpa. Quem podia saber e não procurou, ou evitou saber de propósito, responde pelo que poderia ter evitado.
 
-Teorias desta lição: Ética das virtudes, Utilitarismo clássico, Deontologia kantiana.
+Teorias desta lição: Ética das virtudes, Utilitarismo clássico, Deontologia kantiana, Contratualismo escanloniano.
 
 Dilemas para testar: A criança no lago.
+
+Nos debates: Com grande poder vem grande responsabilidade?.
 
 ## Fontes e leituras
 
@@ -5613,7 +5642,7 @@ Nos debates: Fronteiras abertas?, Cotas e ações afirmativas, Duplo padrão sex
 - One World Now
 - A Mente Moralista
 
-← AnteriorSaber mais, dever mais: conhecimento e responsabilidadePróxima →Pobreza extrema e ética global
+← AnteriorGrandes poderes, grandes responsabilidades: saber e poderPróxima →Pobreza extrema e ética global
 
 ---
 
@@ -7024,7 +7053,7 @@ O ceticismo metodológico, da ciência, é proporcionar a crença à evidência:
 
 Há crenças cuja função não é descrever: a confiança em um amigo, a esperança em um projeto. Exigir evidência prévia para elas destruiria o que elas tornam possível. A posição razoável: evidencialismo para crenças sobre como o mundo é, sobretudo as que afetam outros; latitude para atitudes que não pretendem descrever. O armador de Clifford não tinha essa desculpa: ele cria sobre o estado de um navio com pessoas dentro.
 
-Se crer tem ética, saber também tem: quem deixa de ser ignorante perde a desculpa e ganha deveres. Veja saber mais, dever mais.
+Se crer tem ética, saber também tem: quem deixa de ser ignorante perde a desculpa e ganha deveres. Veja grandes poderes, grandes responsabilidades.
 
 ## Para guardar
 
@@ -13132,7 +13161,7 @@ O caso expõe um viés: a vítima identificável e próxima comove, a distante n
 - Esse princípio vale em um caso parecido com os papéis trocados?
 - O que mudaria a sua resposta?
 
-Lições relacionadas: Consequencialismo: quando o resultado pesa mais, Parcialidade: até onde cuidar mais dos seus?, Dilemas do cotidiano: mentiras, promessas e consumo, Fazer e deixar acontecer: o viés de omissão, Um cenário melhor ou o melhor cenário?, Vieses que distorcem o julgamento moral, Fraqueza de vontade: saber o que é certo e não fazer, Saber mais, dever mais: conhecimento e responsabilidade, Tribalismo moral: os eixos em que privilegiamos os nossos, Pobreza extrema e ética global, Outros experimentos mentais que mudaram a ética, Quanto a moral pode exigir de você?.
+Lições relacionadas: Consequencialismo: quando o resultado pesa mais, Parcialidade: até onde cuidar mais dos seus?, Dilemas do cotidiano: mentiras, promessas e consumo, Fazer e deixar acontecer: o viés de omissão, Um cenário melhor ou o melhor cenário?, Vieses que distorcem o julgamento moral, Fraqueza de vontade: saber o que é certo e não fazer, Grandes poderes, grandes responsabilidades: saber e poder, Tribalismo moral: os eixos em que privilegiamos os nossos, Pobreza extrema e ética global, Outros experimentos mentais que mudaram a ética, Quanto a moral pode exigir de você?.
 
 ## Fontes e leituras
 
@@ -15152,7 +15181,7 @@ Concepções erradas e espantalhos que costumam aparecer em conversas e debates,
 ## Filósofos ligados
 T. M. ScanlonJürgen HabermasMiranda Fricker
 
-Lições: Contratualismo: a moral como acordo, Exploração: quando uma troca vantajosa ainda é injusta, Ética da inteligência artificial, O problema do alinhamento.
+Lições: Contratualismo: a moral como acordo, Grandes poderes, grandes responsabilidades: saber e poder, Exploração: quando uma troca vantajosa ainda é injusta, Ética da inteligência artificial, O problema do alinhamento.
 
 Nos dilemas: O transplante, A tragédia dos comuns.
 
@@ -15579,7 +15608,7 @@ Concepções erradas e espantalhos que costumam aparecer em conversas e debates,
 ## Filósofos ligados
 Immanuel KantChristine KorsgaardEmmanuel Levinas
 
-Lições: Uma breve história da ética, Resultado, regra ou caráter? O mapa das teorias, Deontologia: quando deveres e direitos pesam mais, Kant e o imperativo categórico, Livre-arbítrio e responsabilidade moral, Saber mais, dever mais: conhecimento e responsabilidade e mais 9
+Lições: Uma breve história da ética, Resultado, regra ou caráter? O mapa das teorias, Deontologia: quando deveres e direitos pesam mais, Kant e o imperativo categórico, Livre-arbítrio e responsabilidade moral, Grandes poderes, grandes responsabilidades: saber e poder e mais 9
 
 Exploração: quando uma troca vantajosa ainda é injusta, Punição: por que e como punir, Bioética: autonomia, consentimento e os quatro princípios, Ética da tecnologia e da inteligência artificial, Ética da inteligência artificial, Responsabilidade coletiva: sua parte nos danos de todos, O dilema do bonde e suas variantes, Motivação moral: saber o que é certo move a agir?, O problema do alinhamento.
 
@@ -15940,7 +15969,7 @@ PlatãoAristótelesConfúcioElizabeth AnscombePhilippa FootBernard WilliamsMarth
 
 Lições: As éticas religiosas: o que cada tradição ensina, Uma breve história da ética, Resultado, regra ou caráter? O mapa das teorias, Virtudes e cuidado: quando quem você é pesa mais, Aristóteles, a vida boa e as virtudes, Educação moral: como se forma uma pessoa boa? e mais 7
 
-Ética e sentido da vida: o que torna uma vida significativa, Emoções morais: culpa, vergonha, indignação, nojo e perdão, Milgram, Zimbardo, Arendt: pessoas comuns fazem o mal?, Fraqueza de vontade: saber o que é certo e não fazer, Saber mais, dever mais: conhecimento e responsabilidade, Ética animal na prática: granjas, laboratórios e natureza, Pluralismo de valores: quando os bens não se somam.
+Ética e sentido da vida: o que torna uma vida significativa, Emoções morais: culpa, vergonha, indignação, nojo e perdão, Milgram, Zimbardo, Arendt: pessoas comuns fazem o mal?, Fraqueza de vontade: saber o que é certo e não fazer, Grandes poderes, grandes responsabilidades: saber e poder, Ética animal na prática: granjas, laboratórios e natureza, Pluralismo de valores: quando os bens não se somam.
 
 Nos dilemas: O bonde: o desvio, Mentir ao assassino, Jim e os indígenas, Omelas, A máquina de experiências, O anel de Giges e mais 5
 
@@ -16864,7 +16893,7 @@ EpicuroJeremy BenthamJohn Stuart MillHenry SidgwickPeter SingerHolden KarnofskyN
 
 Lições: Uma breve história da ética, Resultado, regra ou caráter? O mapa das teorias, Consequencialismo: quando o resultado pesa mais, Bentham, Mill e o utilitarismo clássico, O que torna uma vida boa? As teorias do bem-estar, As objeções ao consequencialismo, e as respostas e mais 11
 
-Um cenário melhor ou o melhor cenário?, Saber mais, dever mais: conhecimento e responsabilidade, Pobreza extrema e ética global, Exploração: quando uma troca vantajosa ainda é injusta, Punição: por que e como punir, Bioética: autonomia, consentimento e os quatro princípios, Ética climática: quem deve o quê, e a quem, Identidade pessoal e ética: o que Parfit mudou, Teoria da decisão e ética, O problema do alinhamento, Quanto a moral pode exigir de você?.
+Um cenário melhor ou o melhor cenário?, Grandes poderes, grandes responsabilidades: saber e poder, Pobreza extrema e ética global, Exploração: quando uma troca vantajosa ainda é injusta, Punição: por que e como punir, Bioética: autonomia, consentimento e os quatro princípios, Ética climática: quem deve o quê, e a quem, Identidade pessoal e ética: o que Parfit mudou, Teoria da decisão e ética, O problema do alinhamento, Quanto a moral pode exigir de você?.
 
 Nos dilemas: O bonde: o desvio, Mentir ao assassino, Jim e os indígenas, A criança no lago, O violinista, O véu da ignorância e mais 12
 
