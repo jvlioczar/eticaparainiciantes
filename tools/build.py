@@ -62,12 +62,13 @@ from debates4 import DEBATES4
 DEBATES.extend(DEBATES2); DEBATES.extend(DEBATES3); DEBATES.extend(DEBATES4); DEBATES.extend(DEBATES5); DEBATES.extend(DEBATES6); DEBATES.extend(DEBATES7); DEBATES.extend(DEBATES8); DEBATES.extend(DEBATES9); DEBATES.extend(DEBATES10); DEBATES.extend(DEBATES11); DEBATES.extend(DEBATES12); TEMAS_DB.extend(TEMAS_DB5); TEMAS_DB.extend(TEMAS_DB10); DILEMAS.extend(DILEMAS2); TEMAS_D.extend(TEMAS_D2); FERR.extend(FERR2); TEMAS_DB.extend(TEMAS_DB2); TEMAS_DB.extend(TEMAS_DB3)
 assert len({d['s'] for d in DEBATES}) == len(DEBATES)
 import arte
+from filosofos_contexto import CONTEXTO, FERR_INTRO, ALTS, SO_NOME_COMPLETO
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = 'https://eticaparainiciantes.biblioverse.org'
 NOME = 'Ética Para Iniciantes'
 EXT = 'target="_blank" rel="noopener"'
-ATUALIZADO = '2026-11-14'
+ATUALIZADO = '2026-11-20'
 INTERMEDIARIO.extend(INTERMEDIARIO_B)
 # ética animal passa para o Avançado (pedido de 2026-11-03); as lições novas entram depois da lição indicada em POSICAO
 AVANCADO.extend([l for l in INTERMEDIARIO if l['grupo'] == 'Ética animal']); INTERMEDIARIO[:] = [l for l in INTERMEDIARIO if l['grupo'] != 'Ética animal']
@@ -430,6 +431,7 @@ def teste_nivel(slug, rot, ls):
     dados = json.dumps(dict(itens=itens, n=10), ensure_ascii=False).replace('</', '<\\/')
     corpo = cabeca(f'<a href="{slug}.html">{e(rot)}</a>', f'Teste do nível {rot}', f'Dez perguntas sorteadas entre as {len(itens)} do nível. Cada resposta diz em que lição rever o assunto. Refaça quantas vezes quiser: as perguntas mudam.')
     corpo += f'<div class="wrap estreito secao"><div id="jogo" class="quiz" style="margin-top:0"><div class="placar"><span></span><span></span></div><div class="barra-prog"><i></i></div><div class="alvo" style="margin-top:14px"></div><button class="btn prox-q" type="button" style="margin-top:12px" hidden>Próxima</button></div><script type="application/json" id="dados-teste">{dados}</script><p class="legenda">Acertou 8 ou mais? Você está pronto para o próximo nível. Menos que isso: veja as lições indicadas e tente de novo.</p><p><a class="btn alt" href="{slug}.html">Voltar ao nível {e(rot)}</a></p></div>'
+    corpo += f'<div class="wrap estreito leitura secao" style="padding-top:0"><h2>O que o teste cobre</h2><p>As perguntas saem das {len(ls)} lições do nível {e(rot)}. Cada lição tem três perguntas: uma de compreensão e duas de aplicação a casos. Se errar, revise a lição indicada na resposta.</p><ul>' + ''.join(f'<li><a href="{l["slug"]}.html">{e(l["titulo"])}</a>: {e(l["resumo"])}</li>' for l in ls) + '</ul></div>'
     page(f'teste-{slug}.html', f'Teste do nível {rot}', f'Dez perguntas sorteadas sobre as lições do nível {rot} de ética, com a lição a rever em cada resposta.', corpo, atual=f'{slug}.html')
 def minha_posicao():
     teo = [dict(s=t['s'], n=t['n'], f=t['f'], foco=t['foco']) for t in TEO]
@@ -686,6 +688,38 @@ def dilemas_pub():
         page(f'dilemas/{d["s"]}.html', d['n'], d['r'], corpo, atual='dilemas.html')
 
 # ---------- filósofos ----------
+def _textos(x):
+    if isinstance(x, str): yield x
+    elif isinstance(x, dict):
+        for v in x.values(): yield from _textos(v)
+    elif isinstance(x, (list, tuple)):
+        for v in x: yield from _textos(v)
+
+def _limpo(s): return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', s)).strip()
+
+def mencoes(fi):
+    """Onde o filósofo aparece no resto do site: lições, debates, dilemas e teorias, com a frase que o cita."""
+    nome = re.sub(r'\s*\(.*?\)', '', fi['nome']).strip()
+    alts = [nome] + ALTS.get(fi['slug'], [])
+    sob = nome.split()[-1]
+    if fi['slug'] not in SO_NOME_COMPLETO and len(sob) >= 4: alts.append(sob)
+    rx = re.compile(r'(?<![\wÀ-ÿ])(' + '|'.join(re.escape(a) for a in alts) + r')(?![\wÀ-ÿ])')
+    def acha(obj):
+        for s in _textos(obj):
+            if s.startswith('http') or not rx.search(s): continue
+            for fr in re.split(r'(?<=[.!?])\s+', _limpo(s)):
+                if rx.search(fr): return fr if len(fr) <= 260 else fr[:257].rsplit(' ', 1)[0] + '…'
+        return None
+    fontes_ = [('Lições', [(l['titulo'], f'../{l["slug"]}.html', [l['resumo'], l['corpo'], DID.get(l['slug'], {})]) for l in TODAS], 8),
+               ('Debates', [(d['n'], f'../debates/{d["s"]}.html', d) for d in DEBATES], 5),
+               ('Dilemas', [(d['n'], f'../dilemas/{d["s"]}.html', d) for d in DILEMAS], 4),
+               ('Teorias', [(x['n'], f'../teorias/{x["s"]}.html', x) for x in TEO if x['s'] not in fi['teorias']], 5)]
+    out = []
+    for rot, its, lim in fontes_:
+        achados = [(n, u, fr) for n, u, o in its for fr in [acha(o)] if fr][:lim]
+        if achados: out.append((rot, achados))
+    return out
+
 def filosofos():
     bots = '<button type="button" data-k="c" data-v="" aria-pressed="true">Todas</button>' + ''.join(f'<button type="button" data-k="c" data-v="{e(c)}" aria-pressed="false">{e(c)}</button>' for c in CORRENTES)
     gr = ''.join(f'<section class="grupo-l"><h2 class="grupo">{e(c)}</h2><div class="grade">' + ''.join(cartao_f(f, 'filosofos/') for f in FIL if f['corrente'] == c) + '</div></section>' for c in CORRENTES)
@@ -699,7 +733,15 @@ def filosofos():
         ant, prox = FIL[i - 1], FIL[(i + 1) % len(FIL)]
         lado = f'<aside class="lado"><div class="caixa"><h2>Em resumo</h2><dl><dt>Viveu</dt><dd>{e(f["anos"])}</dd><dt>Onde</dt><dd>{e(f["pais"])}</dd><dt>Corrente</dt><dd>{e(f["corrente"])}</dd></dl></div><div class="caixa toc-caixa"><h2>Nesta página</h2><ul class="toc"></ul></div></aside>'
         corpo = cabeca('<a href="../filosofos.html">Filósofos morais</a>', f['nome'], e(f['quem']), meta=f'<div class="meta"><span class="tipo fam f{COR_COR[f["corrente"]]}">{e(f["corrente"])}</span><span class="tipo ferr">{e(f["anos"])}</span></div>')
-        corpo += f'''<div class="wrap layout"><article class="leitura"><h2>Ideias principais</h2><ul class="lista-forte">{"".join(f"<li>{e(x)}</li>" for x in f["ideias"])}</ul><h2>Obras</h2><ul>{"".join(f"<li><em>{e(x)}</em></li>" for x in f["obras"])}</ul><h2>O que dizem os críticos</h2><p>{e(f["criticas"])}</p>{liga}
+        mm = mencoes(f)
+        onde = ''
+        if mm:
+            sing = {'Lições': 'lição', 'Debates': 'debate', 'Dilemas': 'dilema', 'Teorias': 'teoria'}
+            pr = [f'{len(v)} {k.lower() if len(v) > 1 else sing[k]}' for k, v in mm]
+            resumo_m = pr[0] if len(pr) == 1 else ', '.join(pr[:-1]) + ' e ' + pr[-1]
+            nm = re.sub(r' *\(.*?\)', '', f['nome'])
+            onde = f'<h2>Onde {e(nm)} aparece no site</h2><p>Citado em {resumo_m}. Abaixo, a frase de cada página que o menciona; o link leva ao contexto completo.</p>' + ''.join(f'<h3>{e(k)}</h3><ul>' + ''.join(f'<li><a href="{u}">{e(n)}</a>: “{e(fr)}”</li>' for n, u, fr in v) + '</ul>' for k, v in mm)
+        corpo += f'''<div class="wrap layout"><article class="leitura">{('<h2>Por que importa</h2><p>' + e(CONTEXTO[f['slug']]) + '</p>') if f['slug'] in CONTEXTO else ''}<h2>Ideias principais</h2><ul class="lista-forte">{"".join(f"<li>{e(x)}</li>" for x in f["ideias"])}</ul><h2>Obras</h2><ul>{"".join(f"<li><em>{e(x)}</em></li>" for x in f["obras"])}</ul><h2>O que dizem os críticos</h2><p>{e(f["criticas"])}</p>{liga}{onde}
 {fontes([("Wikipédia: " + f["nome"], "https://en.wikipedia.org/wiki/" + f["w"])] + f["fx"])}<nav class="pager" aria-label="Filósofos"><a href="{ant["slug"]}.html"><small>← Anterior</small>{e(ant["nome"])}</a><a class="prox" href="{prox["slug"]}.html"><small>Próximo →</small>{e(prox["nome"])}</a></nav></article>{lado}</div><section class="relac"><div class="wrap"><h2>Na mesma corrente</h2><div class="grade">{"".join(cartao_f(x) for x in mesmos)}</div></div></section>'''
         page(f'filosofos/{f["slug"]}.html', f['nome'], f['quem'], corpo, atual='filosofos.html')
 
@@ -717,6 +759,8 @@ def ferramentas():
     page('ferramentas.html', 'Ferramentas', 'Jogos e simuladores para aprender ética fazendo.', cabeca('Ferramentas', 'Aprenda fazendo', 'Sem cadastro. Nada do que você responde sai do seu navegador.') + f'<div class="wrap secao"><div class="grade">{cards}</div></div>', atual='ferramentas.html')
     def fp(a, tit, lede, corpo):
         d = next(x[2] for x in FERR if x[0] == a)
+        pars, lic = FERR_INTRO[a]; L_S = {l['slug']: l for l in TODAS}
+        corpo += '<div class="leitura" style="margin-top:2rem"><h2>O que este exercício treina</h2>' + ''.join(f'<p>{e(x)}</p>' for x in pars) + '<h2>Lições para revisar</h2><ul>' + ''.join(f'<li><a href="../{s}.html">{e(L_S[s]["titulo"])}</a>: {e(L_S[s]["resumo"])}</li>' for s in lic) + '</ul><p>Sem cadastro: nada do que você responde sai do seu navegador. Veja as <a href="../ferramentas.html">outras ferramentas</a>.</p></div>'
         page(f'ferramentas/{a}.html', tit, d, cabeca('<a href="../ferramentas.html">Ferramentas</a>', tit, lede) + f'<div class="wrap ferr secao" style="padding-top:28px">{corpo}</div>', atual='ferramentas.html')
     JOGO = '<div id="jogo" class="quiz" style="margin-top:0"><div class="placar"><span></span><span></span></div><div class="barra-prog"><i></i></div><div class="alvo" style="margin-top:14px"></div><button class="btn prox-q" type="button" style="margin-top:12px" hidden>Próxima</button></div>'
     dj = lambda d: f'<script type="application/json" id="dados-jogo">{json.dumps(d, ensure_ascii=False).replace("</", "<\\/")}</script>'
