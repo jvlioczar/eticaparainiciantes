@@ -18,6 +18,7 @@ dict(slug='utilitarismo-classico', grupo='Consequencialismo por dentro', titulo=
 <tr><td>Dois níveis</td><td>Regras no dia a dia, cálculo direto só em casos extremos ou novos</td><td>Junta as duas vantagens</td><td>Quem decide quando o caso é extremo?</td></tr>
 </tbody></table>
 <p>R. M. Hare defendeu a versão de dois níveis: pensamos como “proles”, seguindo regras boas, e só como “arcanjos”, calculando tudo, quando as regras falham. É como a maioria dos utilitaristas pensa hoje.</p>
+<p>James Rachels levou a ideia adiante com o que chamou de utilitarismo de múltiplas estratégias. O bem-estar de todos continua sendo o padrão para avaliar ações, leis, costumes e traços de caráter. Mas a melhor forma de promovê-lo, na maior parte do tempo, não é calcular: é amar os filhos, ser leal aos amigos, cumprir promessas, orgulhar-se do próprio trabalho e tratar as pessoas conforme o que fizeram, com gratidão para quem ajudou e reserva para quem se recusou a ajudar. Uma vida guiada só pela benevolência universal seria mais pobre, e por isso o próprio critério utilitarista recomenda outros motivos no dia a dia. Henry Sidgwick já dizia algo parecido no século XIX.</p>
 <h2>O que conta como bem-estar</h2>
 <ul>
 <li><strong>Hedonismo:</strong> prazer e ausência de dor, como em Bentham.</li>
@@ -27,7 +28,7 @@ dict(slug='utilitarismo-classico', grupo='Consequencialismo por dentro', titulo=
 <p>Essa escolha muda conclusões práticas. Para um hedonista, uma vida feliz dentro da <a href="dilemas/maquina-de-experiencias.html">máquina de experiências</a> de Nozick é tão boa quanto uma vida real. Para quem valoriza preferências ou uma lista de bens, não.</p>
 <h2>Por que a teoria continua viva</h2>
 <p>Porque faz a pergunta que nenhuma outra pode ignorar: <em>quem fica melhor, quem fica pior, e quanto?</em> Mesmo quem rejeita o utilitarismo como teoria completa usa seu raciocínio em saúde pública, políticas sociais e ajuda humanitária. Os problemas, discutidos em <a href="objecoes-ao-consequencialismo.html">objeções ao consequencialismo</a>, são sobre o que falta, não sobre o que ele vê.</p>
-''', fontes=[UTIL, ('Utilitarismo (Wikipédia)', WP + 'Utilitarismo'), ('The History of Utilitarianism (Stanford Encyclopedia)', SEP + 'utilitarianism-history/'), ('Utilitarianism (1861)', 'https://www.gutenberg.org/ebooks/11224')]),
+''', fontes=[UTIL, ('Utilitarismo (Wikipédia)', WP + 'Utilitarismo'), ('The History of Utilitarianism (Stanford Encyclopedia)', SEP + 'utilitarianism-history/'), ('Utilitarianism (1861)', 'https://www.gutenberg.org/ebooks/11224'), ('Os Elementos da Filosofia Moral', 'https://www.google.com/search?tbm=bks&q=Rachels+Os+Elementos+da+Filosofia+Moral')]),
 
 dict(slug='somar-priorizar-ou-garantir', grupo='Consequencialismo por dentro', titulo='Somar, priorizar ou garantir o mínimo?', resumo='Dizer que o resultado importa não diz como juntar o bem de várias pessoas. Utilitarismo, prioritarismo, maximin, igualitarismo e suficientismo dão respostas diferentes.', corpo='''
 <p class="abre">Imagine que você pode distribuir recursos entre pessoas. Todas as teorias desta lição concordam que o bem-estar delas importa. Discordam sobre como juntar o bem-estar de muitos em um só julgamento. Essa é a questão da <strong>agregação</strong>.</p>

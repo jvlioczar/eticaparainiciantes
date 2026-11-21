@@ -706,6 +706,8 @@ O relativismo cultural torna o reformador sempre errado, porque ele discorda da 
 
 O egoísmo psicológico é uma tese de fato: as pessoas sempre agem por interesse próprio. O egoísmo ético é uma tese de valor: cada pessoa deve agir pelo próprio interesse. São coisas diferentes, e a primeira é provavelmente falsa: pessoas se sacrificam por estranhos, e dizer que “no fundo” fizeram isso por prazer esvazia a palavra interesse.
 
+Muitas defesas do egoísmo psicológico se apoiam em duas confusões. A primeira é entre fazer o que se quer e agir por egoísmo: quem quer ajudar um estranho e ajuda está fazendo o que quer, mas o que quer é o bem do outro, e isso é o oposto de egoísmo. A segunda é entre o motivo de uma ação e a satisfação que vem depois: sentir-se bem por ter ajudado não mostra que a ajuda foi feita para se sentir bem; a satisfação só existe porque a pessoa já se importava com o outro. Conta-se que Abraham Lincoln, depois de parar uma viagem para tirar uns leitões que se afogavam num lamaçal, disse que fez aquilo para ter paz de espírito. A explicação mostra o contrário do que ele queria provar: ele só perderia a paz se se importasse com os animais.
+
 O egoísmo ético tem um argumento sério: cada um conhece melhor as próprias necessidades, e um mundo em que todos cuidam de si pode funcionar bem. Mas enfrenta problemas:
 
 - Não resolve conflitos: se o meu interesse e o seu colidem, a teoria manda cada um vencer o outro. Não é uma moral, é a ausência de uma.
@@ -717,6 +719,12 @@ O egoísmo ético tem um argumento sério: cada um conhece melhor as próprias n
 ## Relativismo moral
 
 O relativismo descritivo observa que sociedades diferem sobre o que é certo. É verdade, embora menos do que parece: proibições de matar, roubar e trair aparecem em todas, e as diferenças costumam estar nos fatos (“o que acontece depois da morte?”) e no círculo de quem conta. O relativismo normativo vai além: diz que cada cultura, ou cada pessoa, tem a sua verdade moral, e que não cabe julgar de fora.
+
+O argumento mais comum a favor do relativismo diz: as culturas discordam sobre o que é certo; logo, não há verdade moral. O argumento é inválido, porque a conclusão não decorre da premissa. Do fato de as pessoas discordarem sobre algo não se segue que não haja resposta: povos já discordaram sobre o formato da Terra e a causa das doenças, e havia uma resposta certa. A discordância mostra que alguém pode estar errado, não que ninguém está certo.
+
+Além disso, parte do desacordo é sobre fatos, e não sobre valores. Uma cultura que não come vacas por acreditar que nelas podem renascer os mortos da família não valoriza a vida menos do que nós; ela acredita em outra coisa sobre o que acontece depois da morte. E há valores que toda sociedade duradoura precisa ter: cuidar das crianças, valorizar a verdade na maior parte das situações e proibir o homicídio dentro do grupo, porque sem isso a própria vida em comum se desfaz.
+
+Isso permite julgar uma prática sem simplesmente impor a própria cultura. A pergunta não é “isso é diferente do que fazemos?”, e sim “isso promove ou prejudica os interesses de quem é afetado?”. Práticas como a mutilação genital de meninas falham nesse teste por razões que as próprias vítimas reconhecem, e não por serem estranhas a quem olha de fora.
 
 | O que o relativismo acerta | Onde falha |
 
@@ -1814,6 +1822,16 @@ Uma antropóloga pode descrever o que uma sociedade considera certo. Isso é ét
 “Cada um tem a sua ética” soa humilde, mas raramente é levado a sério por quem diz. Ninguém aceita que torturar uma criança por diversão seja só uma questão de gosto, como preferir chocolate a baunilha. Juízos morais pedem razões. Quando alguém diz que algo é errado, pode ser perguntado “por quê?”, e a resposta pode ser boa ou ruim. É isso que torna a ética um assunto que se estuda, e não só se sente.
 
 Isso não significa que exista uma resposta fácil para tudo. Significa que algumas respostas são melhores do que outras: mais coerentes, mais informadas sobre quem é afetado, menos dependentes de quem está falando. Este curso ensina a reconhecer essas diferenças.
+
+## Um ponto de partida comum
+
+As teorias éticas brigam entre si, mas quase todas aceitam um núcleo mínimo, que os filósofos James e Stuart Rachels propõem como ponto de partida de qualquer estudo de ética. Ele tem duas partes:
+
+- Razões antes de sentimentos. Sentimentos fortes costumam ser sinal de que algo importa, mas não garantem que estejamos certos: já houve tempo em que muita gente sentia, com toda a convicção, que a escravidão era natural. Quando dois sentimentos igualmente fortes se opõem, só as razões podem desempatar. Por isso, num problema moral, o primeiro passo é apurar os fatos, sem deixar que o desejo de uma conclusão os distorça, e o segundo é perguntar que princípios estão em jogo e se eles se sustentam.
+
+- Os interesses de cada um contam. Ninguém recebe peso extra só por ser quem é. Tratar alguém pior exige uma diferença relevante; sem ela, o tratamento é arbitrário, e é isso que há de errado no racismo e no sexismo. Veja a imparcialidade .
+
+O núcleo não resolve os casos difíceis, mas diz como enfrentá-los. Os livros de introdução costumam começar por casos reais em que pessoas sensatas discordam: pais que quiseram doar os órgãos de um bebê sem chance de consciência, médicos que pediram à Justiça para separar gêmeas siamesas sabendo que só uma sobreviveria. Em cada um, há bons argumentos dos dois lados, e o trabalho da ética é examiná-los um a um, em vez de decidir pelo primeiro impulso.
 
 ## Por que estudar isso
 
@@ -5804,6 +5822,8 @@ Mill, em Utilitarismo (1861), respondeu à acusação de que a teoria era “uma
 
 R. M. Hare defendeu a versão de dois níveis: pensamos como “proles”, seguindo regras boas, e só como “arcanjos”, calculando tudo, quando as regras falham. É como a maioria dos utilitaristas pensa hoje.
 
+James Rachels levou a ideia adiante com o que chamou de utilitarismo de múltiplas estratégias. O bem-estar de todos continua sendo o padrão para avaliar ações, leis, costumes e traços de caráter. Mas a melhor forma de promovê-lo, na maior parte do tempo, não é calcular: é amar os filhos, ser leal aos amigos, cumprir promessas, orgulhar-se do próprio trabalho e tratar as pessoas conforme o que fizeram, com gratidão para quem ajudou e reserva para quem se recusou a ajudar. Uma vida guiada só pela benevolência universal seria mais pobre, e por isso o próprio critério utilitarista recomenda outros motivos no dia a dia. Henry Sidgwick já dizia algo parecido no século XIX.
+
 ## O que conta como bem-estar
 
 - Hedonismo : prazer e ausência de dor, como em Bentham.
@@ -5842,6 +5862,7 @@ Dilemas para testar: A máquina de experiências, Omelas.
 - Utilitarismo (Wikipédia)
 - The History of Utilitarianism (Stanford Encyclopedia)
 - Utilitarianism (1861)
+- Os Elementos da Filosofia Moral
 
 Próxima →O que torna uma vida boa? As teorias do bem-estar
 
