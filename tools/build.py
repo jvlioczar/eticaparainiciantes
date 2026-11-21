@@ -48,10 +48,11 @@ from fecho import F as FECHO
 from licoes_novas6 import NOVAS6_INTERMEDIARIO, META_NOVAS6, REFORCO_NOVAS6, POSICAO6, DID6, FECHO6
 from licoes_novas7 import NOVAS7_INTERMEDIARIO, NOVAS7_AVANCADO, META_NOVAS7, REFORCO_NOVAS7, POSICAO7, DID7, FECHO7
 from licoes_novas8 import NOVAS8_INTERMEDIARIO, META_NOVAS8, REFORCO_NOVAS8, POSICAO8, DID8, FECHO8
-FECHO.update(FECHO7); FECHO.update(FECHO8)
+from licoes_novas9 import NOVAS9_AVANCADO, META_NOVAS9, REFORCO_NOVAS9, POSICAO9, DID9, FECHO9
+FECHO.update(FECHO7); FECHO.update(FECHO8); FECHO.update(FECHO9)
 FECHO.update(FECHO6)
 DID = {**D1, **D2, **D3}
-DID.update(DID6); DID.update(DID7); DID.update(DID8)
+DID.update(DID6); DID.update(DID7); DID.update(DID8); DID.update(DID9)
 from ferramentas2 import FERR2, VEU, QUEM_OPS, QUEM, ER_CASOS, ER_PRINCIPIOS, ER_PARES
 from filosofos_novos import F_NOVOS, MUDA_CORRENTE
 from debates import DEBATES, ROT_PESO, TEMAS_DB
@@ -89,12 +90,14 @@ META.update(META_NOVAS5); REFORCO.update(REFORCO_NOVAS5)
 META.update(META_NOVAS6); REFORCO.update(REFORCO_NOVAS6)
 META.update(META_NOVAS7); REFORCO.update(REFORCO_NOVAS7)
 META.update(META_NOVAS8); REFORCO.update(REFORCO_NOVAS8)
+META.update(META_NOVAS9); REFORCO.update(REFORCO_NOVAS9)
 for _ls, _novas in ((INICIANTE, NOVAS5_INICIANTE), (INTERMEDIARIO, NOVAS5_INTERMEDIARIO), (AVANCADO, NOVAS5_AVANCADO)):
     for _l in _novas: _apos(_ls, POSICAO5[_l['slug']], _l)
 for _l in NOVAS6_INTERMEDIARIO: _apos(INTERMEDIARIO, POSICAO6[_l['slug']], _l)
 for _l in NOVAS7_INTERMEDIARIO: _apos(INTERMEDIARIO, POSICAO7[_l['slug']], _l)
 for _l in NOVAS7_AVANCADO: _apos(AVANCADO, POSICAO7[_l['slug']], _l)
 for _l in NOVAS8_INTERMEDIARIO: _apos(INTERMEDIARIO, POSICAO8[_l['slug']], _l)
+for _l in NOVAS9_AVANCADO: _apos(AVANCADO, POSICAO9[_l['slug']], _l)
 FIL.extend(F_NOVOS); FIL.extend(F_NOVOS2); FIL.extend(F_NOVOS3); CORRENTES.extend(CORRENTES_NOVAS)
 for _f in FIL: _f['corrente'] = MUDA_CORRENTE.get(_f['slug'], _f['corrente'])
 assert all(_f['corrente'] in CORRENTES for _f in FIL), [_f['slug'] for _f in FIL if _f['corrente'] not in CORRENTES]

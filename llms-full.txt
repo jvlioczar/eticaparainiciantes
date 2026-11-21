@@ -3567,7 +3567,7 @@ Nos debates: Fazer mal a quem nunca vai saber: existe dano?.
 
 ← AnteriorO dilema do bonde e suas variantesVocê chegou ao fim do nível Intermediário
 
-Faça o teste do nível e continue com 31 lições do nível Avançado.
+Faça o teste do nível e continue com 32 lições do nível Avançado.
 
 Revisão do nível Teste do nível Ir para o curso Avançado →
 
@@ -6110,11 +6110,7 @@ Nos debates: Liberdade de expressão irrestrita, Pornografia, Cancelamento e ver
 - Mudar de ideia (Política Para Iniciantes)
 - Changing Our Minds (Stanford Encyclopedia: Belief revision)
 
-← AnteriorCatástrofes morais: e se estivermos errados agora?Você chegou ao fim do curso
-
-Faça o teste do nível, monte a sua posição e continue do lado da política.
-
-Revisão do nível Teste do nível Minha posição Política Para Iniciantes →
+← AnteriorCatástrofes morais: e se estivermos errados agora?Próxima →Ideias controversas: quando o argumento vai longe demais?
 
 ---
 
@@ -7544,6 +7540,116 @@ Nos debates: Explorar animais.
 - Ética Prática
 
 ← AnteriorAnimais e a política: cidadania e constituiçõesPróxima →Gerações futuras: quem ainda não nasceu conta igual?
+
+---
+
+# Ideias controversas: quando o argumento vai longe demais?
+
+Fonte: https://eticaparainiciantes.biblioverse.org/ideias-controversas.html · Avançado
+
+A filosofia moral chega a conclusões que chocam, como ajudar animais selvagens ou questionar o valor de existir.
+
+Quem estuda ética logo encontra conclusões que soam absurdas: que deveríamos intervir na natureza para reduzir o sofrimento de animais selvagens, que talvez seja errado ter filhos, que gastar com luxo enquanto crianças morrem de causas evitáveis é parecido com deixar uma criança se afogar. Não é gosto pela provocação. Na maior parte das vezes, são o resultado de aplicar com coerência princípios que quase todo mundo já aceita.
+
+Uma analogia
+
+É como seguir um mapa que leva a um lugar onde você nunca esperaria chegar. Pode ser que o mapa esteja errado, e aí vale conferir cada curva. Mas pode ser que o lugar exista mesmo e você só nunca tivesse ido lá. Rasgar o mapa só porque o destino surpreende não ajuda a descobrir qual das duas coisas é verdade.
+
+Explicando para uma criança
+
+Às vezes você pensa uma coisa, segue o raciocínio direitinho e chega numa ideia que parece maluca. Aí tem duas opções: ou a ideia está certa e era só diferente do que você estava acostumado, ou você errou em algum passo. O jeito de saber é voltar e conferir cada passo, com calma, e conversar com quem pensa diferente.
+
+Ao fim desta lição, você vai conseguir
+
+- Explicar por que o raciocínio moral coerente leva a conclusões contraintuitivas.
+- Avaliar uma conclusão estranha: aceitar o argumento ou mostrar qual premissa falha.
+- Descrever o Journal of Controversial Ideas e o debate entre liberdade de investigação e responsabilidade.
+
+Ajuda ter lido: Abertura moral: como revisar o que você acredita, Epistemologia moral: desacordo, testemunho e ficção.
+
+Antes de ler: o que você faria?
+
+Num seminário, um colega apresenta um argumento cuidadoso cuja conclusão você acha moralmente inaceitável. Parte da turma quer impedir que ele apresente.
+
+Como responder ao argumento?
+
+Ver o que a lição responde
+
+Impedir a apresentação não mostra que a conclusão está errada. O caminho é examinar o argumento e mostrar qual premissa falha, ou admitir que ele é mais forte do que parecia. Ao mesmo tempo, quem é afetado pelo tema deve ter voz na discussão.
+
+## Por que isso acontece
+
+- A coerência leva longe. Um argumento parte de premissas aceitáveis e segue a lógica até onde ela vai. “A dor é ruim” e “o que é ruim deve ser evitado quando possível” parecem inocentes; aplicadas sem exceções arbitrárias, chegam a lugares que o costume nunca visitou.
+
+- As intuições foram formadas para outro mundo. Nossos sentimentos morais se formaram em grupos pequenos, com efeitos próximos e visíveis. Diante de números enormes, efeitos distantes, gerações futuras ou seres muito diferentes de nós, eles falham de modo previsível. Veja vieses morais .
+
+- O costume e o interesse se disfarçam de intuição. Muito do que parece óbvio é só o que sempre se fez, ou o que nos convém. A escravidão, a submissão das mulheres e a punição da homossexualidade já pareceram naturais a quase todos.
+
+- Casos novos não têm resposta pronta. Edição genética, inteligência artificial, ética populacional e o sofrimento na natureza obrigam a estender princípios para onde a tradição não chegou.
+
+## O que fazer diante de uma conclusão estranha
+
+Há duas reações legítimas, e escolher entre elas é o trabalho da filosofia. Se as premissas são boas e a lógica é válida, a conclusão deve ser aceita, por mais estranha que pareça. Mas também é possível fazer o caminho inverso: se a conclusão é inaceitável, ao menos uma premissa deve estar errada. Os filósofos resumem isso dizendo que o argumento de um é o contra-argumento de outro. Nenhuma das duas reações é automática. O método do equilíbrio reflexivo pede que se pese a força das premissas contra a força da intuição que a conclusão ofende: às vezes a intuição vence, às vezes ela é só costume.
+
+Duas regras ajudam. Primeiro, “é contraintuitivo” não é um argumento, é um sinal para examinar com mais cuidado. Segundo, a história do progresso moral é, em boa parte, a de ideias que começaram como escandalosas: a abolição, o voto feminino e a consideração pelos animais foram, cada uma, a conclusão estranha de alguém.
+
+## Alguns exemplos
+
+| Ideia | O argumento | Por que choca |
+
+| Sofrimento dos animais selvagens | Se o sofrimento é ruim independentemente de quem o causa, a dor de um animal comido vivo ou morto de fome também conta, e devemos ajudar quando for possível sem causar mais dano | Contraria a imagem da natureza como harmoniosa e boa por si; para muitos, intervir parece arrogância |
+
+| Aborto | Judith Jarvis Thomson, com o caso do violinista , argumentou que, mesmo que o feto seja uma pessoa, o direito à vida não inclui usar o corpo de outra. Don Marquis argumentou no sentido oposto: matar é errado porque tira um futuro como o nosso, o que valeria também para o feto | Os dois lados chegam a conclusões que o outro considera inaceitáveis, e cada argumento obriga a rever uma intuição forte |
+
+| Antinatalismo | David Benatar argumenta que vir a existir é sempre um dano, porque a ausência de dor é boa mesmo sem ninguém para usufruí-la | Conclui que ter filhos é errado, o que contraria uma das práticas mais valorizadas da vida humana |
+
+| A exigência da ajuda | Peter Singer , com a criança no lago , argumenta que, se podemos evitar algo muito ruim sem sacrificar nada comparável, devemos fazê-lo, o que exige doar muito mais do que é costume | Torna moralmente suspeitos gastos que todos consideram normais |
+
+| Conclusão repugnante | Passos que parecem inocentes levam a preferir um mundo enorme de vidas que mal valem a pena | Ninguém aceita a conclusão com facilidade, e nenhuma saída é barata |
+
+Em 2012, os filósofos Alberto Giubilini e Francesca Minerva publicaram no Journal of Medical Ethics um artigo argumentando que, se as razões aceitas para o aborto valem, valeriam também em alguns casos logo após o nascimento. A maioria dos filósofos rejeita a conclusão, e muitos a tomam como prova de que alguma premissa sobre o aborto está errada. Mas a reação mostrou outra coisa: os autores receberam ameaças de morte. O caso virou exemplo de como discutir uma ideia e defender uma prática são coisas diferentes, e de como o medo pode calar o debate acadêmico.
+
+## O Journal of Controversial Ideas
+
+Foi nesse contexto que Francesca Minerva, Jeff McMahan e Peter Singer criaram o Journal of Controversial Ideas, lançado em 2021. É uma revista acadêmica de acesso aberto, com revisão por pares, que aceita artigos sobre temas que costumam provocar reações hostis e permite que os autores publiquem com pseudônimo, para se proteger de ameaças e de danos à carreira. A proposta é que ideias sejam julgadas por argumentos e evidências, e não pelo desconforto que causam.
+
+A revista também tem críticos. Alguns dizem que ser controverso não é critério de qualidade e que dar um espaço próprio a essas ideias pode legitimar posições que prejudicam grupos vulneráveis. Outros apontam que o pseudônimo reduz a responsabilidade de quem escreve. Os editores respondem que a revisão por pares filtra a qualidade e que proteger a discussão não é endossar as conclusões. O debate em torno dela é, ele mesmo, um caso de como conciliar liberdade de investigação e responsabilidade.
+
+## Os limites
+
+- Discutir não é endossar. Examinar um argumento até o fim é o modo de saber se ele se sustenta; quem o examina não precisa concordar com ele.
+
+- Argumentar não é agir. Uma conclusão filosófica não autoriza ninguém a impô-la aos outros, e muitas ficam na mesa justamente para que se descubra o que há de errado nelas.
+
+- Quem é afetado tem voz. Discutir o valor da vida de pessoas com deficiência, por exemplo, exige ouvi-las. Rigor e respeito não são opostos.
+
+- “É só filosofia” não desculpa a crueldade. A liberdade de argumentar protege ideias, não ataques a pessoas.
+
+## Para guardar
+
+- Conclusões chocantes costumam nascer de aplicar com coerência princípios que quase todos aceitam a casos que o costume não previu.
+- Diante delas, ou se aceita a conclusão, ou se mostra qual premissa falha; “é contraintuitivo” não basta.
+- Discutir não é endossar nem agir, e a liberdade de argumentar convive com o respeito a quem é afetado.
+
+Para pensar
+
+Que ideia moral que hoje parece absurda você acha que pode ser vista como óbvia daqui a cem anos? E qual ideia hoje aceita pode vir a parecer um erro?
+
+Erro comum: “Se a conclusão é absurda, nem vale a pena discutir o argumento.” Uma conclusão estranha é um sinal para examinar o argumento com mais cuidado, não para descartá-lo. Muitas ideias hoje óbvias, como a abolição e o voto feminino, já pareceram absurdas.
+
+## Fontes e leituras
+
+- Journal of Controversial Ideas
+- After-birth abortion: why should the baby live? (Journal of Medical Ethics, 2012)
+- A Defense of Abortion (1971)
+- Reflective Equilibrium (Stanford Encyclopedia)
+- Academic freedom (Wikipédia)
+
+← AnteriorAbertura moral: como revisar o que você acreditaVocê chegou ao fim do curso
+
+Faça o teste do nível, monte a sua posição e continue do lado da política.
+
+Revisão do nível Teste do nível Minha posição Política Para Iniciantes →
 
 ---
 
