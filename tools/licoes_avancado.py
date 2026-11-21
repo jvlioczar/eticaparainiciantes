@@ -237,6 +237,15 @@ dict(slug='etica-populacional', grupo='As fronteiras do círculo', titulo='Étic
 <p class="abre">A ética populacional compara mundos com números diferentes de pessoas. Parece acadêmico, mas decide questões reais: políticas de natalidade, o peso das gerações futuras, se extinção é o pior resultado possível. Derek Parfit mostrou que todas as respostas simples levam a conclusões que ninguém aceita.</p>
 <h2>A conclusão repugnante</h2>
 <p>Compare o mundo A, com 10 bilhões de pessoas vivendo muito bem, e o mundo Z, com trilhões de pessoas cujas vidas são apenas um pouco melhores do que nada. Se o que importa é a soma total de bem-estar, Z é melhor, porque a soma é maior. Parfit chamou isso de conclusão repugnante, e passou décadas buscando uma teoria que a evitasse sem cair em outra conclusão igualmente ruim. Não achou. Veja <a href="dilemas/conclusao-repugnante.html">o dilema</a>.</p>
+<h2>Como se chega lá: o paradoxo da mera adição</h2>
+<p>A conclusão repugnante não aparece de uma vez. Parfit mostrou que se chega a ela por passos que parecem, cada um, inocentes:</p>
+<ol class="passos">
+<li><strong>Mundo A:</strong> uma população com vidas muito boas.</li>
+<li><strong>Mundo A+:</strong> a mesma população, igualmente bem, mais um grupo separado com vidas menos boas, mas que valem a pena, e que não prejudica ninguém. Parece difícil dizer que A+ é pior do que A: só se acrescentaram vidas boas, sem dano a ninguém. É a “mera adição”.</li>
+<li><strong>Mundo B:</strong> as mesmas pessoas de A+, agora com bem-estar igual para todos, num nível um pouco abaixo do grupo mais feliz e bem acima do outro. B tem mais bem-estar total e mais igualdade do que A+, e parece melhor.</li>
+<li><strong>Repita:</strong> cada passo parece aceitável, e a repetição termina num mundo enorme de vidas que mal valem a pena, o mundo Z.</li>
+</ol>
+<p>Para fugir da conclusão, é preciso negar um dos passos, e cada negação tem um custo: dizer que acrescentar vidas boas pode piorar o mundo, ou que mais bem-estar e mais igualdade juntos podem piorá-lo, ou que “melhor do que” não é transitivo. É por isso que o problema resiste há décadas.</p>
 <h2>As saídas e seus custos</h2>
 <table><thead><tr><th>Saída</th><th>Como evita</th><th>Novo problema</th></tr></thead><tbody>
 <tr><td>Utilitarismo médio</td><td>Z tem média baixa</td><td>Um mundo com uma só pessoa extasiada seria melhor do que bilhões felizes; e adicionar alguém feliz, mas abaixo da média, pioraria o mundo</td></tr>

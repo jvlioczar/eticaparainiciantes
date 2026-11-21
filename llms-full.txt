@@ -1962,6 +1962,10 @@ James Rachels examinou a versão mais dura da pergunta: o que pais devem aos pr�
 
 Ele defendeu a última, com três observações. Explicar de onde vem um sentimento, como a evolução explica o apego aos filhos, não mostra que ele é justo. O argumento dos papéis sociais mostra que o dever com os filhos tem outra base, mas não que seja mais forte: quem ignora o próprio filho é um mau pai, e quem ignora uma criança que poderia salvar também falha. E um sistema que dá tudo a quem tem a sorte de nascer em família com recursos, e pouco às crianças sem família, pode ser criticado como sistema. A família se justifica de modo imparcial, porque é a melhor forma de garantir amor e cuidado às crianças; o defeito está em não estender esse benefício a todas.
 
+## Quando a parcialidade derrota a si mesma
+
+Derek Parfit mostrou um problema curioso na moral do senso comum. Imagine dois pais que não conseguem se comunicar. Cada um pode proteger o próprio filho de um dano pequeno ou proteger o filho do outro de um dano um pouco maior. Se cada um seguir a regra “meu filho primeiro”, os dois filhos acabam sofrendo mais do que sofreriam se ambos tivessem escolhido o dano maior a evitar. A regra, seguida por todos, piora justamente o que ela manda proteger. Parfit chamou isso de teoria diretamente autoderrotante em termos coletivos, e concluiu que a moral comum precisa de um complemento: quando muitas pessoas enfrentam o mesmo dilema, cada uma deve fazer o que, feito por todas, seria melhor para os que ela quer proteger. É a mesma lógica das brigas por recursos comuns e do dilema do prisioneiro.
+
 ## Quanto a mais?
 
 Não há fórmula, mas há um teste: a prioridade aos seus deve ser a que você aceitaria que todos dessem aos seus. Um pai que gasta em aula de piano enquanto outras crianças passam fome está dentro do que todos aceitam; um pai que suborna um juiz pelo filho, não. O teste de universalidade decide.
@@ -1990,6 +1994,7 @@ Dilemas para testar: A criança no lago.
 - Special Obligations (Stanford Encyclopedia)
 - Persons, Character and Morality
 - Can Ethics Provide Answers? And Other Essays in Moral Philosophy
+- Reasons and Persons
 
 ← AnteriorIgualdade humana: em que ela se baseia?Próxima →Dilemas do cotidiano: mentiras, promessas e consumo
 
@@ -7170,6 +7175,20 @@ Cada saída custa algo que parecia óbvio; Parfit chamou isso de o problema mais
 
 Compare o mundo A, com 10 bilhões de pessoas vivendo muito bem, e o mundo Z, com trilhões de pessoas cujas vidas são apenas um pouco melhores do que nada. Se o que importa é a soma total de bem-estar, Z é melhor, porque a soma é maior. Parfit chamou isso de conclusão repugnante, e passou décadas buscando uma teoria que a evitasse sem cair em outra conclusão igualmente ruim. Não achou. Veja o dilema.
 
+## Como se chega lá: o paradoxo da mera adição
+
+A conclusão repugnante não aparece de uma vez. Parfit mostrou que se chega a ela por passos que parecem, cada um, inocentes:
+
+- Mundo A: uma população com vidas muito boas.
+
+- Mundo A+: a mesma população, igualmente bem, mais um grupo separado com vidas menos boas, mas que valem a pena, e que não prejudica ninguém. Parece difícil dizer que A+ é pior do que A: só se acrescentaram vidas boas, sem dano a ninguém. É a “mera adição”.
+
+- Mundo B: as mesmas pessoas de A+, agora com bem-estar igual para todos, num nível um pouco abaixo do grupo mais feliz e bem acima do outro. B tem mais bem-estar total e mais igualdade do que A+, e parece melhor.
+
+- Repita: cada passo parece aceitável, e a repetição termina num mundo enorme de vidas que mal valem a pena, o mundo Z.
+
+Para fugir da conclusão, é preciso negar um dos passos, e cada negação tem um custo: dizer que acrescentar vidas boas pode piorar o mundo, ou que mais bem-estar e mais igualdade juntos podem piorá-lo, ou que “melhor do que” não é transitivo. É por isso que o problema resiste há décadas.
+
 ## As saídas e seus custos
 
 | Saída | Como evita | Novo problema |
@@ -7565,6 +7584,8 @@ Parfit diz que a Relação R está preservada e é o que importa; a identidade �
 ## O que importa não é a identidade
 
 Imagine um teletransporte que copia cada célula sua em Marte e destrói o original. A cópia acorda com suas memórias, seu caráter e suas intenções. É você? Parfit diz que a pergunta não tem resposta profunda, e não precisa ter: o que importa é a continuidade psicológica (a Relação R, memória, intenção, caráter, com qualquer causa), e ela está preservada. Se um dia a máquina produzir duas cópias, nenhuma será “você” mais do que a outra, e nada do que importa se perdeu. Somos como nações ou clubes: existimos, mas não há um fato extra, uma alma ou um eu cartesiano, além da sequência ligada de experiências.
+
+Para Parfit, essa conclusão não era triste, e sim libertadora. Enquanto acreditava num eu separado e profundo, dizia, sentia a vida como um túnel de vidro, percorrido cada vez mais depressa, com escuridão no fim. Ao abandonar essa crença, as paredes do túnel sumiram: a diferença entre a vida dele e a dos outros ficou menor, ele passou a se importar mais com os outros, e a própria morte pareceu menos ruim, porque deixou de ser o fim de um fato misterioso e passou a ser o fim de certas ligações entre experiências, enquanto outras ligações continuam, nas lembranças e no que fica do que fizemos. A ideia lembra a do budismo, que Parfit cita, de que o eu não é uma coisa à parte.
 
 ## Três consequências morais
 
@@ -9103,6 +9124,10 @@ Pelo valor esperado, B vence A. Mas repare: em 70% dos casos, B não cura ningu�
 
 O valor esperado tem um problema conhecido: uma probabilidade minúscula multiplicada por um valor imenso pode dominar qualquer decisão. É o assalto de Pascal: alguém diz “me dê sua carteira ou eu causarei sofrimento a um trilhão de pessoas”; a chance de ser verdade é ínfima, mas o valor esperado da recusa é astronômico. Levar isso ao pé da letra é fanatismo. As respostas: descontar probabilidades abaixo de um limiar, limitar a agregação, ou aceitar que a teoria da decisão não é um algoritmo e precisa de juízo. Veja riscos X e S.
 
+O outro lado também é um erro. Parfit chamou de “ignorar chances pequenas” a ideia de que probabilidades muito baixas não têm importância moral. Quando o que está em jogo atinge milhões de pessoas, uma chance minúscula pode ter grande valor esperado. O exemplo dele é o voto: numa eleição grande e disputada, a chance de um voto decidir é ínfima, mas, multiplicada pelo efeito da decisão sobre milhões de pessoas, o valor esperado de votar bem pode superar com folga o custo de ir votar. O limiar de descarte serve para ameaças absurdas como a do assalto de Pascal, não para riscos reais e bem estimados.
+
+Parfit também examinou como tratamos o tempo. Quase todos preferimos uma dor maior no futuro distante a uma dor menor hoje, o viés do próximo, e preferimos que uma dor já tenha passado a que ainda venha, mesmo que a passada tenha sido muito maior, o viés do futuro. Para mostrar o problema, ele imaginou alguém indiferente às próprias dores nas terças-feiras futuras, que escolheria uma cirurgia agonizante numa terça em vez de uma leve numa quarta. Todos veem que isso é irracional: o dia da semana não é razão. A pergunta incômoda é por que a simples distância no tempo seria uma razão melhor.
+
 ## O que isso muda na ética
 
 - Incerteza empírica: o consequencialismo passa a ser sobre resultados esperados, não reais. Um ato pode ser certo e dar errado.
@@ -9143,6 +9168,7 @@ Nos debates: Devemos priorizar o futuro distante?, Doar para as causas mais efic
 - Risk and Rationality
 - Pascal’s mugging (Wikipédia)
 - Moral Uncertainty
+- Reasons and Persons
 
 ← AnteriorIncerteza moral: agir sem saber qual teoria é a certaPróxima →Probabilidade e ética: pensar em graus
 
