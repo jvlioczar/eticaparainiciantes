@@ -31,6 +31,7 @@ LIVROS = [
  b('A Teoria dos Sentimentos Morais', 'Adam Smith', 'A moral fundada na simpatia e no “espectador imparcial”, pelo autor que antes de economista foi filósofo moral (1759).', AVA),
  b('Uma Introdução aos Princípios da Moral e da Legislação', 'Jeremy Bentham', 'Obra fundadora do utilitarismo (1789): leis julgadas pelo prazer e pela dor que causam, com a pergunta sobre os animais: podem sofrer?', AVA),
  b('Os Métodos da Ética', 'Henry Sidgwick', 'A formulação mais rigorosa do utilitarismo (1874) e o dualismo da razão prática.', AVA, 'https://www.gutenberg.org/ebooks/46743'),
+ b('Can Ethics Provide Answers? And Other Essays in Moral Philosophy', 'James Rachels', 'Ensaios (1997, em inglês) sobre eutanásia, animais, adoração e autonomia moral, privacidade, merecimento, preconceito e o que pais devem aos filhos e às crianças dos outros.', INTM),
  b('Principia Ethica', 'G. E. Moore', 'O argumento da questão em aberto e o não naturalismo (1903).', AVA),
  b('The Right and the Good', 'W. D. Ross', 'Os deveres prima facie e o intuicionismo (1930).', AVA),
  b('The Language of Morals', 'R. M. Hare', 'O prescritivismo: juízos morais como prescrições universalizáveis (1952).', AVA),

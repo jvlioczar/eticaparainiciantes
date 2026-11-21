@@ -1946,6 +1946,22 @@ A parcialidade legítima tem dois limites que a separam do tribalismo:
 
 A nacionalidade fica na fronteira: há instituições compartilhadas (relação), mas também um traço de nascimento. A maioria dos filósofos aceita alguma prioridade aos compatriotas por razões institucionais, e rejeita que a vida de um estrangeiro valha menos. Veja o debate sobre fronteiras.
 
+## Necessidades dos outros, luxos dos seus
+
+James Rachels examinou a versão mais dura da pergunta: o que pais devem aos próprios filhos e o que devem às crianças dos outros. Ele separou quatro respostas:
+
+| Posição | O que diz | O problema |
+
+| Parcialidade extrema | Não devemos nada às crianças dos outros; ajudar é bonito, mas opcional | Ignora um dever básico de beneficência com quem passa fome |
+
+| Igualdade completa | O próprio filho não conta mais que qualquer criança | Recusa o amor próprio da relação entre pais e filhos |
+
+| A visão comum | Primeiro todo o conforto dos nossos, depois, se sobrar, os outros | Aceita dar brinquedos da moda a uns enquanto outros não têm o que comer |
+
+| Parcialidade com limite | Entre necessidades parecidas, os seus vêm primeiro; mas necessidade de outra criança vem antes de luxo da sua | É exigente: obriga a rever muito do que parece normal |
+
+Ele defendeu a última, com três observações. Explicar de onde vem um sentimento, como a evolução explica o apego aos filhos, não mostra que ele é justo. O argumento dos papéis sociais mostra que o dever com os filhos tem outra base, mas não que seja mais forte: quem ignora o próprio filho é um mau pai, e quem ignora uma criança que poderia salvar também falha. E um sistema que dá tudo a quem tem a sorte de nascer em família com recursos, e pouco às crianças sem família, pode ser criticado como sistema. A família se justifica de modo imparcial, porque é a melhor forma de garantir amor e cuidado às crianças; o defeito está em não estender esse benefício a todas.
+
 ## Quanto a mais?
 
 Não há fórmula, mas há um teste: a prioridade aos seus deve ser a que você aceitaria que todos dessem aos seus. Um pai que gasta em aula de piano enquanto outras crianças passam fome está dentro do que todos aceitam; um pai que suborna um juiz pelo filho, não. O teste de universalidade decide.
@@ -1973,6 +1989,7 @@ Dilemas para testar: A criança no lago.
 - Impartiality (Stanford Encyclopedia)
 - Special Obligations (Stanford Encyclopedia)
 - Persons, Character and Morality
+- Can Ethics Provide Answers? And Other Essays in Moral Philosophy
 
 ← AnteriorIgualdade humana: em que ela se baseia?Próxima →Dilemas do cotidiano: mentiras, promessas e consumo
 
@@ -3311,6 +3328,12 @@ Teólogos e filósofos como Robert Adams propuseram uma terceira via: Deus manda
 
 - Proteção contra o abuso: “Deus quer” já justificou guerras, escravidão e perseguições. Um padrão de bondade examinável é um freio.
 
+## O argumento da autonomia moral
+
+Em 1971, James Rachels propôs um argumento provocador a partir da adoração. Adorar alguém não é só admirá-lo ou temê-lo: é assumir o papel de quem obedece sem reservas, como Abraão diante da ordem de sacrificar Isaac. Mas ser um agente moral é exatamente não entregar o próprio juízo a ninguém: quem diz “farei o que tal autoridade mandar, diga a minha consciência o que disser” abandonou a moral, seja a autoridade a lei, a tradição ou um deus. Conclusão de Rachels: nenhum ser poderia merecer adoração, e um deus entendido como digno de adoração não poderia existir.
+
+A resposta religiosa mais comum é que Deus, sendo perfeitamente bom, só mandaria o que é certo. Rachels nota que isso inverte a ordem: para saber que um ser é perfeitamente bom, precisamos primeiro julgar, por conta própria, que o que ele manda é certo, e esse juízo continua nosso. O argumento é controverso. Filósofos da religião, como Philip Quinn, responderam que confiar em quem se julgou digno de confiança pode ser, ele mesmo, um exercício de autonomia, assim como seguir um médico em quem se confia. O debate ajuda a ver o que o dilema de Eutífron já sugeria: mesmo quem fundamenta a moral na religião usa o próprio juízo moral para reconhecer o que é divino.
+
 ## Pessoas sem religião têm moral?
 
 Os dados dizem que sim: taxas de crime, confiança e cooperação não são piores em sociedades menos religiosas, e indivíduos não religiosos relatam os mesmos juízos básicos sobre dano e justiça. Isso é compatível com a opção B: o padrão moral é acessível a todos. O que varia é a motivação e a comunidade, não o conteúdo central.
@@ -3336,6 +3359,7 @@ Nos debates: De onde vem a moral?, Religião na política.
 - Eutífron (Wikipédia)
 - Religion and Morality (Stanford Encyclopedia)
 - Divine Command Theory (Internet Encyclopedia of Philosophy)
+- Can Ethics Provide Answers? And Other Essays in Moral Philosophy
 
 ← AnteriorIntenção e previsão: o duplo efeito e os deveres prima faciePróxima →A moralidade sem religião
 
@@ -6843,6 +6867,8 @@ Animais selvagens sofrem muito, por causas naturais. Durante décadas, filósofo
 
 ## O que uma pessoa pode fazer
 
+A objeção mais comum é que uma pessoa sozinha não muda nada: a indústria é grande demais para sentir a falta de um cliente. James Rachels respondeu com uma comparação. Em 1820, alguém poderia raciocinar do mesmo modo sobre comprar pessoas escravizadas: “a prática é errada, mas se eu não comprar, outro compra”. Duas coisas estão erradas nesse raciocínio. Primeiro, a escolha individual faz parte de uma escolha coletiva: há milhões de pessoas que não compram, e por causa delas há menos sofrimento do que haveria. Segundo, mesmo sem efeito mensurável, quem considera uma prática imoral tem razão para não participar dela; o escritor Henry David Thoreau dizia, sobre a escravidão, que quem não quer lutar contra ela tem ao menos o dever de não sustentá-la.
+
 - Comer de outro jeito: é a maior redução de sofrimento ao alcance individual. Não precisa ser perfeito; reduzir já conta, e começar pelos produtos de maior sofrimento por porção (frango, ovos de gaiola, peixe de criação) tem mais efeito. Veja o Guia de Alimentos Éticos .
 
 - Apoiar mudanças de regra: leis contra gaiolas, atordoamento obrigatório, fim de subsídios à criação intensiva. Mudanças de política afetam bilhões.
@@ -6876,6 +6902,7 @@ Nos debates: Explorar animais, Experimentação em animais, Ter animais de estim
 - Fishcount: estimativas de peixes capturados
 - Animal Ethics: a situação dos animais na natureza
 - Animal Charity Evaluators
+- Can Ethics Provide Answers? And Other Essays in Moral Philosophy
 
 ← AnteriorEspecismo e a igual consideração de interessesPróxima →O sofrimento dos animais selvagens
 

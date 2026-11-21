@@ -71,10 +71,19 @@ dict(slug='parcialidade-e-deveres-especiais', grupo='Quem conta', titulo='Parcia
 <li><strong>Ela se baseia em relações, não em traços.</strong> Preferir quem você conhece é parcialidade; preferir quem tem sua cor, sua nação ou sua espécie é discriminação. A diferença: a relação é algo que existe entre vocês; o traço é algo que a pessoa é.</li>
 </ol>
 <p>A nacionalidade fica na fronteira: há instituições compartilhadas (relação), mas também um traço de nascimento. A maioria dos filósofos aceita alguma prioridade aos compatriotas por razões institucionais, e rejeita que a vida de um estrangeiro valha menos. Veja o <a href="debates/imigracao.html">debate sobre fronteiras</a>.</p>
+<h2>Necessidades dos outros, luxos dos seus</h2>
+<p>James Rachels examinou a versão mais dura da pergunta: o que pais devem aos próprios filhos e o que devem às crianças dos outros. Ele separou quatro respostas:</p>
+<table><thead><tr><th>Posição</th><th>O que diz</th><th>O problema</th></tr></thead><tbody>
+<tr><td><strong>Parcialidade extrema</strong></td><td>Não devemos nada às crianças dos outros; ajudar é bonito, mas opcional</td><td>Ignora um dever básico de beneficência com quem passa fome</td></tr>
+<tr><td><strong>Igualdade completa</strong></td><td>O próprio filho não conta mais que qualquer criança</td><td>Recusa o amor próprio da relação entre pais e filhos</td></tr>
+<tr><td><strong>A visão comum</strong></td><td>Primeiro todo o conforto dos nossos, depois, se sobrar, os outros</td><td>Aceita dar brinquedos da moda a uns enquanto outros não têm o que comer</td></tr>
+<tr><td><strong>Parcialidade com limite</strong></td><td>Entre necessidades parecidas, os seus vêm primeiro; mas necessidade de outra criança vem antes de luxo da sua</td><td>É exigente: obriga a rever muito do que parece normal</td></tr>
+</tbody></table>
+<p>Ele defendeu a última, com três observações. Explicar de onde vem um sentimento, como a evolução explica o apego aos filhos, não mostra que ele é justo. O argumento dos papéis sociais mostra que o dever com os filhos tem outra base, mas não que seja mais forte: quem ignora o próprio filho é um mau pai, e quem ignora uma criança que poderia salvar também falha. E um sistema que dá tudo a quem tem a sorte de nascer em família com recursos, e pouco às crianças sem família, pode ser criticado como sistema. A família se justifica de modo imparcial, porque é a melhor forma de garantir amor e cuidado às crianças; o defeito está em não estender esse benefício a todas.</p>
 <h2>Quanto a mais?</h2>
 <p>Não há fórmula, mas há um teste: a prioridade aos seus deve ser a que você aceitaria que todos dessem aos seus. Um pai que gasta em aula de piano enquanto outras crianças passam fome está dentro do que todos aceitam; um pai que suborna um juiz pelo filho, não. O teste de <a href="imparcialidade.html">universalidade</a> decide.</p>
 <div class="nota"><strong>Para guardar:</strong> a imparcialidade não pede que você ame todos igualmente. Pede que as regras que permitem amar mais os seus sejam as mesmas para todos, e que o seu amor não custe aos outros o que você não aceitaria que custasse aos seus.</div>
-''', fontes=[('Impartiality (Stanford Encyclopedia)', SEP + 'impartiality/'), ('Special Obligations (Stanford Encyclopedia)', SEP + 'special-obligations/'), ('Persons, Character and Morality', 'https://www.google.com/search?tbm=bks&q=Bernard+Williams+Moral+Luck+Persons+Character+and+Morality')]),
+''', fontes=[('Impartiality (Stanford Encyclopedia)', SEP + 'impartiality/'), ('Special Obligations (Stanford Encyclopedia)', SEP + 'special-obligations/'), ('Persons, Character and Morality', 'https://www.google.com/search?tbm=bks&q=Bernard+Williams+Moral+Luck+Persons+Character+and+Morality'), ('Can Ethics Provide Answers? And Other Essays in Moral Philosophy', 'https://www.google.com/search?tbm=bks&q=Rachels+Can+Ethics+Provide+Answers')]),
 ]
 
 NOVAS3_INTERMEDIARIO = [
