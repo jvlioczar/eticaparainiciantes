@@ -5251,6 +5251,8 @@ Thomas Nagel descreveu o absurdo como o choque entre a seriedade com que vivemos
 
 Primeiro, uma proteção: Wolf, em Moral Saints, argumentou que uma vida inteiramente dedicada à moral seria pobre, e que a ética não pode exigir que se abandone o que dá sentido (veja quanto a moral pode exigir). Segundo, uma convergência: contribuir para o bem de outros é uma das fontes mais seguras de sentido, e por isso altruísmo e sentido raramente competem. Viktor Frankl, sobrevivente de Auschwitz, observou que quem tinha um porquê (alguém a reencontrar, uma obra a terminar) resistia melhor; o sentido sustenta a moral tanto quanto a moral dá sentido.
 
+Peter Singer, no capítulo final de Ética Prática, usa essa ligação para responder à velha pergunta “por que agir moralmente?”. Ele lembra o chamado paradoxo do hedonismo: quem busca a felicidade diretamente costuma não encontrá-la, e quem se dedica a objetivos fora de si costuma encontrá-la de quebra. Não é uma lei, e Singer admite que faltam provas firmes e que há pessoas, como alguns psicopatas, que parecem viver satisfeitas sem se importar com ninguém. Mas, para quem procura um sentido que vá além dos próprios estados de consciência, o ponto de vista ético, que considera os interesses de todos, é uma das causas mais amplas e duradouras que existem. Não prova que todos têm razão para ser morais; mostra que a moral não é só um sacrifício.
+
 ## Para guardar
 
 - Sentido não é felicidade nem moralidade: é envolver-se com algo que vale a pena (Wolf).
@@ -5276,6 +5278,7 @@ Nos debates: Se tudo vai acabar, por que evitar a extinção?.
 - Meaning in Life
 - The Absurd
 - Em Busca de Sentido
+- Ética Prática
 
 ← AnteriorEducação moral: como se forma uma pessoa boa?Próxima →Contratualismo: a moral como acordo
 
@@ -7609,6 +7612,8 @@ Duas regras ajudam. Primeiro, “é contraintuitivo” não é um argumento, é 
 
 Em 2012, os filósofos Alberto Giubilini e Francesca Minerva publicaram no Journal of Medical Ethics um artigo argumentando que, se as razões aceitas para o aborto valem, valeriam também em alguns casos logo após o nascimento. A maioria dos filósofos rejeita a conclusão, e muitos a tomam como prova de que alguma premissa sobre o aborto está errada. Mas a reação mostrou outra coisa: os autores receberam ameaças de morte. O caso virou exemplo de como discutir uma ideia e defender uma prática são coisas diferentes, e de como o medo pode calar o debate acadêmico.
 
+Não foi o primeiro caso. Entre 1989 e 1991, cursos que usavam o livro Ética Prática, de Peter Singer, foram interrompidos por protestos em universidades da Alemanha e da Áustria, palestras dele foram canceladas e um congresso de bioética teve de ser transferido para a Holanda por falta de segurança. O motivo era um capítulo em que Singer defende a eutanásia de recém-nascidos com deficiências muito graves, num país marcado pelo programa nazista que matou pessoas com deficiência. Singer descreveu o padrão das críticas que recebeu: citar trechos fora de contexto, expressar horror, comparar com o nazismo e evitar as perguntas de fundo, como por que a eutanásia de bebês seria muito pior do que o aborto para quem aceita o segundo. Os críticos, entre eles muitas organizações de pessoas com deficiência, respondiam que a posição dele trata suas vidas como de menor valor e que isso tem efeitos reais sobre como são vistas. Os dois lados mostram o que está em jogo: a liberdade de examinar argumentos e o peso que eles têm para quem é afetado.
+
 ## O Journal of Controversial Ideas
 
 Foi nesse contexto que Francesca Minerva, Jeff McMahan e Peter Singer criaram o Journal of Controversial Ideas, lançado em 2021. É uma revista acadêmica de acesso aberto, com revisão por pares, que aceita artigos sobre temas que costumam provocar reações hostis e permite que os autores publiquem com pseudônimo, para se proteger de ameaças e de danos à carreira. A proposta é que ideias sejam julgadas por argumentos e evidências, e não pelo desconforto que causam.
@@ -7644,6 +7649,7 @@ Erro comum: “Se a conclusão é absurda, nem vale a pena discutir o argumento.
 - A Defense of Abortion (1971)
 - Reflective Equilibrium (Stanford Encyclopedia)
 - Academic freedom (Wikipédia)
+- Ética Prática
 
 ← AnteriorAbertura moral: como revisar o que você acreditaVocê chegou ao fim do curso
 
@@ -11330,6 +11336,7 @@ Nascer em um país rico ou pobre decide mais da vida de uma pessoa do que qualqu
 - “Abertas” e “fechadas” são extremos que ninguém defende; a questão é quanto e como, e a evidência sobre efeitos varia por contexto e velocidade.
 - Deveres com compatriotas são reais, mas não implicam que estrangeiros não contem; a pergunta é quanto peso a mais a nacionalidade pode ter.
 - A causa da migração forçada (guerra, clima, pobreza) muitas vezes envolve os países de destino, o que muda o dever de reparação.
+- Singer reconhece o limite do próprio argumento: a igual consideração levada ao extremo pediria receber refugiados até igualar a pobreza dos países de origem, o que ele não defende. Mas isso não refuta o argumento: os países ricos poderiam ao menos dobrar o número de refugiados que recebem e seguir aumentando até que os efeitos negativos, sobre o ambiente ou sobre a tolerância da população local, deixassem de ser especulação e virassem risco real.
 
 ## Onde a razão pesa
 A razão pesa para um lado, com ressalvasEm princípio, o peso está com a abertura: o lugar de nascimento não é razão moral, e a evidência econômica favorece a migração. Os argumentos de autodeterminação e coesão têm força sobre o ritmo e as condições, não sobre o direito de excluir quem foge de perigo. A posição mais defendida é muito mais abertura do que a atual, com instituições que distribuam os custos de transição.
